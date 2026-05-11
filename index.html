@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tin tức Dân Trí - Cập nhật tự động</title>
+    <style>
+        * { box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background-color: #f4f7f6; 
+            color: #333; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            padding: 20px; 
+        }
+        h1 { 
+            text-align: center; 
+            color: #00803d; /* Màu xanh lá đặc trưng của một số trang báo */
+            border-bottom: 3px solid #00803d;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        .news-container { margin-top: 20px; }
+        .news-item { 
+            background: #fff; 
+            padding: 20px; 
+            margin-bottom: 20px; 
+            border-radius: 8px; 
+            border-left: 5px solid #00803d;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05); 
+            transition: transform 0.2s ease;
+        }
+        .news-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.1); 
+        }
+        .news-item h2 { margin: 0 0 10px 0; font-size: 1.3rem; }
+        .news-item h2 a { text-decoration: none; color: #222; font-weight: bold; }
+        .news-item h2 a:hover { color: #00803d; }
+        .news-item p { margin: 0 0 15px 0; font-size: 1rem; color: #555; line-height: 1.6; }
+        .news-date { font-size: 0.85rem; color: #888; display: inline-block; background: #eee; padding: 4px 8px; border-radius: 4px;}
+        .loading { text-align: center; font-style: italic; color: #666; font-size: 1.1rem; }
+    </style>
+</head>
+<body>
+
+    <h1>Tin Tức Dân Trí Tự Động</h1>
+    <div id="news-container" class="news-container">
+        <p class="loading">⏳ Đang lấy dữ liệu mới nhất...</p>
+    </div>
+
+    <script>
+        async function fetchAndDisplayNews() {
+            const container = document.getElementById('news-container');
+            
+            // Lấy thêm tham số timestamp để tránh bị cache trình duyệt (luôn lấy file JSON mới nhất)
+            const jsonUrl = 'dantri_news.json?t=' + new Date().getTime();
+
+            try {
+                const response = await fetch(jsonUrl);
+                
+                if (!response.ok) {
+                    throw new Error('Không tìm thấy file JSON.');
+                }
+
+                const newsData = await response.json();
+                container.innerHTML = ''; 
+
+                if (newsData.length === 0) {
+                    container.innerHTML = '<p style="text-align:center;">Chưa có bài báo nào được lấy.</p>';
+                    return;
+                }
+
+                newsData.forEach(item => {
+                    const articleDiv = document.createElement('div');
+                    articleDiv.className = 'news-item';
+                    
+                    // Loại bỏ các thẻ HTML rác trong phần description (nếu có) để giao diện sạch sẽ hơn
+                    let summaryText = item.summary || '';
+                    
+                    articleDiv.innerHTML = `
+                        <h2><a href="${item.link}" target="_blank">${item.title}</a></h2>
+                        <p>${summaryText}</p>
+                        <div class="news-date">🕒 ${item.published}</div>
+                    `;
+                    container.appendChild(articleDiv);
+                });
+
+            } catch (error) {
+                console.error("Lỗi tải tin: ", error);
+                container.innerHTML = '<p style="color: red; text-align:center;">Chưa có dữ liệu. Vui lòng đợi GitHub Actions chạy lần đầu tiên để tạo file dantri_news.json.</p>';
+            }
+        }
+
+        window.onload = fetchAndDisplayNews;
+    </script>
+
+</body>
+</html>
