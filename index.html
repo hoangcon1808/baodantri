@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tin Tức Dân Trí - Tự Động Cập Nhật</title>
+    <title>Tin Tức Dân Trí - Đa Chủ Đề</title>
     <style>
         :root {
-            --primary-color: #00803d; /* Màu xanh của Dân Trí */
+            --primary-color: #00803d; 
             --bg-color: #f0f2f5;
             --text-color: #333;
             --card-bg: #ffffff;
@@ -83,7 +83,6 @@
         }
         .status { text-align: center; font-style: italic; color: #666; padding: 20px; }
         
-        /* Chỉnh sửa giao diện trên điện thoại */
         @media (max-width: 500px) {
             .meta-info { flex-direction: column; gap: 10px; text-align: center; }
             h1 { font-size: 1.6rem; }
@@ -94,13 +93,13 @@
 
     <div class="container">
         <header>
-            <h1>Tin Tức Dân Trí</h1>
-            <p>Tự động cập nhật mỗi 10 phút bằng GitHub Actions</p>
+            <h1>Đọc Báo Dân Trí</h1>
+            <p>Tự động tổng hợp tin mới mỗi 10 phút</p>
         </header>
 
         <div class="meta-info">
             <span id="last-updated">Trạng thái: Đang kết nối...</span>
-            <button class="refresh-btn" onclick="fetchAndDisplayNews()">🔄 Làm mới tin ngay</button>
+            <button class="refresh-btn" onclick="fetchAndDisplayNews()">🔄 Làm mới tin</button>
         </div>
 
         <div id="news-container">
@@ -112,52 +111,45 @@
         async function fetchAndDisplayNews() {
             const container = document.getElementById('news-container');
             const timeSpan = document.getElementById('last-updated');
-            
-            // Thêm tham số 't' (timestamp) để lừa trình duyệt, giúp nó luôn tải file JSON mới nhất trên Github thay vì dùng file cũ trong bộ nhớ đệm
             const jsonUrl = 'dantri_news.json?t=' + new Date().getTime(); 
 
-            container.innerHTML = '<p class="status">⏳ Đang lấy dữ liệu mới nhất...</p>';
+            container.innerHTML = '<p class="status">⏳ Đang tải tin tức...</p>';
 
             try {
                 const response = await fetch(jsonUrl);
-                
                 if (!response.ok) throw new Error('Không tìm thấy dữ liệu.');
 
                 const newsData = await response.json();
                 container.innerHTML = ''; 
 
                 if (newsData.length === 0) {
-                    container.innerHTML = '<p class="status">Chưa có bài báo nào. Có thể Dân Trí đang thay đổi giao diện, hãy đợi lượt quét sau.</p>';
+                    container.innerHTML = '<p class="status">Chưa có bài báo nào được tải xuống.</p>';
                     return;
                 }
 
-                // Cập nhật hiển thị thời gian làm mới
                 const now = new Date();
                 timeSpan.innerHTML = 'Lần tải cuối: <b>' + now.toLocaleTimeString('vi-VN') + '</b>';
 
-                // Duyệt qua từng bài báo và in ra màn hình
                 newsData.forEach(item => {
                     const div = document.createElement('div');
                     div.className = 'news-item';
                     
-                    // Nếu bài không có đoạn tóm tắt (vì trang chủ có bài có, bài không), sẽ in dòng text mặc định
                     let summaryText = item.summary ? item.summary : 'Nhấn vào tiêu đề để xem chi tiết bài viết...';
                     
                     div.innerHTML = `
                         <h2><a href="${item.link}" target="_blank">${item.title}</a></h2>
                         <p>${summaryText}</p>
-                        <span class="news-tag">🔥 ${item.published}</span>
+                        <span class="news-tag">📌 ${item.category}</span>
                     `;
                     container.appendChild(div);
                 });
 
             } catch (error) {
                 console.error("Lỗi: ", error);
-                container.innerHTML = '<p class="status" style="color: red;">❌ Không tải được tin tức. Hãy kiểm tra xem file <b>dantri_news.json</b> đã được tạo trên kho lưu trữ của bạn chưa (Vào tab Actions chạy thử).</p>';
+                container.innerHTML = '<p class="status" style="color: red;">❌ Không tải được dữ liệu. Vui lòng chạy GitHub Actions để tạo file JSON.</p>';
             }
         }
 
-        // Tự động chạy hàm lấy tin ngay khi load xong web
         window.onload = fetchAndDisplayNews;
     </script>
 
