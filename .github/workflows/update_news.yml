@@ -1,16 +1,14 @@
 name: Tự động cập nhật tin Dân Trí
 
-# Cấu hình thời gian chạy 10 phút/lần
 on:
   schedule:
     - cron: '*/10 * * * *'
-  workflow_dispatch: # Cho phép bấm nút chạy thủ công trên Github
+  workflow_dispatch:
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     
-    # Cấp quyền cho Action được phép ghi (commit & push) vào repository
     permissions:
       contents: write
 
@@ -23,20 +21,19 @@ jobs:
         with:
           python-version: '3.10'
 
+      # --- BƯỚC NÀY SẼ SỬA LỖI CỦA BẠN ---
+      - name: Cài đặt thư viện quét web
+        run: pip install requests beautifulsoup4
+      # -----------------------------------
+
       - name: Chạy Script lấy tin
         run: python fetch_news.py
 
-      - name: Commit và Push file JSON lên GitHub
+      - name: Commit và Push file JSON
         run: |
-          # Thiết lập thông tin bot để commit
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Thêm file json vào git
           git add dantri_news.json
-          
-          # Chỉ commit nếu có sự thay đổi (tránh lỗi khi không có tin mới)
-          git commit -m "Cập nhật dữ liệu Dân Trí [skip ci]" || exit 0
-          
-          # Đẩy code lên nhánh hiện tại
+          git commit -m "Cập nhật dữ liệu từ trang chủ Dân Trí [skip ci]" || exit 0
           git push
