@@ -21,10 +21,8 @@ jobs:
         with:
           python-version: '3.10'
 
-      # --- BƯỚC NÀY SẼ SỬA LỖI CỦA BẠN ---
       - name: Cài đặt thư viện quét web
         run: pip install requests beautifulsoup4
-      # -----------------------------------
 
       - name: Chạy Script lấy tin
         run: python fetch_news.py
@@ -35,5 +33,5 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           git add dantri_news.json
-          git commit -m "Cập nhật dữ liệu từ trang chủ Dân Trí [skip ci]" || exit 0
+          git commit -m "Cập nhật dữ liệu từ Dân Trí [skip ci]" || exit 0
           git push
