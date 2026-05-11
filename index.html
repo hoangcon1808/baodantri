@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tin Tức Dân Trí - Đa Chủ Đề</title>
+    <title>Tin Tức Dân Trí - Toàn Bộ Chủ Đề</title>
     <style>
         :root {
             --primary-color: #00803d; 
@@ -21,7 +21,7 @@
             padding: 20px;
         }
         .container {
-            max-width: 1200px; /* Mở rộng chiều ngang để chứa lưới phân trang */
+            max-width: 1400px; /* Nới rộng tối đa để chứa 16 chuyên mục đẹp mắt */
             margin: 0 auto; 
         }
         header {
@@ -57,14 +57,13 @@
         }
         .refresh-btn:hover { background-color: #006630; transform: scale(1.05); }
 
-        /* Bố cục lưới cho các khu vực chủ đề */
+        /* Bố cục lưới tự động co giãn */
         .categories-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            gap: 25px;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 20px;
         }
 
-        /* Khung hiển thị từng chủ đề */
         .category-section {
             background: var(--card-bg);
             border-radius: var(--border-radius);
@@ -72,13 +71,14 @@
             overflow: hidden;
             display: flex;
             flex-direction: column;
-            height: 500px; /* Chiều cao cố định để tạo thanh cuộn */
+            height: 450px; 
+            border: 1px solid #eaeaea;
         }
         .category-header {
             background-color: var(--primary-color);
             color: white;
-            padding: 15px 20px;
-            font-size: 1.2rem;
+            padding: 12px 18px;
+            font-size: 1.1rem;
             font-weight: bold;
             display: flex;
             justify-content: space-between;
@@ -88,42 +88,37 @@
             background: rgba(255,255,255,0.2);
             padding: 2px 10px;
             border-radius: 20px;
-            font-size: 0.85rem;
+            font-size: 0.8rem;
         }
         
-        /* Khu vực cuộn tin tức */
         .scrollable-content {
             flex-grow: 1;
             overflow-y: auto;
             padding: 15px;
         }
-        /* Tùy chỉnh thanh cuộn cho đẹp */
-        .scrollable-content::-webkit-scrollbar { width: 6px; }
+        .scrollable-content::-webkit-scrollbar { width: 5px; }
         .scrollable-content::-webkit-scrollbar-track { background: #f1f1f1; }
-        .scrollable-content::-webkit-scrollbar-thumb { background: #bbb; border-radius: 10px; }
-        .scrollable-content::-webkit-scrollbar-thumb:hover { background: #888; }
+        .scrollable-content::-webkit-scrollbar-thumb { background: #ccc; border-radius: 10px; }
+        .scrollable-content::-webkit-scrollbar-thumb:hover { background: #999; }
 
-        /* Từng bài báo bên trong */
         .news-item { 
-            padding: 15px; 
-            margin-bottom: 15px; 
-            border-bottom: 1px dashed #ddd;
-            transition: background 0.2s;
+            padding: 12px 0; 
+            border-bottom: 1px dashed #eee;
         }
-        .news-item:last-child { border-bottom: none; margin-bottom: 0; }
-        .news-item:hover { background-color: #f9f9f9; border-radius: 8px; }
+        .news-item:first-child { padding-top: 0; }
+        .news-item:last-child { border-bottom: none; padding-bottom: 0; }
         
-        .news-item h3 { margin-bottom: 8px; font-size: 1.1rem; line-height: 1.4; }
-        .news-item h3 a { text-decoration: none; color: #222; }
-        .news-item h3 a:hover { color: var(--primary-color); text-decoration: underline; }
-        .news-item p { color: #666; font-size: 0.9rem; margin: 0; }
+        .news-item h3 { margin-bottom: 6px; font-size: 1rem; line-height: 1.4; }
+        .news-item h3 a { text-decoration: none; color: #111; font-weight: 600; }
+        .news-item h3 a:hover { color: var(--primary-color); }
+        .news-item p { color: #666; font-size: 0.85rem; margin: 0; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
         
         .status { text-align: center; font-style: italic; color: #666; padding: 20px; grid-column: 1 / -1; }
         
         @media (max-width: 600px) {
             .meta-info { flex-direction: column; gap: 15px; text-align: center; }
             h1 { font-size: 1.8rem; }
-            .category-section { height: 450px; } /* Hạ bớt chiều cao trên mobile */
+            .category-section { height: 400px; }
         }
     </style>
 </head>
@@ -132,16 +127,16 @@
     <div class="container">
         <header>
             <h1>Auto Get Báo Dân Trí</h1>
-            <p>Tổng hợp đa chủ đề - Tự động làm mới mỗi 10 phút</p>
+            <p>Tổng hợp 16 chuyên mục - Tự động cập nhật mỗi 10 phút</p>
         </header>
 
         <div class="meta-info">
             <span id="last-updated">Trạng thái: Đang kết nối...</span>
-            <button class="refresh-btn" onclick="fetchAndDisplayNews()">🔄 Cập nhật ngay</button>
+            <button class="refresh-btn" onclick="fetchAndDisplayNews()">🔄 Cập nhật dữ liệu ngay</button>
         </div>
 
         <div id="news-container" class="categories-grid">
-            <p class="status">⏳ Đang phân loại và tải tin tức...</p>
+            <p class="status">⏳ Đang phân loại và tải hàng trăm tin tức...</p>
         </div>
     </div>
 
@@ -151,7 +146,7 @@
             const timeSpan = document.getElementById('last-updated');
             const jsonUrl = 'dantri_news.json?t=' + new Date().getTime(); 
 
-            container.innerHTML = '<p class="status">⏳ Đang tải tin tức...</p>';
+            container.innerHTML = '<p class="status">⏳ Đang lấy dữ liệu từ kho lưu trữ...</p>';
 
             try {
                 const response = await fetch(jsonUrl);
@@ -165,27 +160,22 @@
                     return;
                 }
 
-                // Cập nhật thời gian
                 const now = new Date();
-                timeSpan.innerHTML = 'Lần tải cuối: <b>' + now.toLocaleTimeString('vi-VN') + '</b>';
+                timeSpan.innerHTML = 'Lần cập nhật cuối: <b>' + now.toLocaleTimeString('vi-VN') + '</b> (Tổng: ' + newsData.length + ' bài)';
 
-                // BƯỚC 1: Phân nhóm các bài viết theo tên Chủ đề (category)
+                // Phân nhóm dữ liệu theo chuyên mục
                 const groupedNews = {};
                 newsData.forEach(item => {
-                    const catName = item.category ? item.category : 'Khác';
-                    if (!groupedNews[catName]) {
-                        groupedNews[catName] = [];
-                    }
+                    const catName = item.category ? item.category : 'Tin khác';
+                    if (!groupedNews[catName]) groupedNews[catName] = [];
                     groupedNews[catName].push(item);
                 });
 
-                // BƯỚC 2: Tạo giao diện hộp cuộn cho từng Chủ đề
+                // Render giao diện cho từng nhóm
                 for (const [category, articles] of Object.entries(groupedNews)) {
-                    // Tạo cột/hộp chứa chủ đề
                     const sectionDiv = document.createElement('div');
                     sectionDiv.className = 'category-section';
                     
-                    // Tiêu đề của hộp chủ đề
                     const headerHTML = `
                         <div class="category-header">
                             ${category}
@@ -193,24 +183,21 @@
                         </div>
                     `;
                     
-                    // Tạo khu vực nội dung có thể cuộn
                     const scrollableDiv = document.createElement('div');
                     scrollableDiv.className = 'scrollable-content';
 
-                    // Duyệt qua các bài báo trong nhóm đó và nhét vào khu vực cuộn
                     articles.forEach(item => {
                         const articleDiv = document.createElement('div');
                         articleDiv.className = 'news-item';
-                        let summaryText = item.summary ? item.summary : 'Nhấn vào tiêu đề để xem chi tiết...';
+                        let summaryText = item.summary ? item.summary : '';
                         
                         articleDiv.innerHTML = `
                             <h3><a href="${item.link}" target="_blank">${item.title}</a></h3>
-                            <p>${summaryText}</p>
+                            ${summaryText ? `<p>${summaryText}</p>` : ''}
                         `;
                         scrollableDiv.appendChild(articleDiv);
                     });
 
-                    // Lắp ráp lại và đẩy ra màn hình
                     sectionDiv.innerHTML = headerHTML;
                     sectionDiv.appendChild(scrollableDiv);
                     container.appendChild(sectionDiv);
