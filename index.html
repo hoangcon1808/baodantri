@@ -1,39 +1,165 @@
-name: Tự động cập nhật tin Dân Trí
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tin Tức Dân Trí - Tự Động Cập Nhật</title>
+    <style>
+        :root {
+            --primary-color: #00803d; /* Màu xanh của Dân Trí */
+            --bg-color: #f0f2f5;
+            --text-color: #333;
+            --card-bg: #ffffff;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { 
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; 
+            background-color: var(--bg-color); 
+            color: var(--text-color); 
+            line-height: 1.6;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px; 
+            margin: 0 auto; 
+        }
+        header {
+            text-align: center; 
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 3px solid var(--primary-color);
+        }
+        h1 { color: var(--primary-color); font-size: 2rem; margin-bottom: 5px; }
+        header p { color: #666; font-size: 0.95rem; }
+        
+        .meta-info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            font-size: 0.9rem;
+            color: #555;
+            background: #e8eaf6;
+            padding: 10px 15px;
+            border-radius: 8px;
+        }
+        .refresh-btn {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.2s;
+        }
+        .refresh-btn:hover { background-color: #006630; }
+        
+        .news-item { 
+            background: var(--card-bg); 
+            padding: 20px; 
+            margin-bottom: 20px; 
+            border-radius: 10px; 
+            border-left: 5px solid var(--primary-color);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06); 
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .news-item:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 15px rgba(0,0,0,0.12); 
+        }
+        .news-item h2 { margin-bottom: 10px; font-size: 1.25rem; line-height: 1.4; }
+        .news-item h2 a { text-decoration: none; color: #111; }
+        .news-item h2 a:hover { color: var(--primary-color); text-decoration: underline; }
+        .news-item p { margin-bottom: 15px; color: #555; font-size: 0.95rem; }
+        .news-tag { 
+            font-size: 0.8rem; 
+            color: white; 
+            background: #e74c3c; 
+            padding: 4px 10px; 
+            border-radius: 20px;
+            display: inline-block;
+            font-weight: bold;
+        }
+        .status { text-align: center; font-style: italic; color: #666; padding: 20px; }
+        
+        /* Chỉnh sửa giao diện trên điện thoại */
+        @media (max-width: 500px) {
+            .meta-info { flex-direction: column; gap: 10px; text-align: center; }
+            h1 { font-size: 1.6rem; }
+        }
+    </style>
+</head>
+<body>
 
-# Cấu hình thời gian chạy 10 phút/lần
-on:
-  schedule:
-    - cron: '*/10 * * * *'
-  workflow_dispatch:
+    <div class="container">
+        <header>
+            <h1>Tin Tức Dân Trí</h1>
+            <p>Tự động cập nhật mỗi 10 phút bằng GitHub Actions</p>
+        </header>
 
-jobs:
-  update-data:
-    runs-on: ubuntu-latest
-    
-    # Cấp quyền cho Action được phép ghi file vào repo
-    permissions:
-      contents: write
+        <div class="meta-info">
+            <span id="last-updated">Trạng thái: Đang kết nối...</span>
+            <button class="refresh-btn" onclick="fetchAndDisplayNews()">🔄 Làm mới tin ngay</button>
+        </div>
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+        <div id="news-container">
+            <p class="status">⏳ Đang lấy dữ liệu mới nhất...</p>
+        </div>
+    </div>
 
-      - name: Thiết lập Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+    <script>
+        async function fetchAndDisplayNews() {
+            const container = document.getElementById('news-container');
+            const timeSpan = document.getElementById('last-updated');
+            
+            // Thêm tham số 't' (timestamp) để lừa trình duyệt, giúp nó luôn tải file JSON mới nhất trên Github thay vì dùng file cũ trong bộ nhớ đệm
+            const jsonUrl = 'dantri_news.json?t=' + new Date().getTime(); 
 
-      - name: Cài đặt thư viện quét web
-        run: pip install requests beautifulsoup4
+            container.innerHTML = '<p class="status">⏳ Đang lấy dữ liệu mới nhất...</p>';
 
-      - name: Chạy Script lấy tin
-        run: python fetch_news.py
+            try {
+                const response = await fetch(jsonUrl);
+                
+                if (!response.ok) throw new Error('Không tìm thấy dữ liệu.');
 
-      - name: Commit và Push file JSON
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          git add dantri_news.json
-          git commit -m "Cập nhật dữ liệu từ trang chủ Dân Trí [skip ci]" || exit 0
-          git push
+                const newsData = await response.json();
+                container.innerHTML = ''; 
+
+                if (newsData.length === 0) {
+                    container.innerHTML = '<p class="status">Chưa có bài báo nào. Có thể Dân Trí đang thay đổi giao diện, hãy đợi lượt quét sau.</p>';
+                    return;
+                }
+
+                // Cập nhật hiển thị thời gian làm mới
+                const now = new Date();
+                timeSpan.innerHTML = 'Lần tải cuối: <b>' + now.toLocaleTimeString('vi-VN') + '</b>';
+
+                // Duyệt qua từng bài báo và in ra màn hình
+                newsData.forEach(item => {
+                    const div = document.createElement('div');
+                    div.className = 'news-item';
+                    
+                    // Nếu bài không có đoạn tóm tắt (vì trang chủ có bài có, bài không), sẽ in dòng text mặc định
+                    let summaryText = item.summary ? item.summary : 'Nhấn vào tiêu đề để xem chi tiết bài viết...';
+                    
+                    div.innerHTML = `
+                        <h2><a href="${item.link}" target="_blank">${item.title}</a></h2>
+                        <p>${summaryText}</p>
+                        <span class="news-tag">🔥 ${item.published}</span>
+                    `;
+                    container.appendChild(div);
+                });
+
+            } catch (error) {
+                console.error("Lỗi: ", error);
+                container.innerHTML = '<p class="status" style="color: red;">❌ Không tải được tin tức. Hãy kiểm tra xem file <b>dantri_news.json</b> đã được tạo trên kho lưu trữ của bạn chưa (Vào tab Actions chạy thử).</p>';
+            }
+        }
+
+        // Tự động chạy hàm lấy tin ngay khi load xong web
+        window.onload = fetchAndDisplayNews;
+    </script>
+
+</body>
+</html>
