@@ -7,9 +7,10 @@
     <style>
         :root {
             --primary-color: #00803d; 
-            --bg-color: #f0f2f5;
+            --bg-color: #f4f7f6;
             --text-color: #333;
             --card-bg: #ffffff;
+            --border-radius: 12px;
         }
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body { 
@@ -20,7 +21,7 @@
             padding: 20px;
         }
         .container {
-            max-width: 800px; 
+            max-width: 1200px; /* Mở rộng chiều ngang để chứa lưới phân trang */
             margin: 0 auto; 
         }
         header {
@@ -29,63 +30,100 @@
             padding-bottom: 15px;
             border-bottom: 3px solid var(--primary-color);
         }
-        h1 { color: var(--primary-color); font-size: 2rem; margin-bottom: 5px; }
-        header p { color: #666; font-size: 0.95rem; }
+        h1 { color: var(--primary-color); font-size: 2.2rem; margin-bottom: 5px; }
+        header p { color: #666; font-size: 1rem; }
         
         .meta-info {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 20px;
-            font-size: 0.9rem;
-            color: #555;
+            margin-bottom: 30px;
+            font-size: 0.95rem;
+            color: #444;
             background: #e8eaf6;
-            padding: 10px 15px;
-            border-radius: 8px;
+            padding: 12px 20px;
+            border-radius: var(--border-radius);
+            font-weight: 500;
         }
         .refresh-btn {
             background-color: var(--primary-color);
             color: white;
             border: none;
-            padding: 8px 16px;
-            border-radius: 5px;
+            padding: 10px 20px;
+            border-radius: 8px;
             cursor: pointer;
             font-weight: bold;
+            transition: all 0.2s;
+        }
+        .refresh-btn:hover { background-color: #006630; transform: scale(1.05); }
+
+        /* Bố cục lưới cho các khu vực chủ đề */
+        .categories-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 25px;
+        }
+
+        /* Khung hiển thị từng chủ đề */
+        .category-section {
+            background: var(--card-bg);
+            border-radius: var(--border-radius);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            height: 500px; /* Chiều cao cố định để tạo thanh cuộn */
+        }
+        .category-header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 15px 20px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .category-header span {
+            background: rgba(255,255,255,0.2);
+            padding: 2px 10px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+        }
+        
+        /* Khu vực cuộn tin tức */
+        .scrollable-content {
+            flex-grow: 1;
+            overflow-y: auto;
+            padding: 15px;
+        }
+        /* Tùy chỉnh thanh cuộn cho đẹp */
+        .scrollable-content::-webkit-scrollbar { width: 6px; }
+        .scrollable-content::-webkit-scrollbar-track { background: #f1f1f1; }
+        .scrollable-content::-webkit-scrollbar-thumb { background: #bbb; border-radius: 10px; }
+        .scrollable-content::-webkit-scrollbar-thumb:hover { background: #888; }
+
+        /* Từng bài báo bên trong */
+        .news-item { 
+            padding: 15px; 
+            margin-bottom: 15px; 
+            border-bottom: 1px dashed #ddd;
             transition: background 0.2s;
         }
-        .refresh-btn:hover { background-color: #006630; }
+        .news-item:last-child { border-bottom: none; margin-bottom: 0; }
+        .news-item:hover { background-color: #f9f9f9; border-radius: 8px; }
         
-        .news-item { 
-            background: var(--card-bg); 
-            padding: 20px; 
-            margin-bottom: 20px; 
-            border-radius: 10px; 
-            border-left: 5px solid var(--primary-color);
-            box-shadow: 0 2px 8px rgba(0,0,0,0.06); 
-            transition: transform 0.2s ease, box-shadow 0.2s ease;
-        }
-        .news-item:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 6px 15px rgba(0,0,0,0.12); 
-        }
-        .news-item h2 { margin-bottom: 10px; font-size: 1.25rem; line-height: 1.4; }
-        .news-item h2 a { text-decoration: none; color: #111; }
-        .news-item h2 a:hover { color: var(--primary-color); text-decoration: underline; }
-        .news-item p { margin-bottom: 15px; color: #555; font-size: 0.95rem; }
-        .news-tag { 
-            font-size: 0.8rem; 
-            color: white; 
-            background: #e74c3c; 
-            padding: 4px 10px; 
-            border-radius: 20px;
-            display: inline-block;
-            font-weight: bold;
-        }
-        .status { text-align: center; font-style: italic; color: #666; padding: 20px; }
+        .news-item h3 { margin-bottom: 8px; font-size: 1.1rem; line-height: 1.4; }
+        .news-item h3 a { text-decoration: none; color: #222; }
+        .news-item h3 a:hover { color: var(--primary-color); text-decoration: underline; }
+        .news-item p { color: #666; font-size: 0.9rem; margin: 0; }
         
-        @media (max-width: 500px) {
-            .meta-info { flex-direction: column; gap: 10px; text-align: center; }
-            h1 { font-size: 1.6rem; }
+        .status { text-align: center; font-style: italic; color: #666; padding: 20px; grid-column: 1 / -1; }
+        
+        @media (max-width: 600px) {
+            .meta-info { flex-direction: column; gap: 15px; text-align: center; }
+            h1 { font-size: 1.8rem; }
+            .category-section { height: 450px; } /* Hạ bớt chiều cao trên mobile */
         }
     </style>
 </head>
@@ -94,16 +132,16 @@
     <div class="container">
         <header>
             <h1>Auto Get Báo Dân Trí</h1>
-            <p>Tự động tổng hợp tin mới mỗi 10 phút</p>
+            <p>Tổng hợp đa chủ đề - Tự động làm mới mỗi 10 phút</p>
         </header>
 
         <div class="meta-info">
             <span id="last-updated">Trạng thái: Đang kết nối...</span>
-            <button class="refresh-btn" onclick="fetchAndDisplayNews()">🔄 Làm mới tin</button>
+            <button class="refresh-btn" onclick="fetchAndDisplayNews()">🔄 Cập nhật ngay</button>
         </div>
 
-        <div id="news-container">
-            <p class="status">⏳ Đang lấy dữ liệu mới nhất...</p>
+        <div id="news-container" class="categories-grid">
+            <p class="status">⏳ Đang phân loại và tải tin tức...</p>
         </div>
     </div>
 
@@ -127,24 +165,56 @@
                     return;
                 }
 
+                // Cập nhật thời gian
                 const now = new Date();
                 timeSpan.innerHTML = 'Lần tải cuối: <b>' + now.toLocaleTimeString('vi-VN') + '</b>';
 
+                // BƯỚC 1: Phân nhóm các bài viết theo tên Chủ đề (category)
+                const groupedNews = {};
                 newsData.forEach(item => {
-                    const div = document.createElement('div');
-                    div.className = 'news-item';
-                    
-                    // Kiểm tra và hiển thị an toàn, tránh lỗi "undefined"
-                    let summaryText = item.summary ? item.summary : 'Nhấn vào tiêu đề để xem chi tiết bài viết...';
-                    let categoryText = item.category ? item.category : 'Tin tức';
-                    
-                    div.innerHTML = `
-                        <h2><a href="${item.link}" target="_blank">${item.title}</a></h2>
-                        <p>${summaryText}</p>
-                        <span class="news-tag">📌 ${categoryText}</span>
-                    `;
-                    container.appendChild(div);
+                    const catName = item.category ? item.category : 'Khác';
+                    if (!groupedNews[catName]) {
+                        groupedNews[catName] = [];
+                    }
+                    groupedNews[catName].push(item);
                 });
+
+                // BƯỚC 2: Tạo giao diện hộp cuộn cho từng Chủ đề
+                for (const [category, articles] of Object.entries(groupedNews)) {
+                    // Tạo cột/hộp chứa chủ đề
+                    const sectionDiv = document.createElement('div');
+                    sectionDiv.className = 'category-section';
+                    
+                    // Tiêu đề của hộp chủ đề
+                    const headerHTML = `
+                        <div class="category-header">
+                            ${category}
+                            <span>${articles.length} bài</span>
+                        </div>
+                    `;
+                    
+                    // Tạo khu vực nội dung có thể cuộn
+                    const scrollableDiv = document.createElement('div');
+                    scrollableDiv.className = 'scrollable-content';
+
+                    // Duyệt qua các bài báo trong nhóm đó và nhét vào khu vực cuộn
+                    articles.forEach(item => {
+                        const articleDiv = document.createElement('div');
+                        articleDiv.className = 'news-item';
+                        let summaryText = item.summary ? item.summary : 'Nhấn vào tiêu đề để xem chi tiết...';
+                        
+                        articleDiv.innerHTML = `
+                            <h3><a href="${item.link}" target="_blank">${item.title}</a></h3>
+                            <p>${summaryText}</p>
+                        `;
+                        scrollableDiv.appendChild(articleDiv);
+                    });
+
+                    // Lắp ráp lại và đẩy ra màn hình
+                    sectionDiv.innerHTML = headerHTML;
+                    sectionDiv.appendChild(scrollableDiv);
+                    container.appendChild(sectionDiv);
+                }
 
             } catch (error) {
                 console.error("Lỗi: ", error);
