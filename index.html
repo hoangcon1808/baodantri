@@ -93,7 +93,7 @@
 
     <div class="container">
         <header>
-            <h1>Đọc Báo Dân Trí</h1>
+            <h1>Auto Get Báo Dân Trí</h1>
             <p>Tự động tổng hợp tin mới mỗi 10 phút</p>
         </header>
 
@@ -134,12 +134,14 @@
                     const div = document.createElement('div');
                     div.className = 'news-item';
                     
+                    // Kiểm tra và hiển thị an toàn, tránh lỗi "undefined"
                     let summaryText = item.summary ? item.summary : 'Nhấn vào tiêu đề để xem chi tiết bài viết...';
+                    let categoryText = item.category ? item.category : 'Tin tức';
                     
                     div.innerHTML = `
                         <h2><a href="${item.link}" target="_blank">${item.title}</a></h2>
                         <p>${summaryText}</p>
-                        <span class="news-tag">📌 ${item.category}</span>
+                        <span class="news-tag">📌 ${categoryText}</span>
                     `;
                     container.appendChild(div);
                 });
