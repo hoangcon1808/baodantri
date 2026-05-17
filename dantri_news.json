@@ -1,13 +1,6 @@
 [
     {
         "category": "Trang chủ",
-        "title": "Toàn bộ cây xăng cả nước chỉ bán xăng E10 từ 1/6: Những điều cần biết",
-        "link": "https://dantri.com.vn/kinh-doanh/toan-bo-cay-xang-ca-nuoc-chi-ban-xang-e10-tu-16-nhung-dieu-can-biet-20260517174917743.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Thủ tướng đốc thúc vẫn nợ văn bản, các bộ trưởng phải kiểm điểm trách nhiệm",
         "link": "https://dantri.com.vn/thoi-su/thu-tuong-doc-thuc-van-no-van-ban-cac-bo-truong-phai-kiem-diem-trach-nhiem-20260517172554741.htm",
         "published": "Mới cập nhật",
@@ -17,6 +10,13 @@
         "category": "Trang chủ",
         "title": "UAV bí ẩn tập kích nhà máy điện hạt nhân duy nhất ở thế giới Ả rập",
         "link": "https://dantri.com.vn/the-gioi/uav-bi-an-tap-kich-nha-may-dien-hat-nhan-duy-nhat-o-the-gioi-a-rap-20260517204607625.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Toàn bộ cây xăng cả nước chỉ bán xăng E10 từ 1/6: Những điều cần biết",
+        "link": "https://dantri.com.vn/kinh-doanh/toan-bo-cay-xang-ca-nuoc-chi-ban-xang-e10-tu-16-nhung-dieu-can-biet-20260517174917743.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -148,8 +148,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Thể Công Viettel, Hà Nội FC thắng tưng bừng, HAGL bại trận",
-        "link": "https://dantri.com.vn/the-thao/the-cong-viettel-ha-noi-fc-thang-tung-bung-hagl-bai-tran-20260517202118893.htm",
+        "title": "Sinner vô địch Rome Masters, hoàn tất 9 danh hiệu Masters 1000",
+        "link": "https://dantri.com.vn/the-thao/sinner-vo-dich-rome-masters-hoan-tat-9-danh-hieu-masters-1000-20260518010630438.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -386,15 +386,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Trương Vinh Hiển vô địch PPA Asia Kuala Lumpur Open 2026",
-        "link": "https://dantri.com.vn/the-thao/truong-vinh-hien-vo-dich-ppa-asia-kuala-lumpur-open-2026-20260517175325156.htm",
+        "title": "Thể Công Viettel, Hà Nội FC thắng tưng bừng, HAGL bại trận",
+        "link": "https://dantri.com.vn/the-thao/the-cong-viettel-ha-noi-fc-thang-tung-bung-hagl-bai-tran-20260517202118893.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Hơn 3.000 vận động viên tham gia đại hội thể dục thể thao Đà Nẵng 2026",
-        "link": "https://dantri.com.vn/the-thao/hon-3000-van-dong-vien-tham-gia-dai-hoi-the-duc-the-thao-da-nang-2026-20260517185744544.htm",
+        "title": "Trương Vinh Hiển vô địch PPA Asia Kuala Lumpur Open 2026",
+        "link": "https://dantri.com.vn/the-thao/truong-vinh-hien-vo-dich-ppa-asia-kuala-lumpur-open-2026-20260517175325156.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1814,10 +1814,17 @@
     },
     {
         "category": "Thể thao",
+        "title": "Hơn 3.000 vận động viên tham gia đại hội thể dục thể thao Đà Nẵng 2026",
+        "link": "https://dantri.com.vn/the-thao/hon-3000-van-dong-vien-tham-gia-dai-hoi-the-duc-the-thao-da-nang-2026-20260517185744544.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Thể thao",
         "title": "Báo Indonesia và Thái Lan lên tiếng khi U17 Việt Nam bị loại ở giải châu Á",
         "link": "https://dantri.com.vn/the-thao/bao-indonesia-va-thai-lan-len-tieng-khi-u17-viet-nam-bi-loai-o-giai-chau-a-20260517122328251.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Sau khi U17 Việt Nam thất bại trước U17 Australia ở tứ kết giải U17 châu Á 2026 tối 16/5, các tờ báo của Indonesia và Thái Lan đã lên tiếng an ủi."
     },
     {
         "category": "Thể thao",
@@ -1905,13 +1912,6 @@
     },
     {
         "category": "Thể thao",
-        "title": "Báo Đông Nam Á so sánh HLV Roland với đồng nghiệp Kim Sang Sik",
-        "link": "https://dantri.com.vn/the-thao/bao-dong-nam-a-so-sanh-hlv-roland-voi-dong-nghiep-kim-sang-sik-20260516130145241.htm",
-        "published": "Mới cập nhật",
-        "summary": "Truyền thông Đông Nam Á cho rằng HLV Cristiano Roland (người Brazil) của đội U17 Việt Nam là nhân vật tài năng. Ông Roland đang tiếp bước HLV Kim Sang Sik ở đội tuyển quốc gia."
-    },
-    {
-        "category": "Thể thao",
         "title": "Lịch thi đấu chính thức World Cup 2026",
         "link": "https://dantri.com.vn/the-thao/lich-thi-dau-chinh-thuc-world-cup-2026-20260511170412686.htm",
         "published": "Mới cập nhật",
@@ -1991,13 +1991,6 @@
         "category": "Thể thao",
         "title": "Sinner vào tứ kết Rome Masters, san bằng kỷ lục lịch sử của Djokovic",
         "link": "https://dantri.com.vn/the-thao/sinner-vao-tu-ket-rome-masters-san-bang-ky-luc-lich-su-cua-djokovic-20260512222318460.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Thể thao",
-        "title": "Sinner san bằng kỳ tích của Djokovic sau chiến thắng nhanh tại Rome Masters",
-        "link": "https://dantri.com.vn/the-thao/sinner-san-bang-ky-tich-cua-djokovic-sau-chien-thang-nhanh-tai-rome-masters-20260511225539485.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
