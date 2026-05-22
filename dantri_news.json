@@ -1,15 +1,8 @@
 [
     {
         "category": "Trang chủ",
-        "title": "Tràn lan SIM rác rao bán công khai trên mạng xã hội",
-        "link": "https://dantri.com.vn/cong-nghe/tran-lan-sim-rac-rao-ban-cong-khai-tren-mang-xa-hoi-20260522104351057.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Trực tiếp U17 Trung Quốc 0-0 U17 Nhật Bản (hiệp 1): U17 Nhật Bản gặp khó",
-        "link": "https://dantri.com.vn/the-thao/u17-trung-quoc-0-0-u17-nhat-ban-hiep-1-u17-nhat-ban-gap-kho-20260522222254470.htm",
+        "title": "Thắng kịch tính U17 Trung Quốc, U17 Nhật Bản lần thứ 5 vô địch châu Á",
+        "link": "https://dantri.com.vn/the-thao/thang-kich-tinh-u17-trung-quoc-u17-nhat-ban-lan-thu-5-vo-dich-chau-a-20260522222254470.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -17,6 +10,13 @@
         "category": "Trang chủ",
         "title": "Việt Nam lên tiếng về cáo buộc của Bộ Tư pháp Mỹ với Đại tướng Raúl Castro",
         "link": "https://dantri.com.vn/thoi-su/viet-nam-len-tieng-ve-cao-buoc-cua-bo-tu-phap-my-voi-dai-tuong-raul-castro-20260522170942917.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Tràn lan SIM rác rao bán công khai trên mạng xã hội",
+        "link": "https://dantri.com.vn/cong-nghe/tran-lan-sim-rac-rao-ban-cong-khai-tren-mang-xa-hoi-20260522104351057.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -71,8 +71,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Ca sĩ Ngọc Sơn đến trụ sở công an xin kiểm tra ma túy",
-        "link": "https://dantri.com.vn/phap-luat/ca-si-ngoc-son-den-tru-so-cong-an-xin-kiem-tra-ma-tuy-20260522181136193.htm",
+        "title": "Bênh con gái, mẹ vợ bị con rể đâm tử vong ở Tây Ninh",
+        "link": "https://dantri.com.vn/phap-luat/benh-con-gai-me-vo-bi-con-re-dam-tu-vong-o-tay-ninh-20260522162414291.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Hà Nội chốt tiến độ GPMB các cầu qua sông Hồng trước 30/5",
+        "link": "https://dantri.com.vn/thoi-su/ha-noi-chot-tien-do-gpmb-cac-cau-qua-song-hong-truoc-305-20260522200202403.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -92,22 +99,15 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Ca sĩ Ngọc Sơn đến trụ sở công an xin kiểm tra ma túy",
+        "link": "https://dantri.com.vn/phap-luat/ca-si-ngoc-son-den-tru-so-cong-an-xin-kiem-tra-ma-tuy-20260522181136193.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Công an xuất hiện tại các cơ sở nha khoa trong vụ ly hôn nghìn tỷ ở TPHCM",
         "link": "https://dantri.com.vn/phap-luat/cong-an-xuat-hien-tai-cac-co-so-nha-khoa-trong-vu-ly-hon-nghin-ty-o-tphcm-20260522163114688.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "HLV Pep Guardiola tuyên bố rời Man City",
-        "link": "https://dantri.com.vn/the-thao/hlv-pep-guardiola-tuyen-bo-roi-man-city-20260522183608895.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Giải cứu voi con bị rơi xuống hố ở Đồng Nai",
-        "link": "https://dantri.com.vn/thoi-su/giai-cuu-voi-con-bi-roi-xuong-ho-o-dong-nai-20260522141817641.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -267,13 +267,6 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Hà Nội chốt tiến độ GPMB các cầu qua sông Hồng trước 30/5",
-        "link": "https://dantri.com.vn/thoi-su/ha-noi-chot-tien-do-gpmb-cac-cau-qua-song-hong-truoc-305-20260522200202403.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Chủ tịch cấp xã ở TPHCM được quyền bổ nhiệm cán bộ",
         "link": "https://dantri.com.vn/thoi-su/chu-tich-cap-xa-o-tphcm-duoc-quyen-bo-nhiem-can-bo-20260522212302598.htm",
         "published": "Mới cập nhật",
@@ -395,6 +388,13 @@
         "category": "Trang chủ",
         "title": "CLB PVF-CAND chia điểm với Thể Công Viettel, đứng trước nguy cơ xuống hạng",
         "link": "https://dantri.com.vn/the-thao/clb-pvf-cand-chia-diem-voi-the-cong-viettel-dung-truoc-nguy-co-xuong-hang-20260522221032371.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "HLV Pep Guardiola tuyên bố rời Man City",
+        "link": "https://dantri.com.vn/the-thao/hlv-pep-guardiola-tuyen-bo-roi-man-city-20260522183608895.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -778,29 +778,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Công an Hà Nội tạm giữ “thần y rởm” lừa chữa bách bệnh bằng nước ion kiềm",
-        "link": "https://dantri.com.vn/phap-luat/cong-an-ha-noi-tam-giu-than-y-rom-lua-chua-bach-benh-bang-nuoc-ion-kiem-20260522193848078.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Khởi tố vụ đánh hội đồng nữ sinh lớp 10, đăng video lên Facebook",
-        "link": "https://dantri.com.vn/phap-luat/khoi-to-vu-danh-hoi-dong-nu-sinh-lop-10-dang-video-len-facebook-20260522154127308.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Tổ chức sử dụng ma túy tại quán karaoke, 3 “kiều nữ” bị khởi tố",
         "link": "https://dantri.com.vn/phap-luat/to-chuc-su-dung-ma-tuy-tai-quan-karaoke-3-kieu-nu-bi-khoi-to-20260522205626569.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Bênh con gái, mẹ vợ bị con rể đâm tử vong ở Tây Ninh",
-        "link": "https://dantri.com.vn/phap-luat/benh-con-gai-me-vo-bi-con-re-dam-tu-vong-o-tay-ninh-20260522162414291.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -992,6 +971,13 @@
         "link": "https://dantri.com.vn/thoi-su/trung-ta-csgt-lam-clip-trieu-view-tuyen-truyen-xu-ly-tai-xe-co-con-20260522161901392.htm",
         "published": "Mới cập nhật",
         "summary": "Với hình ảnh trực quan, lời thoại có phần dí dỏm nhưng vẫn truyền tải đầy đủ thông điệp \"đã uống rượu bia là không lái xe\", đoạn clip đã nhanh chóng lan tỏa mạnh mẽ trên mạng xã hội."
+    },
+    {
+        "category": "Xã hội",
+        "title": "Giải cứu voi con bị rơi xuống hố ở Đồng Nai",
+        "link": "https://dantri.com.vn/thoi-su/giai-cuu-voi-con-bi-roi-xuong-ho-o-dong-nai-20260522141817641.htm",
+        "published": "Mới cập nhật",
+        "summary": "Cơ quan chức năng phường Trị An (Đồng Nai) cùng người dân khu phố Bà Hào vừa giải cứu thành công một cá thể voi con rơi xuống hố sâu khoảng 3m trong vườn xoài của người dân."
     },
     {
         "category": "Xã hội",
@@ -3347,10 +3333,17 @@
     },
     {
         "category": "Pháp luật",
+        "title": "Công an Hà Nội tạm giữ “thần y rởm” lừa chữa bách bệnh bằng nước ion kiềm",
+        "link": "https://dantri.com.vn/phap-luat/cong-an-ha-noi-tam-giu-than-y-rom-lua-chua-bach-benh-bang-nuoc-ion-kiem-20260522193848078.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Pháp luật",
         "title": "Cầm dao đánh người, thanh niên ở Lâm Đồng bị khởi tố 2 tội",
         "link": "https://dantri.com.vn/phap-luat/cam-dao-danh-nguoi-thanh-nien-o-lam-dong-bi-khoi-to-2-toi-20260522163735558.htm",
         "published": "Mới cập nhật",
-        "summary": "Cầm dao tự chế gây thương tích cho người khác, Trần Đức Nhật bị lực lượng chức năng khởi tố về tội Cố ý gây thương tích và Sử dụng vũ khí quân dụng."
+        "summary": ""
     },
     {
         "category": "Pháp luật",
@@ -3414,6 +3407,13 @@
         "link": "https://dantri.com.vn/phap-luat/nam-thanh-nien-o-tphcm-dai-sinh-nhat-3-ngay-bang-tiec-ma-tuy-20260522143357710.htm",
         "published": "Mới cập nhật",
         "summary": "Mừng sinh nhật, Nguyễn Thanh Tùng cùng nhóm bạn tổ chức sử dụng ma túy liên tục trong căn hộ ở TPHCM suốt 3 ngày. Cuộc vui sau đó kết thúc bằng bi kịch khi một cô gái trong nhóm tử vong."
+    },
+    {
+        "category": "Pháp luật",
+        "title": "Khởi tố vụ đánh hội đồng nữ sinh lớp 10, đăng video lên Facebook",
+        "link": "https://dantri.com.vn/phap-luat/khoi-to-vu-danh-hoi-dong-nu-sinh-lop-10-dang-video-len-facebook-20260522154127308.htm",
+        "published": "Mới cập nhật",
+        "summary": "Công an khởi tố hai nữ sinh Trường Cao đẳng nghề Việt - Xô số 1 (phường Xuân Hòa, Phú Thọ) liên quan vụ đánh hội đồng một học sinh lớp 10 cùng trường, quay video đưa lên mạng xã hội."
     },
     {
         "category": "Pháp luật",
