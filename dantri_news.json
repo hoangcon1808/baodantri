@@ -162,8 +162,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Hàng trăm người dân xứ Lạng lần đầu được siêu âm và tư vấn sức khỏe",
-        "link": "https://dantri.com.vn/tam-long-nhan-ai/hang-tram-nguoi-dan-xu-lang-lan-dau-duoc-sieu-am-va-tu-van-suc-khoe-20260530150238136.htm",
+        "title": "Cha mẹ nghèo đạp xích lô, nhặt phế liệu nuôi 2 con khuyết tật bẩm sinh",
+        "link": "https://dantri.com.vn/tam-long-nhan-ai/cha-me-ngheo-dap-xich-lo-nhat-phe-lieu-nuoi-2-con-khuyet-tat-bam-sinh-20260510225642781.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -484,6 +484,20 @@
     },
     {
         "category": "Trang chủ",
+        "title": "“Có công trình mới để đi lại an toàn, chúng tôi vui lắm!”",
+        "link": "https://dantri.com.vn/tam-long-nhan-ai/co-cong-trinh-moi-de-di-lai-an-toan-chung-toi-vui-lam-20260530211718934.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Hàng trăm người dân xứ Lạng lần đầu được siêu âm và tư vấn sức khỏe",
+        "link": "https://dantri.com.vn/tam-long-nhan-ai/hang-tram-nguoi-dan-xu-lang-lan-dau-duoc-sieu-am-va-tu-van-suc-khoe-20260530150238136.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Được hỗ trợ hơn nửa tỷ đồng, bé trai “chạm” tới ước mơ nghe, nói",
         "link": "https://dantri.com.vn/tam-long-nhan-ai/duoc-ho-tro-hon-nua-ty-dong-be-trai-cham-toi-uoc-mo-nghe-noi-20260529174902969.htm",
         "published": "Mới cập nhật",
@@ -505,15 +519,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "“Nhà mình cùng đường rồi, mẹ lấy gì để cứu con đây, Hiếu ơi!...”",
-        "link": "https://dantri.com.vn/tam-long-nhan-ai/nha-minh-cung-duong-roi-me-lay-gi-de-cuu-con-day-hieu-oi-20260529143832275.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Hình hài các căn nhà nổi đầu tiên hỗ trợ người dân vùng lũ Đắk Lắk",
-        "link": "https://dantri.com.vn/tam-long-nhan-ai/hinh-hai-cac-can-nha-noi-dau-tien-ho-tro-nguoi-dan-vung-lu-dak-lak-20260529073713978.htm",
+        "title": "Thủ tướng Singapore đăng ảnh trồng cây cùng Tổng Bí thư, Chủ tịch nước",
+        "link": "https://dantri.com.vn/the-gioi/thu-tuong-singapore-dang-anh-trong-cay-cung-tong-bi-thu-chu-tich-nuoc-20260530235454646.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -533,15 +540,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Bác sĩ thông báo tình hình sức khỏe của Tổng thống Trump",
-        "link": "https://dantri.com.vn/the-gioi/bac-si-thong-bao-tinh-hinh-suc-khoe-cua-tong-thong-trump-20260530145246242.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Hé lộ thiệt hại của căn cứ Mỹ bị Iran tấn công",
-        "link": "https://dantri.com.vn/the-gioi/he-lo-thiet-hai-cua-can-cu-my-bi-iran-tan-cong-20260530141240771.htm",
+        "title": "Chiến sự Ukraine 30/5: Trước thời khắc quyết định, Ukraine cảnh báo khẩn",
+        "link": "https://dantri.com.vn/the-gioi/chien-su-ukraine-305-truoc-thoi-khac-quyet-dinh-ukraine-canh-bao-khan-20260530103244559.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1177,10 +1177,24 @@
     },
     {
         "category": "Thế giới",
+        "title": "Bác sĩ thông báo tình hình sức khỏe của Tổng thống Trump",
+        "link": "https://dantri.com.vn/the-gioi/bac-si-thong-bao-tinh-hinh-suc-khoe-cua-tong-thong-trump-20260530145246242.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Thế giới",
+        "title": "Hé lộ thiệt hại của căn cứ Mỹ bị Iran tấn công",
+        "link": "https://dantri.com.vn/the-gioi/he-lo-thiet-hai-cua-can-cu-my-bi-iran-tan-cong-20260530141240771.htm",
+        "published": "Mới cập nhật",
+        "summary": "Cuộc tấn công của Iran vào một căn cứ không quân Mỹ ở Kuwait được cho là đã làm 5 người bị thương và gây hư hại cho 2 máy bay không người lái MQ-9 Reaper."
+    },
+    {
+        "category": "Thế giới",
         "title": "Tổng thống Putin cảnh báo kịch bản NATO “xuyên thủng pháo đài” Kaliningrad",
         "link": "https://dantri.com.vn/the-gioi/tong-thong-putin-canh-bao-kich-ban-nato-xuyen-thung-phao-dai-kaliningrad-20260530114302676.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Tổng thống Vladimir Putin cảnh báo cứng rắn kịch bản vùng lãnh thổ Kaliningrad của Nga bị tấn công."
     },
     {
         "category": "Thế giới",
@@ -1195,13 +1209,6 @@
         "link": "https://dantri.com.vn/the-gioi/manh-vo-he-lo-diem-dac-biet-tren-ten-lua-nga-khai-hoa-vao-ukraine-20260530112332890.htm",
         "published": "Mới cập nhật",
         "summary": "Dựa vào phân tích mảnh vỡ, Ukraine phát hiện Nga dường như đã dùng tên lửa \"hàng hiếm\" trong các cuộc không kích nhằm vào đối thủ."
-    },
-    {
-        "category": "Thế giới",
-        "title": "Chiến sự Ukraine 30/5: Trước thời khắc quyết định, Ukraine cảnh báo khẩn",
-        "link": "https://dantri.com.vn/the-gioi/chien-su-ukraine-305-truoc-thoi-khac-quyet-dinh-ukraine-canh-bao-khan-20260530103244559.htm",
-        "published": "Mới cập nhật",
-        "summary": "Bộ Quốc phòng Ukraine đã phát cảnh báo khẩn, kêu gọi người dân không nên phớt lờ còi báo động không kích vào cuối tuần, nhấn mạnh sự cần thiết phải đặc biệt chú ý đến các tín hiệu an ninh ở Kiev."
     },
     {
         "category": "Thế giới",
@@ -1268,13 +1275,6 @@
     },
     {
         "category": "Thế giới",
-        "title": "Dân số Nhật Bản giảm kỷ lục",
-        "link": "https://dantri.com.vn/the-gioi/dan-so-nhat-ban-giam-ky-luc-20260529162851396.htm",
-        "published": "Mới cập nhật",
-        "summary": "Dân số Nhật Bản đã giảm kỷ lục hơn 3 triệu người xuống còn hơn 123 triệu người tính đến năm 2025, đánh dấu mức giảm kỷ lục."
-    },
-    {
-        "category": "Thế giới",
         "title": "Nga dọa tấn công trung tâm đầu não Kiev, hối thúc người nước ngoài rời đi",
         "link": "https://dantri.com.vn/the-gioi/nga-doa-tan-cong-trung-tam-dau-nao-kiev-hoi-thuc-nguoi-nuoc-ngoai-roi-di-20260529054837153.htm",
         "published": "Mới cập nhật",
@@ -1331,15 +1331,15 @@
     },
     {
         "category": "Thế giới",
-        "title": "Người Triều Tiên xuống đường mừng đội bóng đá giành chức vô địch ở Hàn Quốc",
-        "link": "https://dantri.com.vn/the-gioi/nguoi-trieu-tien-xuong-duong-mung-doi-bong-da-gianh-chuc-vo-dich-o-han-quoc-20260528114223097.htm",
+        "title": "Dân số Nhật Bản giảm kỷ lục",
+        "link": "https://dantri.com.vn/the-gioi/dan-so-nhat-ban-giam-ky-luc-20260529162851396.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Thế giới",
-        "title": "Tổng thống Nga tặng 4 con hổ quý cho Kazakhstan",
-        "link": "https://dantri.com.vn/the-gioi/tong-thong-nga-tang-4-con-ho-quy-cho-kazakhstan-20260527095614074.htm",
+        "title": "Người Triều Tiên xuống đường mừng đội bóng đá giành chức vô địch ở Hàn Quốc",
+        "link": "https://dantri.com.vn/the-gioi/nguoi-trieu-tien-xuong-duong-mung-doi-bong-da-gianh-chuc-vo-dich-o-han-quoc-20260528114223097.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
