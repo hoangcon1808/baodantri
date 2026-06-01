@@ -8,15 +8,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Quá tải hồ sơ, dự án nhà ở xã hội tại Hà Nội chuyển qua bốc thăm trực tuyến",
-        "link": "https://dantri.com.vn/bat-dong-san/qua-tai-ho-so-du-an-nha-o-xa-hoi-tai-ha-noi-chuyen-qua-boc-tham-truc-tuyen-20260601162442143.htm",
+        "title": "Cơ cấu tổ chức mới của Văn phòng Chính phủ",
+        "link": "https://dantri.com.vn/thoi-su/co-cau-to-chuc-moi-cua-van-phong-chinh-phu-20260601204827546.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Iran đình chỉ đàm phán với Mỹ, nêu điều kiện then chốt chấm dứt xung đột",
-        "link": "https://dantri.com.vn/the-gioi/iran-dinh-chi-dam-phan-voi-my-neu-dieu-kien-then-chot-cham-dut-xung-dot-20260601215929493.htm",
+        "title": "Quá tải hồ sơ, dự án nhà ở xã hội tại Hà Nội chuyển qua bốc thăm trực tuyến",
+        "link": "https://dantri.com.vn/bat-dong-san/qua-tai-ho-so-du-an-nha-o-xa-hoi-tai-ha-noi-chuyen-qua-boc-tham-truc-tuyen-20260601162442143.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -260,13 +260,6 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Cơ cấu tổ chức mới của Văn phòng Chính phủ",
-        "link": "https://dantri.com.vn/thoi-su/co-cau-to-chuc-moi-cua-van-phong-chinh-phu-20260601204827546.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Dân lo xăng E10 làm yếu máy và hao xăng, chuyên gia nói “hoàn toàn yên tâm”",
         "link": "https://dantri.com.vn/thoi-su/dan-lo-xang-e10-lam-yeu-may-va-hao-xang-chuyen-gia-noi-hoan-toan-yen-tam-20260601174255139.htm",
         "published": "Mới cập nhật",
@@ -500,6 +493,13 @@
         "category": "Trang chủ",
         "title": "Cha mẹ nghèo đạp xích lô, nhặt phế liệu nuôi 2 con khuyết tật bẩm sinh",
         "link": "https://dantri.com.vn/tam-long-nhan-ai/cha-me-ngheo-dap-xich-lo-nhat-phe-lieu-nuoi-2-con-khuyet-tat-bam-sinh-20260510225642781.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Iran đình chỉ đàm phán với Mỹ, nêu điều kiện then chốt chấm dứt xung đột",
+        "link": "https://dantri.com.vn/the-gioi/iran-dinh-chi-dam-phan-voi-my-neu-dieu-kien-then-chot-cham-dut-xung-dot-20260601215929493.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1156,17 +1156,10 @@
     },
     {
         "category": "Thế giới",
-        "title": "Chiến sự Ukraine 1/6: Ukraine đánh phủ đầu, cản phá đòn trả đũa lớn của Nga",
-        "link": "https://dantri.com.vn/the-gioi/chien-su-ukraine-16-ukraine-danh-phu-dau-can-pha-don-tra-dua-lon-cua-nga-20260601103356268.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Thế giới",
         "title": "Ukraine kêu gọi công ty Mỹ hợp tác tạo vũ khí có thể \"thay đổi thế giới\"",
         "link": "https://dantri.com.vn/the-gioi/ukraine-keu-goi-cong-ty-my-hop-tac-tao-vu-khi-co-the-thay-doi-the-gioi-20260601150913962.htm",
         "published": "Mới cập nhật",
-        "summary": "Tổng thống Ukraine Volodymyr Zelensky đưa ra lời kêu gọi với các công ty khởi nghiệp quốc phòng ở Thung lũng Silicon về sự hợp tác có thể tạo ra bước ngoặt."
+        "summary": ""
     },
     {
         "category": "Thế giới",
@@ -1195,6 +1188,13 @@
         "link": "https://dantri.com.vn/the-gioi/he-lo-don-vi-dieu-phoi-cac-tran-tap-kich-don-dap-cua-ukraine-vao-nga-20260601113244491.htm",
         "published": "Mới cập nhật",
         "summary": "Ukraine đang sử dụng một hệ thống chỉ huy đặc biệt để tiến hành các cuộc tập kích quy mô lớn vào lãnh thổ Nga."
+    },
+    {
+        "category": "Thế giới",
+        "title": "Chiến sự Ukraine 1/6: Ukraine đánh phủ đầu, cản phá đòn trả đũa lớn của Nga",
+        "link": "https://dantri.com.vn/the-gioi/chien-su-ukraine-16-ukraine-danh-phu-dau-can-pha-don-tra-dua-lon-cua-nga-20260601103356268.htm",
+        "published": "Mới cập nhật",
+        "summary": "Ukraine đã tiến hành tấn công sâu vào lãnh thổ Nga nhằm phá vỡ kế hoạch trả đũa quy mô lớn của Moscow."
     },
     {
         "category": "Thế giới",
