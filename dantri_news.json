@@ -57,8 +57,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Quảng cáo “đội lốt” trải nghiệm cá nhân: Người tiêu dùng bị KOL dẫn dắt",
-        "link": "https://dantri.com.vn/cong-nghe/quang-cao-doi-lot-trai-nghiem-ca-nhan-nguoi-tieu-dung-bi-kol-dan-dat-20260604115434812.htm",
+        "title": "Các đội châu Á sáng cửa tạo kỳ tích ở World Cup 2026",
+        "link": "https://dantri.com.vn/dt360/cac-doi-chau-a-sang-cua-tao-ky-tich-o-world-cup-2026-20260604154939566.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -78,8 +78,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Lần đầu tiên Việt Nam có 11 nhà hàng được 1 sao Michelin",
-        "link": "https://dantri.com.vn/du-lich/lan-dau-tien-viet-nam-co-11-nha-hang-duoc-1-sao-michelin-20260604214401727.htm",
+        "title": "Công an xác minh vụ người đàn ông xịt nước vào thợ tháo dỡ công trình",
+        "link": "https://dantri.com.vn/dt360/cong-an-xac-minh-vu-nguoi-dan-ong-xit-nuoc-vao-tho-thao-do-cong-trinh-20260604140756788.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -92,6 +92,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Lần đầu tiên Việt Nam có 11 nhà hàng được 1 sao Michelin",
+        "link": "https://dantri.com.vn/du-lich/lan-dau-tien-viet-nam-co-11-nha-hang-duoc-1-sao-michelin-20260604214401727.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Tổng thống Zelensky: Nga nên mong Ukraine gia nhập NATO",
         "link": "https://dantri.com.vn/the-gioi/tong-thong-zelensky-nga-nen-mong-ukraine-gia-nhap-nato-20260604154152689.htm",
         "published": "Mới cập nhật",
@@ -99,15 +106,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "TPHCM nghiên cứu kéo dài metro từ phường Bình Dương đến Bến Thành",
-        "link": "https://dantri.com.vn/thoi-su/tphcm-nghien-cuu-keo-dai-metro-tu-phuong-binh-duong-den-ben-thanh-20260604183114904.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Lý do Nga liên tiếp không kích lớn vào Ukraine",
-        "link": "https://dantri.com.vn/the-gioi/ly-do-nga-lien-tiep-khong-kich-lon-vao-ukraine-20260604152949477.htm",
+        "title": "Nữ cầu thủ Triều Tiên bật khóc khi Chủ tịch Kim Jong-un chúc mừng chiến thắng",
+        "link": "https://dantri.com.vn/dt360/nu-cau-thu-trieu-tien-bat-khoc-khi-chu-tich-kim-jong-un-chuc-mung-chien-thang-20260604125654011.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -157,13 +157,6 @@
         "category": "Trang chủ",
         "title": "Nữ MC chân dài 1,1m tuổi 30 tậu căn hộ \"view triệu đô\", tủ giấu 300 món đồ",
         "link": "https://dantri.com.vn/giai-tri/nu-mc-chan-dai-11m-tuoi-30-tau-can-ho-view-trieu-do-tu-giau-300-mon-do-20260603172818774.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Đất nước cần giai cấp công nhân hiện đại, công nhân cần công đoàn mạnh mẽ!",
-        "link": "https://dantri.com.vn/noi-vu/dat-nuoc-can-giai-cap-cong-nhan-hien-dai-cong-nhan-can-cong-doan-manh-me-20260604110226661.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -484,6 +477,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Đất nước cần giai cấp công nhân hiện đại, công nhân cần công đoàn mạnh mẽ!",
+        "link": "https://dantri.com.vn/noi-vu/dat-nuoc-can-giai-cap-cong-nhan-hien-dai-cong-nhan-can-cong-doan-manh-me-20260604110226661.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Gần 476 tỷ đồng tặng quà người có công dịp 27/7",
         "link": "https://dantri.com.vn/noi-vu/gan-476-ty-dong-tang-qua-nguoi-co-cong-dip-277-20260603201840538.htm",
         "published": "Mới cập nhật",
@@ -696,6 +696,13 @@
         "category": "Trang chủ",
         "title": "Những điện thoại Android có thể “AirDrop” với iPhone",
         "link": "https://dantri.com.vn/cong-nghe/nhung-dien-thoai-android-co-the-airdrop-voi-iphone-20260530175000871.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Quảng cáo “đội lốt” trải nghiệm cá nhân: Người tiêu dùng bị KOL dẫn dắt",
+        "link": "https://dantri.com.vn/cong-nghe/quang-cao-doi-lot-trai-nghiem-ca-nhan-nguoi-tieu-dung-bi-kol-dan-dat-20260604115434812.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -946,10 +953,24 @@
     },
     {
         "category": "Xã hội",
+        "title": "Phú Thọ sẽ có thêm công viên nghĩa trang 80ha",
+        "link": "https://dantri.com.vn/thoi-su/phu-tho-se-co-them-cong-vien-nghia-trang-80ha-20260604221036985.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Xã hội",
         "title": "TPHCM chi 141 tỷ đồng cắm mốc dọc 515km sông, kênh rạch",
         "link": "https://dantri.com.vn/thoi-su/tphcm-chi-141-ty-dong-cam-moc-doc-515km-song-kenh-rach-20260604205554024.htm",
         "published": "Mới cập nhật",
         "summary": "TPHCM sẽ cắm mốc trên 55 tuyến sông, kênh, rạch với tổng chiều dài 515,9km nhằm đảm bảo an toàn cho người dân, giữ trật tự giao thông đường thủy và xử lý các hành vi lấn chiếm."
+    },
+    {
+        "category": "Xã hội",
+        "title": "TPHCM nghiên cứu kéo dài metro từ phường Bình Dương đến Bến Thành",
+        "link": "https://dantri.com.vn/thoi-su/tphcm-nghien-cuu-keo-dai-metro-tu-phuong-binh-duong-den-ben-thanh-20260604183114904.htm",
+        "published": "Mới cập nhật",
+        "summary": "Thay vì chỉ dừng ở phường Bình Hòa, tuyến Metro Thủ Dầu Một - TPHCM sẽ được kéo dài đến ga Tao Đàn, phường Bến Thành. Chiều dài tuyến tăng từ 22km lên gần 40km."
     },
     {
         "category": "Xã hội",
@@ -1002,13 +1023,6 @@
     },
     {
         "category": "Xã hội",
-        "title": "Vì một Việt Nam xanh và một đại dương hòa bình, bền vững",
-        "link": "https://dantri.com.vn/thoi-su/vi-mot-viet-nam-xanh-va-mot-dai-duong-hoa-binh-ben-vung-20260604181918971.htm",
-        "published": "Mới cập nhật",
-        "summary": "Báo Dân trí trân trọng giới thiệu bài viết của Tổng Bí thư, Chủ tịch nước Tô Lâm với tiêu đề \"Vì một nền văn minh sinh thái, một Việt Nam xanh và một đại dương hòa bình, bền vững\"."
-    },
-    {
-        "category": "Xã hội",
         "title": "Hà Nội chỉ đạo xử lý dứt điểm nhà siêu méo sau phản ánh của báo Dân trí",
         "link": "https://dantri.com.vn/thoi-su/ha-noi-chi-dao-xu-ly-dut-diem-nha-sieu-meo-sau-phan-anh-cua-bao-dan-tri-20260604002004211.htm",
         "published": "Mới cập nhật",
@@ -1025,6 +1039,13 @@
         "category": "Xã hội",
         "title": "Xuyên đêm phá dỡ giải phóng mặt bằng đường Vành đai 2,5 qua Yên Hòa",
         "link": "https://dantri.com.vn/thoi-su/xuyen-dem-pha-do-giai-phong-mat-bang-duong-vanh-dai-25-qua-yen-hoa-20260603150613969.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Xã hội",
+        "title": "Vì một Việt Nam xanh và một đại dương hòa bình, bền vững",
+        "link": "https://dantri.com.vn/thoi-su/vi-mot-viet-nam-xanh-va-mot-dai-duong-hoa-binh-ben-vung-20260604181918971.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1139,6 +1160,13 @@
         "link": "https://dantri.com.vn/the-gioi/co-may-cong-nghiep-quoc-phong-nga-tang-toc-chua-tung-co-20260603145247948.htm",
         "published": "Mới cập nhật",
         "summary": "Khi Nga phát động chiến dịch quân sự đặc biệt tại Ukraine (tháng 2/2022), nhiều nhà phân tích, giới quân sự phương Tây dự đoán có thể xảy ra sự đứt gãy của nền công nghiệp quốc phòng Nga."
+    },
+    {
+        "category": "Thế giới",
+        "title": "Lý do Nga liên tiếp không kích lớn vào Ukraine",
+        "link": "https://dantri.com.vn/the-gioi/ly-do-nga-lien-tiep-khong-kich-lon-vao-ukraine-20260604152949477.htm",
+        "published": "Mới cập nhật",
+        "summary": "Gần đây, Nga liên tục tiến hành các cuộc tấn công quy mô lớn vào Ukraine trong bối cảnh cuộc đà tiến công trên chiến trường chậm lại."
     },
     {
         "category": "Thế giới",
