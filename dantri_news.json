@@ -141,6 +141,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Zverev đe dọa vị trí của Alcaraz, Djokovic tụt xuống số 7 thế giới",
+        "link": "https://dantri.com.vn/the-thao/zverev-de-doa-vi-tri-cua-alcaraz-djokovic-tut-xuong-so-7-the-gioi-20260608213019116.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Thông tin mộ tập thể 70-90 liệt sỹ: Người dân sẵn sàng hỗ trợ",
         "link": "https://dantri.com.vn/noi-vu/thong-tin-mo-tap-the-70-90-liet-sy-nguoi-dan-san-sang-ho-tro-20260608132328665.htm",
         "published": "Mới cập nhật",
@@ -148,8 +155,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Mẹ ung thư, bà lao xương, bé gái lớp 7 nguy cơ phải nghỉ học",
-        "link": "https://dantri.com.vn/tam-long-nhan-ai/me-ung-thu-ba-lao-xuong-be-gai-lop-7-nguy-co-phai-nghi-hoc-20260525124552408.htm",
+        "title": "Trao hơn 104 triệu đồng đến sinh viên khó khăn, mẹ bị khiếm thị",
+        "link": "https://dantri.com.vn/tam-long-nhan-ai/trao-hon-104-trieu-dong-den-sinh-vien-kho-khan-me-bi-khiem-thi-20260608172410325.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -386,13 +393,6 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Báo Indonesia nói về tình cảnh khó của U19 Việt Nam tại giải Đông Nam Á",
-        "link": "https://dantri.com.vn/the-thao/bao-indonesia-noi-ve-tinh-canh-kho-cua-u19-viet-nam-tai-giai-dong-nam-a-20260608141119802.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Á hậu Thúy An ở nhà phố, biến tầng thượng 200m2 thành vườn rau xanh mát",
         "link": "https://dantri.com.vn/giai-tri/a-hau-thuy-an-o-nha-pho-bien-tang-thuong-200m2-thanh-vuon-rau-xanh-mat-20260606170040178.htm",
         "published": "Mới cập nhật",
@@ -463,20 +463,6 @@
     },
     {
         "category": "Trang chủ",
-        "title": "“Nhà mình khánh kiệt rồi, mẹ biết lấy gì để cứu con đây, Hiếu ơi!”",
-        "link": "https://dantri.com.vn/tam-long-nhan-ai/nha-minh-khanh-kiet-roi-me-biet-lay-gi-de-cuu-con-day-hieu-oi-20260529114112545.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Trao hơn 104 triệu đồng đến sinh viên khó khăn, mẹ bị khiếm thị",
-        "link": "https://dantri.com.vn/tam-long-nhan-ai/trao-hon-104-trieu-dong-den-sinh-vien-kho-khan-me-bi-khiem-thi-20260608172410325.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Nhân viên y tế hoại tử xương nghẹn ngào: \"Điều ước của em đã thành sự thật\"",
         "link": "https://dantri.com.vn/tam-long-nhan-ai/nhan-vien-y-te-hoai-tu-xuong-nghen-ngao-dieu-uoc-cua-em-da-thanh-su-that-20260607155059584.htm",
         "published": "Mới cập nhật",
@@ -491,8 +477,22 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Mẹ ung thư, bà lao xương, bé gái lớp 7 nguy cơ phải nghỉ học",
+        "link": "https://dantri.com.vn/tam-long-nhan-ai/me-ung-thu-ba-lao-xuong-be-gai-lop-7-nguy-co-phai-nghi-hoc-20260525124552408.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Người mẹ mắc ung thư phổi xúc động trước sự sẻ chia của bạn đọc Dân trí",
         "link": "https://dantri.com.vn/tam-long-nhan-ai/nguoi-me-mac-ung-thu-phoi-xuc-dong-truoc-su-se-chia-cua-ban-doc-dan-tri-20260605165730247.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Nụ cười ngày xuất viện của người mẹ nghèo từng tuyệt vọng chờ mổ tim",
+        "link": "https://dantri.com.vn/tam-long-nhan-ai/nu-cuoi-ngay-xuat-vien-cua-nguoi-me-ngheo-tung-tuyet-vong-cho-mo-tim-20260607102804360.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1856,10 +1856,17 @@
     },
     {
         "category": "Thể thao",
+        "title": "Báo Indonesia nói về tình cảnh khó của U19 Việt Nam tại giải Đông Nam Á",
+        "link": "https://dantri.com.vn/the-thao/bao-indonesia-noi-ve-tinh-canh-kho-cua-u19-viet-nam-tai-giai-dong-nam-a-20260608141119802.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Thể thao",
         "title": "Zverev trút bỏ gánh nặng sau chức vô địch Roland Garros",
         "link": "https://dantri.com.vn/the-thao/zverev-trut-bo-ganh-nang-sau-chuc-vo-dich-roland-garros-20260608110752905.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Alexander Zverev thừa nhận chức vô địch Roland Garros 2026 đã giúp anh trút bỏ áp lực đè nặng suốt nhiều năm, đồng thời tin rằng danh hiệu Grand Slam đầu tiên sẽ mở ra chương mới trong sự nghiệp."
     },
     {
         "category": "Thể thao",
@@ -1944,13 +1951,6 @@
         "link": "https://dantri.com.vn/the-thao/the-cong-viettel-gianh-ngoi-a-quan-clb-ninh-binh-dung-thu-ba-v-league-20260607210119858.htm",
         "published": "Mới cập nhật",
         "summary": "Vòng đấu cuối cùng V-League 2025-2026 tối 7/6 chứng kiến CLB Thể Công Viettel đánh bại CLB Công an Hà Nội để giành ngôi á quân cũng như tấm vé dự Cúp châu Á một cách xứng đáng."
-    },
-    {
-        "category": "Thể thao",
-        "title": "SHB Đà Nẵng trụ hạng, PVF-CAND đá play-off, Becamex TPHCM xuống hạng",
-        "link": "https://dantri.com.vn/the-thao/shb-da-nang-tru-hang-pvf-cand-da-play-off-becamex-tphcm-xuong-hang-20260607200307303.htm",
-        "published": "Mới cập nhật",
-        "summary": "Cả ba đội cuối bảng cùng giành chiến thắng ở vòng đấu cuối cùng V-League 2025-2026 tối 7/6. Kết quả này buộc đội bóng giàu truyền thống Becamex TPHCM xuống hạng."
     },
     {
         "category": "Thể thao",
