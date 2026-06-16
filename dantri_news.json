@@ -120,6 +120,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Mbappe đi vào lịch sử, đội tuyển Pháp đánh bại Senegal",
+        "link": "https://dantri.com.vn/the-thao/mbappe-di-vao-lich-su-doi-tuyen-phap-danh-bai-senegal-20260617040952178.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Đã tìm ra tác nhân khiến 124 người nhập viện sau khi ăn bánh mì",
         "link": "https://dantri.com.vn/suc-khoe/da-tim-ra-tac-nhan-khien-124-nguoi-nhap-vien-sau-khi-an-banh-mi-20260616172401268.htm",
         "published": "Mới cập nhật",
@@ -141,8 +148,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Báo chí thế giới dự đoán tỷ số trận đấu Argentina gặp Algeria",
-        "link": "https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ty-so-tran-dau-argentina-gap-algeria-20260616143739069.htm",
+        "title": "Nhận định Argentina - Algeria (8h ngày 17/6): Tâm điểm Lionel Messi",
+        "link": "https://dantri.com.vn/the-thao/nhan-dinh-argentina-algeria-8h-ngay-176-tam-diem-lionel-messi-20260614202411177.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -309,8 +316,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Cổ động viên nóng bỏng của Brazil gửi thông điệp đặc biệt trên khán đài",
-        "link": "https://dantri.com.vn/the-thao/co-dong-vien-nong-bong-cua-brazil-gui-thong-diep-dac-biet-tren-khan-dai-20260616114049785.htm",
+        "title": "Báo chí thế giới dự đoán tỷ số trận đấu Argentina gặp Algeria",
+        "link": "https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ty-so-tran-dau-argentina-gap-algeria-20260616143739069.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -416,20 +423,6 @@
         "category": "Trang chủ",
         "title": "Djokovic đối mặt nhiều rủi ro khi bước vào Wimbledon 2026",
         "link": "https://dantri.com.vn/the-thao/djokovic-doi-mat-nhieu-rui-ro-khi-buoc-vao-wimbledon-2026-20260616213621076.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "CĐV Đông Nam Á nhận xét về hậu vệ cao 1,95m của đội tuyển Việt Nam",
-        "link": "https://dantri.com.vn/the-thao/cdv-dong-nam-a-nhan-xet-ve-hau-ve-cao-195m-cua-doi-tuyen-viet-nam-20260615175151345.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Báo Thái Lan bình luận về danh sách tuyển Việt Nam trước AFF Cup",
-        "link": "https://dantri.com.vn/the-thao/bao-thai-lan-binh-luan-ve-danh-sach-tuyen-viet-nam-truoc-aff-cup-20260615175706337.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1828,6 +1821,13 @@
     },
     {
         "category": "Thể thao",
+        "title": "Cổ động viên nóng bỏng của Brazil gửi thông điệp đặc biệt trên khán đài",
+        "link": "https://dantri.com.vn/the-thao/co-dong-vien-nong-bong-cua-brazil-gui-thong-diep-dac-biet-tren-khan-dai-20260616114049785.htm",
+        "published": "Mới cập nhật",
+        "summary": "Gabriela Moura đã trở thành cái tên gây sốt trên mạng xã hội sau khi cô xuất hiện trên khán đài trong trận đấu giữa Brazil và Morocco."
+    },
+    {
+        "category": "Thể thao",
         "title": "Cựu HLV Nam Định đến Mexico dẫn dắt đội bóng thi đấu ở World Cup",
         "link": "https://dantri.com.vn/the-thao/cuu-hlv-nam-dinh-den-mexico-dan-dat-doi-bong-thi-dau-o-world-cup-20260616115922455.htm",
         "published": "Mới cập nhật",
@@ -1891,17 +1891,17 @@
     },
     {
         "category": "Thể thao",
-        "title": "Nhận định Argentina - Algeria (8h ngày 17/6): Tâm điểm Lionel Messi",
-        "link": "https://dantri.com.vn/the-thao/nhan-dinh-argentina-algeria-8h-ngay-176-tam-diem-lionel-messi-20260614202411177.htm",
-        "published": "Mới cập nhật",
-        "summary": "Argentina được đánh giá cao hơn Algeria trong cuộc so tài tại bảng J World Cup 2026 trên sân Kansas City (Mỹ). Người hâm mộ chờ đợi nhiều vào màn trình diễn bùng nổ của Messi."
-    },
-    {
-        "category": "Thể thao",
         "title": "Nhận định Pháp - Senegal (2h ngày 17/6): Les Bleus đòi món nợ 24 năm",
         "link": "https://dantri.com.vn/the-thao/nhan-dinh-phap-senegal-2h-ngay-176-les-bleus-doi-mon-no-24-nam-20260616070922798.htm",
         "published": "Mới cập nhật",
         "summary": "Ứng viên vô địch Pháp sẽ chạm trán Senegal trong trận mở màn bảng I World Cup 2026. Les Bleus được đánh giá nhỉnh hơn, nhưng đại diện châu Phi luôn tiềm ẩn khả năng gây bất ngờ."
+    },
+    {
+        "category": "Thể thao",
+        "title": "Thủ thành Cape Verde bật khóc sau trận hòa Tây Ban Nha",
+        "link": "https://dantri.com.vn/the-thao/thu-thanh-cape-verde-bat-khoc-sau-tran-hoa-tay-ban-nha-20260616084012066.htm",
+        "published": "Mới cập nhật",
+        "summary": "Thủ thành 40 tuổi, Vozinha vừa viết nên câu chuyện cổ tích khi giúp Cape Verde, đội bóng mới chỉ tham dự World Cup lần đâu tiên trong lịch sử, cầm hòa nhà đương kim vô địch châu Âu Tây Ban Nha."
     },
     {
         "category": "Thể thao",
