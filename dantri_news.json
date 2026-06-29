@@ -1,20 +1,6 @@
 [
     {
         "category": "Trang chủ",
-        "title": "Triển lãm quy hoạch Hà Nội đón lượng khách \"khủng\" ngay ngày đầu mở cửa",
-        "link": "https://dantri.com.vn/thoi-su/trien-lam-quy-hoach-ha-noi-don-luong-khach-khung-ngay-ngay-dau-mo-cua-20260629192639547.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Báo chí thế giới dự đoán tỷ số trận Brazil gặp Nhật Bản",
-        "link": "https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ty-so-tran-brazil-gap-nhat-ban-20260629193912948.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Xe bán tải chính thức được lưu thông như ô tô con từ 1/7",
         "link": "https://dantri.com.vn/o-to-xe-may/xe-ban-tai-chinh-thuc-duoc-luu-thong-nhu-o-to-con-tu-17-20260629200657026.htm",
         "published": "Mới cập nhật",
@@ -22,15 +8,29 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Điện Kremlin cảnh báo Ukraine trả giá khi vượt biên tấn công lãnh thổ Nga",
-        "link": "https://dantri.com.vn/the-gioi/dien-kremlin-canh-bao-ukraine-tra-gia-khi-vuot-bien-tan-cong-lanh-tho-nga-20260629204034502.htm",
+        "title": "Triển lãm quy hoạch Hà Nội đón lượng khách \"khủng\" ngay ngày đầu mở cửa",
+        "link": "https://dantri.com.vn/thoi-su/trien-lam-quy-hoach-ha-noi-don-luong-khach-khung-ngay-ngay-dau-mo-cua-20260629192639547.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Xe cứu hộ \"cõng\" Lexus trôi xuống sông: Trách nhiệm tài xế sẽ ra sao?",
-        "link": "https://dantri.com.vn/ban-doc/xe-cuu-ho-cong-lexus-troi-xuong-song-trach-nhiem-tai-xe-se-ra-sao-20260629133908640.htm",
+        "title": "Trực tiếp Nhật Bản 1-0 Brazil (Hiệp 1): Bàn thắng bùng nổ",
+        "link": "https://dantri.com.vn/the-thao/nhat-ban-1-0-brazil-hiep-1-ban-thang-bung-no-20260629232033673.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Người dân lắp điện mặt trời mái nhà chỉ cần thông báo UBND cấp xã",
+        "link": "https://dantri.com.vn/kinh-doanh/nguoi-dan-lap-dien-mat-troi-mai-nha-chi-can-thong-bao-ubnd-cap-xa-20260629145325964.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Điện Kremlin cảnh báo Ukraine trả giá khi vượt biên tấn công lãnh thổ Nga",
+        "link": "https://dantri.com.vn/the-gioi/dien-kremlin-canh-bao-ukraine-tra-gia-khi-vuot-bien-tan-cong-lanh-tho-nga-20260629204034502.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -50,8 +50,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Cố Giáo sư Nguyễn Đình Hối và lời dạy về \"bài học cả cuộc đời\"",
-        "link": "https://dantri.com.vn/suc-khoe/co-giao-su-nguyen-dinh-hoi-va-loi-day-ve-bai-hoc-ca-cuoc-doi-20260629121029731.htm",
+        "title": "Trực thăng diễn tập cứu người gặp nạn trên biển giữa siêu bão",
+        "link": "https://dantri.com.vn/thoi-su/truc-thang-dien-tap-cuu-nguoi-gap-nan-tren-bien-giua-sieu-bao-20260629205828161.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -113,13 +113,6 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Trực thăng diễn tập cứu người gặp nạn trên biển giữa siêu bão",
-        "link": "https://dantri.com.vn/thoi-su/truc-thang-dien-tap-cuu-nguoi-gap-nan-tren-bien-giua-sieu-bao-20260629205828161.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Phát hiện khối u chứa tóc và da trong buồng trứng bé gái 14 tuổi",
         "link": "https://dantri.com.vn/suc-khoe/phat-hien-khoi-u-chua-toc-va-da-trong-buong-trung-be-gai-14-tuoi-20260629181214888.htm",
         "published": "Mới cập nhật",
@@ -134,13 +127,6 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Nhật Bản đối đầu Brazil: Giấc mơ Tsubasa, khát vọng lịch sử ở World Cup",
-        "link": "https://dantri.com.vn/the-thao/nhat-ban-doi-dau-brazil-giac-mo-tsubasa-khat-vong-lich-su-o-world-cup-20260629093810592.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Nữ chính phim VTV \"Phía bên kia thành phố\" lột xác cuốn hút ngoài đời",
         "link": "https://dantri.com.vn/giai-tri/nu-chinh-phim-vtv-phia-ben-kia-thanh-pho-lot-xac-cuon-hut-ngoai-doi-20260629002002067.htm",
         "published": "Mới cập nhật",
@@ -148,8 +134,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Thông tin mộ tập thể 70-90 liệt sỹ: Phát hiện, cất bốc một hài cốt",
-        "link": "https://dantri.com.vn/noi-vu/thong-tin-mo-tap-the-70-90-liet-sy-phat-hien-cat-boc-mot-hai-cot-20260629164059281.htm",
+        "title": "Thanh Hóa đã khai quật 126 phần mộ phục vụ xác định danh tính liệt sỹ",
+        "link": "https://dantri.com.vn/noi-vu/thanh-hoa-da-khai-quat-126-phan-mo-phuc-vu-xac-dinh-danh-tinh-liet-sy-20260629160419656.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -162,8 +148,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Vì sao Hải quân Anh hủy dự án tàu khu trục Type 83 tối tân?",
-        "link": "https://dantri.com.vn/the-gioi/vi-sao-hai-quan-anh-huy-du-an-tau-khu-truc-type-83-toi-tan-20260629160428770.htm",
+        "title": "Belarus dọa dốc toàn lực đáp trả Ukraine sau tối hậu thư",
+        "link": "https://dantri.com.vn/the-gioi/belarus-doa-doc-toan-luc-dap-tra-ukraine-sau-toi-hau-thu-20260629222407051.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -204,8 +190,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Miền Bắc và miền Nam nhiều nơi mưa to, Biển Đông sắp có áp thấp nhiệt đới",
-        "link": "https://dantri.com.vn/thoi-tiet/mien-bac-va-mien-nam-nhieu-noi-mua-to-bien-dong-sap-co-ap-thap-nhiet-doi-20260628172545990.htm",
+        "title": "Xe cứu hộ \"cõng\" Lexus trôi xuống sông: Trách nhiệm tài xế sẽ ra sao?",
+        "link": "https://dantri.com.vn/ban-doc/xe-cuu-ho-cong-lexus-troi-xuong-song-trach-nhiem-tai-xe-se-ra-sao-20260629133908640.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Miền Bắc mưa lớn diện rộng",
+        "link": "https://dantri.com.vn/thoi-tiet/mien-bac-mua-lon-dien-rong-20260629214346210.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -239,20 +232,6 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Người dân lắp điện mặt trời mái nhà chỉ cần thông báo UBND cấp xã",
-        "link": "https://dantri.com.vn/kinh-doanh/nguoi-dan-lap-dien-mat-troi-mai-nha-chi-can-thong-bao-ubnd-cap-xa-20260629145325964.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Trong thiên tai, bảo vệ tính mạng nhân dân là mệnh lệnh cao nhất",
-        "link": "https://dantri.com.vn/thoi-su/trong-thien-tai-bao-ve-tinh-mang-nhan-dan-la-menh-lenh-cao-nhat-20260629215002987.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Sạt lở \"nuốt chửng\" đường đi, đe dọa nhà dân ở Đồng Tháp",
         "link": "https://dantri.com.vn/thoi-su/sat-lo-nuot-chung-duong-di-de-doa-nha-dan-o-dong-thap-20260629175252959.htm",
         "published": "Mới cập nhật",
@@ -281,6 +260,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Báo chí thế giới dự đoán tỷ số trận Brazil gặp Nhật Bản",
+        "link": "https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ty-so-tran-brazil-gap-nhat-ban-20260629193912948.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Báo châu Á: “HLV Hong Myung Bo phải xin lỗi người hâm mộ Hàn Quốc”",
         "link": "https://dantri.com.vn/the-thao/bao-chau-a-hlv-hong-myung-bo-phai-xin-loi-nguoi-ham-mo-han-quoc-20260629123625132.htm",
         "published": "Mới cập nhật",
@@ -295,8 +281,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Nhận định Hà Lan - Morocco (8h ngày 30/6): “Cơn lốc màu da cam” gặp khó",
-        "link": "https://dantri.com.vn/the-thao/nhan-dinh-ha-lan-morocco-8h-ngay-306-con-loc-mau-da-cam-gap-kho-20260629142921405.htm",
+        "title": "Nhật Bản đối đầu Brazil: Giấc mơ Tsubasa, khát vọng lịch sử ở World Cup",
+        "link": "https://dantri.com.vn/the-thao/nhat-ban-doi-dau-brazil-giac-mo-tsubasa-khat-vong-lich-su-o-world-cup-20260629093810592.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -400,15 +386,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Nhận định Đức - Paraguay (3h30 ngày 30/6): Chờ đẳng cấp lên tiếng",
-        "link": "https://dantri.com.vn/the-thao/nhan-dinh-duc-paraguay-3h30-ngay-306-cho-dang-cap-len-tieng-20260629134611319.htm",
+        "title": "Nhận định Hà Lan - Morocco (8h ngày 30/6): “Cơn lốc màu da cam” gặp khó",
+        "link": "https://dantri.com.vn/the-thao/nhan-dinh-ha-lan-morocco-8h-ngay-306-con-loc-mau-da-cam-gap-kho-20260629142921405.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Nhận định Brazil - Nhật Bản (0h ngày 30/6): Khát vọng làm nên lịch sử",
-        "link": "https://dantri.com.vn/the-thao/nhan-dinh-brazil-nhat-ban-0h-ngay-306-khat-vong-lam-nen-lich-su-20260628151049495.htm",
+        "title": "Nhận định Đức - Paraguay (3h30 ngày 30/6): Chờ đẳng cấp lên tiếng",
+        "link": "https://dantri.com.vn/the-thao/nhan-dinh-duc-paraguay-3h30-ngay-306-cho-dang-cap-len-tieng-20260629134611319.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -435,8 +421,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Khai mạc LHP châu Á Đà Nẵng 2026 thu hút 1.000 đại biểu, khách mời",
-        "link": "https://dantri.com.vn/giai-tri/khai-mac-lhp-chau-a-da-nang-2026-thu-hut-1000-dai-bieu-khach-moi-20260629020437207.htm",
+        "title": "Diễn viên Võ Đăng Khoa nói lý do bất ngờ đi thi \"The Face Vietnam\"",
+        "link": "https://dantri.com.vn/giai-tri/dien-vien-vo-dang-khoa-noi-ly-do-bat-ngo-di-thi-the-face-vietnam-20260628212959241.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -449,8 +435,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Thanh Hóa đã khai quật 126 phần mộ phục vụ xác định danh tính liệt sỹ",
-        "link": "https://dantri.com.vn/noi-vu/thanh-hoa-da-khai-quat-126-phan-mo-phuc-vu-xac-dinh-danh-tinh-liet-sy-20260629160419656.htm",
+        "title": "Thông tin mộ tập thể 70-90 liệt sỹ: Phát hiện, cất bốc một hài cốt",
+        "link": "https://dantri.com.vn/noi-vu/thong-tin-mo-tap-the-70-90-liet-sy-phat-hien-cat-boc-mot-hai-cot-20260629164059281.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -519,6 +505,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Vì sao Hải quân Anh hủy dự án tàu khu trục Type 83 tối tân?",
+        "link": "https://dantri.com.vn/the-gioi/vi-sao-hai-quan-anh-huy-du-an-tau-khu-truc-type-83-toi-tan-20260629160428770.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Malaysia gia hạn chiến dịch tìm kiếm máy bay mất tích MH370",
         "link": "https://dantri.com.vn/the-gioi/malaysia-gia-han-chien-dich-tim-kiem-may-bay-mat-tich-mh370-20260629160301704.htm",
         "published": "Mới cập nhật",
@@ -528,13 +521,6 @@
         "category": "Trang chủ",
         "title": "Châu Âu oằn mình dưới nắng nóng",
         "link": "https://dantri.com.vn/the-gioi/chau-au-oan-minh-duoi-nang-nong-20260629155914108.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Thủ tướng Anh sẽ lãnh đạo NATO sau khi từ chức?",
-        "link": "https://dantri.com.vn/the-gioi/thu-tuong-anh-se-lanh-dao-nato-sau-khi-tu-chuc-20260629153308851.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -904,6 +890,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Miền Bắc và miền Nam nhiều nơi mưa to, Biển Đông sắp có áp thấp nhiệt đới",
+        "link": "https://dantri.com.vn/thoi-tiet/mien-bac-va-mien-nam-nhieu-noi-mua-to-bien-dong-sap-co-ap-thap-nhiet-doi-20260628172545990.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "TPHCM và Nam Bộ mưa nhiều hơn từ cuối tháng 6",
         "link": "https://dantri.com.vn/thoi-tiet/tphcm-va-nam-bo-mua-nhieu-hon-tu-cuoi-thang-6-20260627204218116.htm",
         "published": "Mới cập nhật",
@@ -924,9 +917,9 @@
         "summary": ""
     },
     {
-        "category": "Trang chủ",
-        "title": "Lượng mưa ở TPHCM tăng dần, cảnh báo ngập",
-        "link": "https://dantri.com.vn/thoi-tiet/luong-mua-o-tphcm-tang-dan-canh-bao-ngap-20260625191724793.htm",
+        "category": "Xã hội",
+        "title": "Trong thiên tai, bảo vệ tính mạng nhân dân là mệnh lệnh cao nhất",
+        "link": "https://dantri.com.vn/thoi-su/trong-thien-tai-bao-ve-tinh-mang-nhan-dan-la-menh-lenh-cao-nhat-20260629215002987.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1205,10 +1198,17 @@
     },
     {
         "category": "Thế giới",
+        "title": "Thủ tướng Anh sẽ lãnh đạo NATO sau khi từ chức?",
+        "link": "https://dantri.com.vn/the-gioi/thu-tuong-anh-se-lanh-dao-nato-sau-khi-tu-chuc-20260629153308851.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Thế giới",
         "title": "Hàn Quốc bị nghi phản ứng chậm sau vụ Triều Tiên thử vũ khí mới",
         "link": "https://dantri.com.vn/the-gioi/han-quoc-bi-nghi-phan-ung-cham-sau-vu-trieu-tien-thu-vu-khi-moi-20260629150329560.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Hàn Quốc tuyên bố phối hợp \"chặt chẽ\" với Mỹ giám sát các vụ phóng tên lửa của Triều Tiên, giữa lúc hứng chỉ trích ngày càng tăng vì chậm trễ trong việc công bố vụ phóng mới nhất của Bình Nhưỡng."
     },
     {
         "category": "Thế giới",
@@ -1286,13 +1286,6 @@
         "link": "https://dantri.com.vn/the-gioi/tong-thong-putin-canh-bao-phuong-tay-ve-ke-hoach-danh-bai-nga-20260629075033073.htm",
         "published": "Mới cập nhật",
         "summary": "Tổng thống Vladimir Putin tuyên bố Nga đang đối mặt với sức ép chưa từng có từ phương Tây nhằm đánh bại Moscow."
-    },
-    {
-        "category": "Thế giới",
-        "title": "Vương phi Kate chinh phục 3 đỉnh núi cao nhất Anh trong 24 giờ",
-        "link": "https://dantri.com.vn/the-gioi/vuong-phi-kate-chinh-phuc-3-dinh-nui-cao-nhat-anh-trong-24-gio-20260629074740671.htm",
-        "published": "Mới cập nhật",
-        "summary": "Vương phi xứ Wales cho biết ngày 28/6 rằng bà đã chinh phục 3 đỉnh núi cao nhất Vương quốc Anh trong vòng 24 giờ nhằm gây quỹ cho một tổ chức từ thiện về ung thư."
     },
     {
         "category": "Thế giới",
@@ -1933,17 +1926,17 @@
     },
     {
         "category": "Thể thao",
+        "title": "Nhận định Brazil - Nhật Bản (0h ngày 30/6): Khát vọng làm nên lịch sử",
+        "link": "https://dantri.com.vn/the-thao/nhan-dinh-brazil-nhat-ban-0h-ngay-306-khat-vong-lam-nen-lich-su-20260628151049495.htm",
+        "published": "Mới cập nhật",
+        "summary": "Nhật Bản chưa khi nào là đối thủ của Brazil nhưng ở vòng 1/16 World Cup 2026 trên sân Houston (Mỹ) đêm nay, đại diện châu Á có khát vọng và cơ sở niềm tin để làm nên lịch sử."
+    },
+    {
+        "category": "Thể thao",
         "title": "HLV Park Hang Seo cúi đầu xin lỗi khi Hàn Quốc bị loại ở World Cup",
         "link": "https://dantri.com.vn/the-thao/hlv-park-hang-seo-cui-dau-xin-loi-khi-han-quoc-bi-loai-o-world-cup-20260629064053709.htm",
         "published": "Mới cập nhật",
         "summary": "Phó Chủ tịch Liên đoàn bóng đá Hàn Quốc (KFA) đã cúi đầu xin lỗi người hâm mộ sau thất bại của đội tuyển quốc gia nước này ở World Cup 2026."
-    },
-    {
-        "category": "Thể thao",
-        "title": "Lịch thi đấu và trực tiếp World Cup ngày 29/6",
-        "link": "https://dantri.com.vn/the-thao/lich-thi-dau-va-truc-tiep-world-cup-ngay-296-20260628235211067.htm",
-        "published": "Mới cập nhật",
-        "summary": "Dân trí cập nhật lịch thi đấu và trực tiếp World Cup 2026 ngày 29/6 với các trận đấu giữa Brazil gặp Nhật Bản (0h ngày 30/6), Đức gặp Paraguay (3h30 ngày 30/6)."
     },
     {
         "category": "Thể thao",
@@ -2117,6 +2110,13 @@
         "category": "Thể thao",
         "title": "Sabastian Sawe được kỳ vọng làm nên lịch sử ở Berlin Marathon 2026",
         "link": "https://dantri.com.vn/the-thao/sabastian-sawe-duoc-ky-vong-lam-nen-lich-su-o-berlin-marathon-2026-20260522103930993.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Sức khỏe",
+        "title": "Cố Giáo sư Nguyễn Đình Hối và lời dạy về \"bài học cả cuộc đời\"",
+        "link": "https://dantri.com.vn/suc-khoe/co-giao-su-nguyen-dinh-hoi-va-loi-day-ve-bai-hoc-ca-cuoc-doi-20260629121029731.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -2682,17 +2682,17 @@
     },
     {
         "category": "Giải trí",
-        "title": "Diễn viên Võ Đăng Khoa nói lý do bất ngờ đi thi \"The Face Vietnam\"",
-        "link": "https://dantri.com.vn/giai-tri/dien-vien-vo-dang-khoa-noi-ly-do-bat-ngo-di-thi-the-face-vietnam-20260628212959241.htm",
-        "published": "Mới cập nhật",
-        "summary": "Việc Võ Đăng Khoa ghi danh The Face Vietnam 2026 thu hút sự chú ý của khán giả bởi anh vốn được biết đến qua nhiều dự án phim ảnh."
-    },
-    {
-        "category": "Giải trí",
         "title": "Người đẹp Myanmar đăng quang Hoa hậu Văn hóa Thế giới 2026",
         "link": "https://dantri.com.vn/giai-tri/nguoi-dep-myanmar-dang-quang-hoa-hau-van-hoa-the-gioi-2026-20260629022156231.htm",
         "published": "Mới cập nhật",
         "summary": "Vượt qua 19 thí sinh xuất sắc, người đẹp đến từ Myanmar - Soe Myintzu Lwin - đã đăng quang ngôi vị Hoa hậu Văn hóa Thế giới 2026 được tổ chức tại Việt Nam."
+    },
+    {
+        "category": "Giải trí",
+        "title": "Khai mạc LHP châu Á Đà Nẵng 2026 thu hút 1.000 đại biểu, khách mời",
+        "link": "https://dantri.com.vn/giai-tri/khai-mac-lhp-chau-a-da-nang-2026-thu-hut-1000-dai-bieu-khach-moi-20260629020437207.htm",
+        "published": "Mới cập nhật",
+        "summary": "Liên hoan phim châu Á Đà Nẵng lần thứ IV (DANAFF IV) với sự tham dự của khoảng 1.000 đại biểu, khách mời, nghệ sĩ, nhà làm phim trong nước và quốc tế."
     },
     {
         "category": "Giải trí",
