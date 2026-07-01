@@ -127,8 +127,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Trực tiếp Bỉ 0-0 Senegal (Hiệp1); Quyết tâm chiến thắng",
-        "link": "https://dantri.com.vn/the-thao/bi-0-0-senegal-hiep1-quyet-tam-chien-thang-20260702025614208.htm",
+        "title": "Trực tiếp Bỉ 0-2 Senegal (Hiệp 2): \"Quỷ đỏ\" gục ngã",
+        "link": "https://dantri.com.vn/the-thao/bi-0-2-senegal-hiep-2-quy-do-guc-nga-20260702025614208.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -150,6 +150,13 @@
         "category": "Trang chủ",
         "title": "Nhà kiểu tổ kiến ở Ấn Độ không lắp điều hòa vẫn mát lạnh giữa nắng nóng",
         "link": "https://dantri.com.vn/doi-song/nha-kieu-to-kien-o-an-do-khong-lap-dieu-hoa-van-mat-lanh-giua-nang-nong-20260701171959686.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Mbappe, Haaland chơi bùng nổ: Những kẻ thách thức “ngai vàng” của Messi",
+        "link": "https://dantri.com.vn/the-thao/mbappe-haaland-choi-bung-no-nhung-ke-thach-thuc-ngai-vang-cua-messi-20260701133922861.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -197,8 +204,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Đề vào lớp 6 Trần Đại Nghĩa \"dễ hơn\", thay đổi cấu trúc chấm",
-        "link": "https://dantri.com.vn/giao-duc/de-vao-lop-6-tran-dai-nghia-de-hon-thay-doi-cau-truc-cham-20260701155618509.htm",
+        "title": "Công bố điểm sàn 12 trường thuộc Đại học Quốc gia Hà Nội",
+        "link": "https://dantri.com.vn/giao-duc/cong-bo-diem-san-12-truong-thuoc-dai-hoc-quoc-gia-ha-noi-20260701224227714.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -290,13 +297,6 @@
         "category": "Trang chủ",
         "title": "\"Tổ chức biên chế phù hợp quy mô dân số, không cào bằng\"",
         "link": "https://dantri.com.vn/thoi-su/to-chuc-bien-che-phu-hop-quy-mo-dan-so-khong-cao-bang-20260701160006922.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Mbappe, Haaland chơi bùng nổ: Những kẻ thách thức “ngai vàng” của Messi",
-        "link": "https://dantri.com.vn/the-thao/mbappe-haaland-choi-bung-no-nhung-ke-thach-thuc-ngai-vang-cua-messi-20260701133922861.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -423,6 +423,13 @@
         "category": "Trang chủ",
         "title": "Sinner vượt khó, tiếp tục bảo vệ ngôi vương Wimbledon",
         "link": "https://dantri.com.vn/the-thao/sinner-vuot-kho-tiep-tuc-bao-ve-ngoi-vuong-wimbledon-20260702013558813.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Nhiều tay golf có chất lượng tham dự giải John Deere Classic 2026",
+        "link": "https://dantri.com.vn/the-thao/nhieu-tay-golf-co-chat-luong-tham-du-giai-john-deere-classic-2026-20260702010744066.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -638,10 +645,17 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Đề vào lớp 6 Trần Đại Nghĩa \"dễ hơn\", thay đổi cấu trúc chấm",
+        "link": "https://dantri.com.vn/giao-duc/de-vao-lop-6-tran-dai-nghia-de-hon-thay-doi-cau-truc-cham-20260701155618509.htm",
+        "published": "Mới cập nhật",
+        "summary": "Cấu trúc điểm chấm vào lớp 6 Trường THCS và THPT Trần Đại Nghĩa năm nay được TPHCM thay đổi, phân bổ đều ở các phần năng lực thay vì “lệch” như mọi năm. Đề được đánh giá dễ thở hơn so với mọi năm."
+    },
+    {
+        "category": "Trang chủ",
         "title": "Đại học Kinh tế quốc dân dự kiến giảm điểm chuẩn",
         "link": "https://dantri.com.vn/giao-duc/dai-hoc-kinh-te-quoc-dan-du-kien-giam-diem-chuan-20260701174506017.htm",
         "published": "Mới cập nhật",
-        "summary": "Ngay sau khi có phổ điểm thi tốt nghiệp THPT, Đại học Kinh tế Quốc dân dự đoán điểm chuẩn vào trường năm nay sẽ giảm nhẹ tùy từng ngành."
+        "summary": ""
     },
     {
         "category": "Trang chủ",
@@ -682,13 +696,6 @@
         "category": "Trang chủ",
         "title": "Hơn 142.000 thí sinh dự thi, TPHCM chỉ có 1 em đạt 9,5 điểm môn văn",
         "link": "https://dantri.com.vn/giao-duc/hon-142000-thi-sinh-du-thi-tphcm-chi-co-1-em-dat-95-diem-mon-van-20260701125904335.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Nữ thủ khoa khối B00: \"Em muốn hét thật to nhưng đang đau họng\"",
-        "link": "https://dantri.com.vn/giao-duc/nu-thu-khoa-khoi-b00-em-muon-het-that-to-nhung-dang-dau-hong-20260701123354075.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1884,13 +1891,6 @@
     },
     {
         "category": "Thể thao",
-        "title": "Mbappe cân bằng thành tích của Messi, tuyển Pháp đi vào lịch sử World Cup",
-        "link": "https://dantri.com.vn/the-thao/mbappe-can-bang-thanh-tich-cua-messi-tuyen-phap-di-vao-lich-su-world-cup-20260701082314261.htm",
-        "published": "Mới cập nhật",
-        "summary": "Kylian Mbappe tỏa sáng rực rỡ với cú đúp bàn thắng trong chiến thắng 3-0 của tuyển Pháp trước Thụy Điển và giúp đoàn quân của huấn luyện viên (HLV) Didier Deschamps đi vào lịch sử World Cup."
-    },
-    {
-        "category": "Thể thao",
         "title": "Vòng 1/16 World Cup: Thời khắc sự thật với Nhật Bản, cú sốc Đức, Hà Lan",
         "link": "https://dantri.com.vn/the-thao/vong-116-world-cup-thoi-khac-su-that-voi-nhat-ban-cu-soc-duc-ha-lan-20260630155507319.htm",
         "published": "Mới cập nhật",
@@ -1991,13 +1991,6 @@
         "category": "Thể thao",
         "title": "Nelly Korda vô địch giải golf danh giá U.S Women’s Open 2026",
         "link": "https://dantri.com.vn/the-thao/nelly-korda-vo-dich-giai-golf-danh-gia-us-womens-open-2026-20260608233555808.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Thể thao",
-        "title": "Đội tuyển trẻ Việt Nam vô địch giải golf Junior Alliance Cup 2026",
-        "link": "https://dantri.com.vn/the-thao/doi-tuyen-tre-viet-nam-vo-dich-giai-golf-junior-alliance-cup-2026-20260608144804921.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -3067,6 +3060,13 @@
     },
     {
         "category": "Giáo dục",
+        "title": "Nữ thủ khoa khối B00: \"Em muốn hét thật to nhưng đang đau họng\"",
+        "link": "https://dantri.com.vn/giao-duc/nu-thu-khoa-khoi-b00-em-muon-het-that-to-nhung-dang-dau-hong-20260701123354075.htm",
+        "published": "Mới cập nhật",
+        "summary": "Trong căn nhà nhỏ ở Hà Tĩnh, Hoài Thu vỡ òa khi trở thành thủ khoa khối B00 của tỉnh, á khoa toàn quốc. Nữ sinh quyết tâm theo đuổi ngành y với ước mơ trở thành bác sĩ."
+    },
+    {
+        "category": "Giáo dục",
         "title": "Niềm vui đến 3 lần của nữ sinh lọt top thủ khoa toàn quốc",
         "link": "https://dantri.com.vn/giao-duc/niem-vui-den-3-lan-cua-nu-sinh-lot-top-thu-khoa-toan-quoc-20260701131107192.htm",
         "published": "Mới cập nhật",
@@ -3134,13 +3134,6 @@
         "link": "https://dantri.com.vn/giao-duc/hon-7880-diem-10-thi-tot-nghiep-thpt-2026-bat-ngo-mon-toan-20260629142443418.htm",
         "published": "Mới cập nhật",
         "summary": "Kỳ thi tốt nghiệp THPT năm nay ghi nhận điểm 10 có sự biến động mạnh so với năm 2025, đặc biệt với môn toán."
-    },
-    {
-        "category": "Giáo dục",
-        "title": "VinUni và UPenn: Từ hỗ trợ kỹ thuật đến đối tác bình đẳng",
-        "link": "https://dantri.com.vn/giao-duc/vinuni-va-upenn-tu-ho-tro-ky-thuat-den-doi-tac-binh-dang-20260701152819095.htm",
-        "published": "Mới cập nhật",
-        "summary": "Bắt đầu từ hành trình gian nan tìm kiếm sự hỗ trợ của các đại học Ivy League để xây dựng nền tảng học thuật theo chuẩn quốc tế, sau 8 năm, trường Đại học VinUni (VinUni) đã vươn lên là đối tác bình đẳng với Đại học Pennsylvania (UPenn)."
     },
     {
         "category": "Giáo dục",
