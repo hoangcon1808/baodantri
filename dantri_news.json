@@ -15,8 +15,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Rà soát kết quả thi tốt nghiệp THPT cả nước sau bất thường ở Tuyên Quang",
-        "link": "https://dantri.com.vn/thoi-su/ra-soat-ket-qua-thi-tot-nghiep-thpt-ca-nuoc-sau-bat-thuong-o-tuyen-quang-20260707194413442.htm",
+        "title": "TPHCM lấy ý kiến người dân về tên ga metro",
+        "link": "https://dantri.com.vn/thoi-su/tphcm-lay-y-kien-nguoi-dan-ve-ten-ga-metro-20260707203126653.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -115,6 +115,20 @@
         "category": "Trang chủ",
         "title": "Khách mua kim cương có chứng nhận của P-Lab nên làm gì?",
         "link": "https://dantri.com.vn/kinh-doanh/khach-mua-kim-cuong-co-chung-nhan-cua-p-lab-nen-lam-gi-20260704115539492.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Rà soát kết quả thi tốt nghiệp THPT cả nước sau bất thường ở Tuyên Quang",
+        "link": "https://dantri.com.vn/thoi-su/ra-soat-ket-qua-thi-tot-nghiep-thpt-ca-nuoc-sau-bat-thuong-o-tuyen-quang-20260707194413442.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Trực tiếp Thụy Sĩ 0-0 Colombia (hết hiệp 1): Thế trận giằng co",
+        "link": "https://dantri.com.vn/the-thao/thuy-si-0-0-colombia-het-hiep-1-the-tran-giang-co-20260708025014129.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -276,13 +290,6 @@
         "category": "Trang chủ",
         "title": "FIFA không cứu được tuyển Mỹ, các đội chủ nhà gục ngã ở World Cup 2026",
         "link": "https://dantri.com.vn/the-thao/fifa-khong-cuu-duoc-tuyen-my-cac-doi-chu-nha-guc-nga-o-world-cup-2026-20260707123359675.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Báo chí thế giới dự đoán tỷ số trận đấu Argentina gặp Ai Cập",
-        "link": "https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ty-so-tran-dau-argentina-gap-ai-cap-20260707190826881.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -915,13 +922,6 @@
         "link": "https://dantri.com.vn/thoi-su/ha-noi-xay-quang-truong-pho-di-bo-tran-nhan-tong-truoc-cong-vien-thong-nhat-20260707065059242.htm",
         "published": "Mới cập nhật",
         "summary": ""
-    },
-    {
-        "category": "Xã hội",
-        "title": "TPHCM lấy ý kiến người dân về tên ga metro",
-        "link": "https://dantri.com.vn/thoi-su/tphcm-lay-y-kien-nguoi-dan-ve-ten-ga-metro-20260707203126653.htm",
-        "published": "Mới cập nhật",
-        "summary": "Người dân TPHCM được lấy ý kiến đánh giá về tên nhà ga của tuyến Metro Bến Thành - Suối Tiên; đồng thời nêu những mong muốn, đề xuất về tên gọi của các tuyến metro và nhà ga trong tương lai."
     },
     {
         "category": "Xã hội",
@@ -1765,6 +1765,13 @@
     },
     {
         "category": "Thể thao",
+        "title": "Báo chí thế giới dự đoán tỷ số trận đấu Argentina gặp Ai Cập",
+        "link": "https://dantri.com.vn/the-thao/bao-chi-the-gioi-du-doan-ty-so-tran-dau-argentina-gap-ai-cap-20260707190826881.htm",
+        "published": "Mới cập nhật",
+        "summary": "Nhiều tờ báo trên thế giới đã đưa ra dự đoán kết quả trận đấu giữa Argentina gặp Ai Cập ở vòng 1/8 World Cup 2026 diễn ra vào lúc 23h ngày 7/7 trên sân Mercedes-Benz (Mỹ)."
+    },
+    {
+        "category": "Thể thao",
         "title": "FIFA khủng hoảng vì ưu ái tuyển Mỹ, nhiều đội bóng đòi… xóa thẻ",
         "link": "https://dantri.com.vn/the-thao/fifa-khung-hoang-vi-uu-ai-tuyen-my-nhieu-doi-bong-doi-xoa-the-20260707194037306.htm",
         "published": "Mới cập nhật",
@@ -1839,13 +1846,6 @@
         "link": "https://dantri.com.vn/the-thao/fifa-tao-ra-tien-le-xau-doi-tuyen-anh-muon-hoan-the-do-cua-jarell-quansah-20260707090213315.htm",
         "published": "Mới cập nhật",
         "summary": "Đội tuyển Anh đang cân nhắc việc kháng cáo quyết định truất quyền thi đấu của Jarell Quansah trong trận đấu với Mexico, sau khi FIFA tạo ra tiền lệ xấu trong vụ việc cầu thủ Balogun của tuyển Mỹ."
-    },
-    {
-        "category": "Thể thao",
-        "title": "C.Ronaldo: \"Chức vô địch Euro 2016 có ý nghĩa như World Cup\"",
-        "link": "https://dantri.com.vn/the-thao/cronaldo-chuc-vo-dich-euro-2016-co-y-nghia-nhu-world-cup-20260707075928302.htm",
-        "published": "Mới cập nhật",
-        "summary": "Phát biểu sau trận thua trước Tây Ban Nha, Cristiano Ronaldo khẳng định chức vô địch Euro có ý nghĩa không khác gì World Cup."
     },
     {
         "category": "Thể thao",
