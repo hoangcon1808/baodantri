@@ -127,7 +127,7 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Trực tiếp Thủ môn Man Utd mắc sai lầm, Tây Ban Nha thắng Bỉ và đụng độ Pháp ở bán kết",
+        "title": "Thủ môn Man Utd mắc sai lầm, Tây Ban Nha thắng Bỉ và đụng độ Pháp ở bán kết",
         "link": "https://dantri.com.vn/the-thao/thu-mon-man-utd-mac-sai-lam-tay-ban-nha-thang-bi-va-dung-do-phap-o-ban-ket-20260711013732267.htm",
         "published": "Mới cập nhật",
         "summary": ""
@@ -143,13 +143,6 @@
         "category": "Trang chủ",
         "title": "Sẽ có khu đô thị sân bay Gia Bình hơn 560ha",
         "link": "https://dantri.com.vn/bat-dong-san/se-co-khu-do-thi-san-bay-gia-binh-hon-560ha-20260710145750005.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Kylian Mbappe - Lionel Messi: “Siêu nhân” phá vỡ chuẩn mực World Cup",
-        "link": "https://dantri.com.vn/the-thao/kylian-mbappe-lionel-messi-sieu-nhan-pha-vo-chuan-muc-world-cup-20260710151958490.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -304,6 +297,13 @@
         "category": "Trang chủ",
         "title": "Phó Thủ tướng Lê Tiến Châu dâng hương tưởng nhớ Anh hùng Ngô Thị Tuyển",
         "link": "https://dantri.com.vn/thoi-su/pho-thu-tuong-le-tien-chau-dang-huong-tuong-nho-anh-hung-ngo-thi-tuyen-20260710160420746.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Kylian Mbappe - Lionel Messi: “Siêu nhân” phá vỡ chuẩn mực World Cup",
+        "link": "https://dantri.com.vn/the-thao/kylian-mbappe-lionel-messi-sieu-nhan-pha-vo-chuan-muc-world-cup-20260710151958490.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1142,17 +1142,10 @@
     },
     {
         "category": "Thế giới",
-        "title": "Chiến sự Ukraine 9/7: Nga tấn công Sloviansk, Ukraine tăng viện khẩn cấp",
-        "link": "https://dantri.com.vn/the-gioi/chien-su-ukraine-97-nga-tan-cong-sloviansk-ukraine-tang-vien-khan-cap-20260709104949197.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Thế giới",
         "title": "Khoảnh khắc lính dù Trung Quốc cứu đồng đội bất tỉnh giữa không trung",
         "link": "https://dantri.com.vn/the-gioi/khoanh-khac-linh-du-trung-quoc-cuu-dong-doi-bat-tinh-giua-khong-trung-20260710173233001.htm",
         "published": "Mới cập nhật",
-        "summary": "Một lính dù Trung Quốc đã cứu sống đồng đội bị bất tỉnh sau khi dù của hai người bị mắc vào nhau giữa không trung."
+        "summary": ""
     },
     {
         "category": "Thế giới",
@@ -1240,6 +1233,13 @@
     },
     {
         "category": "Thế giới",
+        "title": "Hội nghị Ankara và bước ngoặt từ NATO 2.0 sang 3.0",
+        "link": "https://dantri.com.vn/the-gioi/hoi-nghi-ankara-va-buoc-ngoat-tu-nato-20-sang-30-20260709224541111.htm",
+        "published": "Mới cập nhật",
+        "summary": "Khái niệm “NATO 3.0” ngày càng được giới nghiên cứu sử dụng để mô tả giai đoạn phát triển mới của liên minh quân sự này."
+    },
+    {
+        "category": "Thế giới",
         "title": "Mỹ trút hỏa lực tấn công 90 mục tiêu của Iran",
         "link": "https://dantri.com.vn/the-gioi/my-trut-hoa-luc-tan-cong-90-muc-tieu-cua-iran-20260709142425458.htm",
         "published": "Mới cập nhật",
@@ -1282,13 +1282,6 @@
     },
     {
         "category": "Thế giới",
-        "title": "Hội nghị Ankara và bước ngoặt từ NATO 2.0 sang 3.0",
-        "link": "https://dantri.com.vn/the-gioi/hoi-nghi-ankara-va-buoc-ngoat-tu-nato-20-sang-30-20260709224541111.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Thế giới",
         "title": "Mỹ muốn dùng chiến lược nào với Iran?",
         "link": "https://dantri.com.vn/the-gioi/my-muon-dung-chien-luoc-nao-voi-iran-20260709230532514.htm",
         "published": "Mới cập nhật",
@@ -1298,6 +1291,13 @@
         "category": "Thế giới",
         "title": "Mật vụ Mỹ khuyên Tổng thống Trump đổi chuyên cơ vào phút chót?",
         "link": "https://dantri.com.vn/the-gioi/mat-vu-my-khuyen-tong-thong-trump-doi-chuyen-co-vao-phut-chot-20260709155735294.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Thế giới",
+        "title": "Chiến sự Ukraine 9/7: Nga tấn công Sloviansk, Ukraine tăng viện khẩn cấp",
+        "link": "https://dantri.com.vn/the-gioi/chien-su-ukraine-97-nga-tan-cong-sloviansk-ukraine-tang-vien-khan-cap-20260709104949197.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
