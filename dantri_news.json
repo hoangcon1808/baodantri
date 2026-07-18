@@ -1,8 +1,29 @@
 [
     {
         "category": "Trang chủ",
-        "title": "Phát hiện cây bút khắc chữ \"Tiến Quy\" cùng nhiều di vật ở Đồng Nai",
-        "link": "https://dantri.com.vn/thoi-su/phat-hien-cay-but-khac-chu-tien-quy-cung-nhieu-di-vat-o-dong-nai-20260717161910956.htm",
+        "title": "Miền Bắc tiếp tục mưa rất to, hàng chục xã có nguy cơ lũ quét và sạt lở đất",
+        "link": "https://dantri.com.vn/thoi-su/mien-bac-tiep-tuc-mua-rat-to-hang-chuc-xa-co-nguy-co-lu-quet-va-sat-lo-dat-20260718083357925.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Địa đạo bên bờ biển từng là mộ tập thể của 64 liệt sỹ",
+        "link": "https://dantri.com.vn/noi-vu/dia-dao-ben-bo-bien-tung-la-mo-tap-the-cua-64-liet-sy-20260717173736875.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Trận lũ kinh hoàng ở Lai Châu: Phát hiện thêm 3 thi thể nạn nhân",
+        "link": "https://dantri.com.vn/thoi-su/tran-lu-kinh-hoang-o-lai-chau-phat-hien-them-3-thi-the-nan-nhan-20260718093641230.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Nhận định Pháp - Anh (4h ngày 19/7): Chương cuối của Deschamps",
+        "link": "https://dantri.com.vn/the-thao/nhan-dinh-phap-anh-4h-ngay-197-chuong-cuoi-cua-deschamps-20260718090754482.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -15,29 +36,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Bộ Công an thụ lý điều tra vụ điểm 10 toán tại Trường Chuyên Tuyên Quang",
-        "link": "https://dantri.com.vn/phap-luat/bo-cong-an-thu-ly-dieu-tra-vu-diem-10-toan-tai-truong-chuyen-tuyen-quang-20260717191342613.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Mỹ mở rộng không kích, Iran dọa mở chiến dịch tấn công toàn diện",
         "link": "https://dantri.com.vn/the-gioi/my-mo-rong-khong-kich-iran-doa-mo-chien-dich-tan-cong-toan-dien-20260718060018377.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Chuyện xót xa sau video con trai được mẹ đang mắc bệnh giai đoạn cuối vỗ về",
-        "link": "https://dantri.com.vn/doi-song/chuyen-xot-xa-sau-video-con-trai-duoc-me-dang-mac-benh-giai-doan-cuoi-vo-ve-20260717104243424.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Đại biểu Quốc hội chỉ rõ \"điểm rủi ro\" cần lưu ý ở kỳ thi tốt nghiệp THPT",
-        "link": "https://dantri.com.vn/giao-duc/dai-bieu-quoc-hoi-chi-ro-diem-rui-ro-can-luu-y-o-ky-thi-tot-nghiep-thpt-20260717114006659.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -50,6 +50,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Cho cá \"ăn tỏi, tập thể dục\", nông dân U60 chốt đơn cả trăm tấn cá online",
+        "link": "https://dantri.com.vn/khoa-hoc/cho-ca-an-toi-tap-the-duc-nong-dan-u60-chot-don-ca-tram-tan-ca-online-20260716155654282.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Ký ức hào hùng trong cuộc hội ngộ đặc biệt của những người \"gác tuyến lửa\"",
         "link": "https://dantri.com.vn/tam-long-nhan-ai/ky-uc-hao-hung-trong-cuoc-hoi-ngo-dac-biet-cua-nhung-nguoi-gac-tuyen-lua-20260717183158676.htm",
         "published": "Mới cập nhật",
@@ -57,22 +64,22 @@
     },
     {
         "category": "Trang chủ",
-        "title": "\"Vua hài\" Châu Tinh Trì và mối tình day dứt theo suốt cả cuộc đời",
-        "link": "https://dantri.com.vn/giai-tri/vua-hai-chau-tinh-tri-va-moi-tinh-day-dut-theo-suot-ca-cuoc-doi-20260716204310908.htm",
+        "title": "Chiến sự Ukraine 18/7: Tâm điểm chiến sự ở miền Đông Ukraine được xác định",
+        "link": "https://dantri.com.vn/the-gioi/chien-su-ukraine-187-tam-diem-chien-su-o-mien-dong-ukraine-duoc-xac-dinh-20260718085146319.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Cơn sốt thuê máy bay riêng đến Mỹ xem chung kết World Cup",
-        "link": "https://dantri.com.vn/the-gioi/con-sot-thue-may-bay-rieng-den-my-xem-chung-ket-world-cup-20260718063250301.htm",
+        "title": "Mặt bằng cho thuê ở TPHCM: Nơi bỏ trống, chỗ “đất vàng” hút khách",
+        "link": "https://dantri.com.vn/bat-dong-san/mat-bang-cho-thue-o-tphcm-noi-bo-trong-cho-dat-vang-hut-khach-20260717092209152.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Phương án tăng lương tối thiểu 7,8% từ 2027: Áp lực nằm ở đâu?",
-        "link": "https://dantri.com.vn/noi-vu/phuong-an-tang-luong-toi-thieu-78-tu-2027-ap-luc-nam-o-dau-20260717153253653.htm",
+        "title": "Gia đình Hà Nội 100 người thuê 30 phòng ngủ, góp 300 triệu du lịch hè",
+        "link": "https://dantri.com.vn/du-lich/gia-dinh-ha-noi-100-nguoi-thue-30-phong-ngu-gop-300-trieu-du-lich-he-20260717152355808.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -85,15 +92,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Khởi tố một nữ giáo viên văn Trường THPT Chuyên Tuyên Quang",
-        "link": "https://dantri.com.vn/phap-luat/khoi-to-mot-nu-giao-vien-van-truong-thpt-chuyen-tuyen-quang-20260717164132876.htm",
+        "title": "Những địa phương nào miễn phí sách giáo khoa từ năm học 2026-2027?",
+        "link": "https://dantri.com.vn/giao-duc/nhung-dia-phuong-nao-mien-phi-sach-giao-khoa-tu-nam-hoc-2026-2027-20260717222516140.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Xử phạt tài xế ô tô không nhường đường cho xe cứu thương ở Tuyên Quang",
-        "link": "https://dantri.com.vn/thoi-su/xu-phat-tai-xe-o-to-khong-nhuong-duong-cho-xe-cuu-thuong-o-tuyen-quang-20260717201559204.htm",
+        "title": "Iran “phá hủy mục tiêu quân sự” Mỹ, dồn dập bắn trả đồng minh Washington",
+        "link": "https://dantri.com.vn/the-gioi/iran-pha-huy-muc-tieu-quan-su-my-don-dap-ban-tra-dong-minh-washington-20260718064124126.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -106,15 +113,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Iran thắt chặt năng lượng sau các cuộc không kích của Mỹ",
-        "link": "https://dantri.com.vn/the-gioi/iran-that-chat-nang-luong-sau-cac-cuoc-khong-kich-cua-my-20260717201146463.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Từ 1/9, vi phạm giao dịch tài sản mã hóa có thể bị phạt tới 200 triệu đồng",
-        "link": "https://dantri.com.vn/kinh-doanh/tu-19-vi-pham-giao-dich-tai-san-ma-hoa-co-the-bi-phat-toi-200-trieu-dong-20260717195559195.htm",
+        "title": "State Street vẫn đặt cược vàng lên 5.500 USD, điều gì đứng sau dự báo này?",
+        "link": "https://dantri.com.vn/kinh-doanh/state-street-van-dat-cuoc-vang-len-5500-usd-dieu-gi-dung-sau-du-bao-nay-20260718083353863.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -127,22 +127,22 @@
     },
     {
         "category": "Trang chủ",
-        "title": "TPHCM cấp cứu ngoại viện 1.500 ca mỗi ngày: Cần \"nhất cự ly, nhì tốc độ\"",
-        "link": "https://dantri.com.vn/suc-khoe/tphcm-cap-cuu-ngoai-vien-1500-ca-moi-ngay-can-nhat-cu-ly-nhi-toc-do-20260717165908854.htm",
+        "title": "Siêu máy tính dự đoán kết quả trận đấu Pháp gặp Anh",
+        "link": "https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-ket-qua-tran-dau-phap-gap-anh-20260718100334933.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Chủ \"đất vàng\" Cao Xà Lá nộp hơn 11.000 tỷ đồng tiền đất cho Hà Nội",
-        "link": "https://dantri.com.vn/bat-dong-san/chu-dat-vang-cao-xa-la-nop-hon-11000-ty-dong-tien-dat-cho-ha-noi-20260717160759267.htm",
+        "title": "Nhiều nam đối mặt với vô sinh vì tự bổ sung testosterone",
+        "link": "https://dantri.com.vn/suc-khoe/nhieu-nam-doi-mat-voi-vo-sinh-vi-tu-bo-sung-testosterone-20260717113046517.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Hành trình đội trưởng Bỉ đến Man Utd: Ba lần lỡ hẹn, cái kết viên mãn",
-        "link": "https://dantri.com.vn/the-thao/hanh-trinh-doi-truong-bi-den-man-utd-ba-lan-lo-hen-cai-ket-vien-man-20260717093840698.htm",
+        "title": "Ngôi sao Tây Ban Nha khẳng định FIFA thiên vị Argentina",
+        "link": "https://dantri.com.vn/the-thao/ngoi-sao-tay-ban-nha-khang-dinh-fifa-thien-vi-argentina-20260718095837255.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -155,22 +155,36 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Chỉ vì 1 phút bất cẩn, khách Việt suýt mắc kẹt 2 tháng ở Ai Cập",
-        "link": "https://dantri.com.vn/du-lich/chi-vi-1-phut-bat-can-khach-viet-suyt-mac-ket-2-thang-o-ai-cap-20260717162705564.htm",
+        "title": "Mỹ đưa hàng chục máy bay tiếp dầu đến Israel, sắp tập kích lớn vào Iran?",
+        "link": "https://dantri.com.vn/the-gioi/my-dua-hang-chuc-may-bay-tiep-dau-den-israel-sap-tap-kich-lon-vao-iran-20260718100526464.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Bán 14.000 xe/năm tại Indonesia nhưng Suzuki Fronx lại gặp khó ở Việt Nam",
-        "link": "https://dantri.com.vn/o-to-xe-may/ban-14000-xenam-tai-indonesia-nhung-suzuki-fronx-lai-gap-kho-o-viet-nam-20260717140312260.htm",
+        "title": "BMW và Toyota thí điểm sử dụng xăng tái tạo từ dầu ăn thải loại cho ô tô",
+        "link": "https://dantri.com.vn/o-to-xe-may/bmw-va-toyota-thi-diem-su-dung-xang-tai-tao-tu-dau-an-thai-loai-cho-o-to-20260717162649772.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Mẹo chặn thông báo nhưng vẫn nhận liên lạc quan trọng",
-        "link": "https://dantri.com.vn/cong-nghe/meo-chan-thong-bao-nhung-van-nhan-lien-lac-quan-trong-20260718001836588.htm",
+        "title": "Quy định mới: Giáo viên nghỉ hưu được ký hợp đồng dạy toàn thời gian",
+        "link": "https://dantri.com.vn/giao-duc/quy-dinh-moi-giao-vien-nghi-huu-duoc-ky-hop-dong-day-toan-thoi-gian-20260718094019097.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Ronaldo vượt Messi, trở thành cái tên được người Việt tìm kiếm nhiều nhất",
+        "link": "https://dantri.com.vn/cong-nghe/ronaldo-vuot-messi-tro-thanh-cai-ten-duoc-nguoi-viet-tim-kiem-nhieu-nhat-20260718015441143.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Nuôi con tí hon dưới vườn cây ăn quả, người đàn ông thu tiền tỷ mỗi năm",
+        "link": "https://dantri.com.vn/lao-dong-viec-lam/nuoi-con-ti-hon-duoi-vuon-cay-an-qua-nguoi-dan-ong-thu-tien-ty-moi-nam-20260717170028067.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -190,15 +204,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Hai robot hình người đấu võ: Bị đối thủ đá rơi đầu vẫn tiếp tục thi đấu",
-        "link": "https://dantri.com.vn/cong-nghe/hai-robot-hinh-nguoi-dau-vo-bi-doi-thu-da-roi-dau-van-tiep-tuc-thi-dau-20260717155643047.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Vụ 2 người đánh nhau ở Hà Nội: Phòng vệ sai cách, coi chừng vướng lao lý",
-        "link": "https://dantri.com.vn/ban-doc/vu-2-nguoi-danh-nhau-o-ha-noi-phong-ve-sai-cach-coi-chung-vuong-lao-ly-20260717143058238.htm",
+        "title": "\"Chế biến thực phẩm, sản phẩm kém chất lượng không khác gì cố ý giết người\"",
+        "link": "https://dantri.com.vn/ban-doc/che-bien-thuc-pham-san-pham-kem-chat-luong-khong-khac-gi-co-y-giet-nguoi-20260717154734916.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -211,6 +218,34 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Nông nghiệp Việt Nam cần gì để đạt tham vọng xuất khẩu 1.000 tỷ USD",
+        "link": "https://dantri.com.vn/kinh-doanh/nong-nghiep-viet-nam-can-gi-de-dat-tham-vong-xuat-khau-1000-ty-usd-20260717174801095.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Chủ tịch Hoa Lâm sắp chi hơn 300 tỷ đồng mua cổ phiếu ngân hàng",
+        "link": "https://dantri.com.vn/kinh-doanh/chu-tich-hoa-lam-sap-chi-hon-300-ty-dong-mua-co-phieu-ngan-hang-20260717163443069.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Thấy gì từ những nhịp giảm sâu của vàng?",
+        "link": "https://dantri.com.vn/kinh-doanh/thay-gi-tu-nhung-nhip-giam-sau-cua-vang-20260718070254567.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Từ 1/9, vi phạm giao dịch tài sản mã hóa có thể bị phạt tới 200 triệu đồng",
+        "link": "https://dantri.com.vn/kinh-doanh/tu-19-vi-pham-giao-dich-tai-san-ma-hoa-co-the-bi-phat-toi-200-trieu-dong-20260717195559195.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Fed có động thái lạ, thị trường vàng sắp đảo chiều?",
         "link": "https://dantri.com.vn/kinh-doanh/fed-co-dong-thai-la-thi-truong-vang-sap-dao-chieu-20260714132317420.htm",
         "published": "Mới cập nhật",
@@ -218,36 +253,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Người Việt chuộng trái cây Mỹ, táo và cherry dẫn đầu",
-        "link": "https://dantri.com.vn/kinh-doanh/nguoi-viet-chuong-trai-cay-my-tao-va-cherry-dan-dau-20260717155554574.htm",
+        "title": "Hình ảnh 2 xã ở Hà Nội thí điểm mô hình \"xã, phường xã hội chủ nghĩa\"",
+        "link": "https://dantri.com.vn/thoi-su/hinh-anh-2-xa-o-ha-noi-thi-diem-mo-hinh-xa-phuong-xa-hoi-chu-nghia-20260717102308582.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Bộ Tài chính nêu 5 nhiệm vụ trọng tâm để đạt mục tiêu tăng trưởng",
-        "link": "https://dantri.com.vn/kinh-doanh/bo-tai-chinh-neu-5-nhiem-vu-trong-tam-de-dat-muc-tieu-tang-truong-20260717185531888.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Bộ Tài chính nêu lý do không bỏ bảo hiểm bắt buộc xe máy",
-        "link": "https://dantri.com.vn/kinh-doanh/bo-tai-chinh-neu-ly-do-khong-bo-bao-hiem-bat-buoc-xe-may-20260717183603615.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Sau nhiều tháng chìm trong thua lỗ, nhà đầu tư bitcoin sắp đón tin vui?",
-        "link": "https://dantri.com.vn/kinh-doanh/sau-nhieu-thang-chim-trong-thua-lo-nha-dau-tu-bitcoin-sap-don-tin-vui-20260717104652368.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Cao tốc Dầu Giây - Tân Phú \"thay da đổi thịt\" sau hơn 10 tháng khởi công",
-        "link": "https://dantri.com.vn/thoi-su/cao-toc-dau-giay-tan-phu-thay-da-doi-thit-sau-hon-10-thang-khoi-cong-20260716142134486.htm",
+        "title": "Chuyển giao Vườn quốc gia Cát Tiên về Đồng Nai quản lý",
+        "link": "https://dantri.com.vn/thoi-su/chuyen-giao-vuon-quoc-gia-cat-tien-ve-dong-nai-quan-ly-20260718070901425.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -260,8 +274,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Sai phạm tại dự án gần 50 tỷ đồng: Kỷ luật nguyên Chánh Văn phòng Tỉnh ủy",
-        "link": "https://dantri.com.vn/thoi-su/sai-pham-tai-du-an-gan-50-ty-dong-ky-luat-nguyen-chanh-van-phong-tinh-uy-20260717223837584.htm",
+        "title": "CĐV Anh chỉ trích tuyển Argentina, ủng hộ Tây Ban Nha vô địch World Cup",
+        "link": "https://dantri.com.vn/the-thao/cdv-anh-chi-trich-tuyen-argentina-ung-ho-tay-ban-nha-vo-dich-world-cup-20260718095453979.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -274,29 +288,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Vì sao trận chung kết World Cup 2026 có nguy cơ bị hoãn?",
-        "link": "https://dantri.com.vn/the-thao/vi-sao-tran-chung-ket-world-cup-2026-co-nguy-co-bi-hoan-20260717173158942.htm",
+        "title": "5 thói quen âm thầm làm gan tổn thương mỗi ngày",
+        "link": "https://dantri.com.vn/suc-khoe/5-thoi-quen-am-tham-lam-gan-ton-thuong-moi-ngay-20260717220906758.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "“Thần may mắn” của đội tuyển Argentina ở World Cup: Không phải Lionel Messi",
-        "link": "https://dantri.com.vn/the-thao/than-may-man-cua-doi-tuyen-argentina-o-world-cup-khong-phai-lionel-messi-20260717164119535.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Messi gửi thông điệp đặc biệt đến người hâm mộ Argentina",
-        "link": "https://dantri.com.vn/the-thao/messi-gui-thong-diep-dac-biet-den-nguoi-ham-mo-argentina-20260717184259974.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Cuộc đua Vua phá lưới World Cup 2026: Gọi tên Messi hay Mbappe?",
-        "link": "https://dantri.com.vn/the-thao/cuoc-dua-vua-pha-luoi-world-cup-2026-goi-ten-messi-hay-mbappe-20260717173039697.htm",
+        "title": "TPHCM cấp cứu ngoại viện 1.500 ca mỗi ngày: Cần \"nhất cự ly, nhì tốc độ\"",
+        "link": "https://dantri.com.vn/suc-khoe/tphcm-cap-cuu-ngoai-vien-1500-ca-moi-ngay-can-nhat-cu-ly-nhi-toc-do-20260717165908854.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -323,15 +323,22 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Mơ màng tỉnh dậy sau cú lật xe: “Nếu không kêu cứu, tôi nghĩ mình sẽ chết”",
-        "link": "https://dantri.com.vn/suc-khoe/mo-mang-tinh-day-sau-cu-lat-xe-neu-khong-keu-cuu-toi-nghi-minh-se-chet-20260717154859211.htm",
+        "title": "VIRES: Vì sao đô thị quy hoạch đồng bộ sẽ nắm lợi thế tại Vĩnh Long?",
+        "link": "https://dantri.com.vn/bat-dong-san/vires-vi-sao-do-thi-quy-hoach-dong-bo-se-nam-loi-the-tai-vinh-long-20260717210306996.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Thu hồi 5 mỹ phẩm của Công ty Kencare Việt Nam",
-        "link": "https://dantri.com.vn/suc-khoe/thu-hoi-5-my-pham-cua-cong-ty-kencare-viet-nam-20260717140651861.htm",
+        "title": "Nên đóng hay mở cửa phòng ngủ để ngủ ngon và an toàn?",
+        "link": "https://dantri.com.vn/bat-dong-san/nen-dong-hay-mo-cua-phong-ngu-de-ngu-ngon-va-an-toan-20260627210847044.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Chủ \"đất vàng\" Cao Xà Lá nộp hơn 11.000 tỷ đồng tiền đất cho Hà Nội",
+        "link": "https://dantri.com.vn/bat-dong-san/chu-dat-vang-cao-xa-la-nop-hon-11000-ty-dong-tien-dat-cho-ha-noi-20260717160759267.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -351,22 +358,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Cục Thuế sẽ xử lý nghiêm cán bộ gây phiền hà khi giải quyết hồ sơ đất đai",
-        "link": "https://dantri.com.vn/kinh-doanh/cuc-thue-se-xu-ly-nghiem-can-bo-gay-phien-ha-khi-giai-quyet-ho-so-dat-dai-20260717143317855.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Tin vui cho người dân bị thu hồi đất làm dự án mở rộng quốc lộ 1A",
-        "link": "https://dantri.com.vn/bat-dong-san/tin-vui-cho-nguoi-dan-bi-thu-hoi-dat-lam-du-an-mo-rong-quoc-lo-1a-20260717095438315.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Điều chỉnh vốn tại dự án cao tốc Gia Nghĩa - Chơn Thành",
-        "link": "https://dantri.com.vn/bat-dong-san/dieu-chinh-von-tai-du-an-cao-toc-gia-nghia-chon-thanh-20260717092821474.htm",
+        "title": "Chuyện xót xa sau video con trai được mẹ đang mắc bệnh giai đoạn cuối vỗ về",
+        "link": "https://dantri.com.vn/doi-song/chuyen-xot-xa-sau-video-con-trai-duoc-me-dang-mac-benh-giai-doan-cuoi-vo-ve-20260717104243424.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -400,8 +393,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Trước thềm chung kết World Cup 2026: Quả bóng vàng trong tầm tay Messi",
-        "link": "https://dantri.com.vn/the-thao/truoc-them-chung-ket-world-cup-2026-qua-bong-vang-trong-tam-tay-messi-20260717013157936.htm",
+        "title": "\"Vua hài\" Châu Tinh Trì và mối tình day dứt theo suốt cả cuộc đời",
+        "link": "https://dantri.com.vn/giai-tri/vua-hai-chau-tinh-tri-va-moi-tinh-day-dut-theo-suot-ca-cuoc-doi-20260716204310908.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "“Bóng hồng” đang hẹn hò với cầu thủ đẹp trai nhất World Cup 2026",
+        "link": "https://dantri.com.vn/giai-tri/bong-hong-dang-hen-ho-voi-cau-thu-dep-trai-nhat-world-cup-2026-20260717175346590.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -421,15 +421,22 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Diễn viên Thùy Anh: \"Tôi ở tuổi 31 chưa chắc dám đóng cảnh nóng như năm 18\"",
-        "link": "https://dantri.com.vn/giai-tri/dien-vien-thuy-anh-toi-o-tuoi-31-chua-chac-dam-dong-canh-nong-nhu-nam-18-20260716125743116.htm",
+        "title": "Đào của \"Đất và người\" kể về nụ hôn trên phim, được đạo diễn dạy cấy lúa",
+        "link": "https://dantri.com.vn/giai-tri/dao-cua-dat-va-nguoi-ke-ve-nu-hon-tren-phim-duoc-dao-dien-day-cay-lua-20260715221536959.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Đào của \"Đất và người\" kể về nụ hôn trên phim, được đạo diễn dạy cấy lúa",
-        "link": "https://dantri.com.vn/giai-tri/dao-cua-dat-va-nguoi-ke-ve-nu-hon-tren-phim-duoc-dao-dien-day-cay-lua-20260715221536959.htm",
+        "title": "Lời dặn của người cha và hành trình tìm liệt sỹ từ kho hồ sơ tại Mỹ",
+        "link": "https://dantri.com.vn/noi-vu/loi-dan-cua-nguoi-cha-va-hanh-trinh-tim-liet-sy-tu-kho-ho-so-tai-my-20260717175303282.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Phương án tăng lương tối thiểu 7,8% từ 2027: Áp lực nằm ở đâu?",
+        "link": "https://dantri.com.vn/noi-vu/phuong-an-tang-luong-toi-thieu-78-tu-2027-ap-luc-nam-o-dau-20260717153253653.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -451,20 +458,6 @@
         "category": "Trang chủ",
         "title": "Tìm thấy tờ giấy ghi tên liệt sỹ trong lọ thủy tinh sau hơn 50 năm ở Tây Ninh",
         "link": "https://dantri.com.vn/noi-vu/tim-thay-to-giay-ghi-ten-liet-sy-trong-lo-thuy-tinh-sau-hon-50-nam-o-tay-ninh-20260717172443742.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thành kính tưởng nhớ các liệt sỹ ở Công viên Lê Thị Riêng",
-        "link": "https://dantri.com.vn/noi-vu/tong-bi-thu-chu-tich-nuoc-to-lam-thanh-kinh-tuong-nho-cac-liet-sy-o-cong-vien-le-thi-rieng-20260717093404791.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm dâng hương tại Công viên Lê Thị Riêng",
-        "link": "https://dantri.com.vn/thoi-su/tong-bi-thu-chu-tich-nuoc-to-lam-dang-huong-tai-cong-vien-le-thi-rieng-20260717154906318.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -498,22 +491,36 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Trung Quốc phản bác khi Mỹ cáo buộc can thiệp bầu cử",
-        "link": "https://dantri.com.vn/the-gioi/trung-quoc-phan-bac-khi-my-cao-buoc-can-thiep-bau-cu-20260717213133049.htm",
+        "title": "Dàn \"đặc vụ 4 chân\" bảo vệ ngày hội bóng đá lớn nhất hành tinh",
+        "link": "https://dantri.com.vn/the-gioi/dan-dac-vu-4-chan-bao-ve-ngay-hoi-bong-da-lon-nhat-hanh-tinh-20260718092509933.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Ukraine tuyên bố tập kích phá hủy máy bay ném bom Tu-95 Nga",
-        "link": "https://dantri.com.vn/the-gioi/ukraine-tuyen-bo-tap-kich-pha-huy-may-bay-nem-bom-tu-95-nga-20260717202347572.htm",
+        "title": "Giới trẻ Trung Quốc chi mạnh tiền cho \"phong thủy hàng hiệu\"",
+        "link": "https://dantri.com.vn/the-gioi/gioi-tre-trung-quoc-chi-manh-tien-cho-phong-thuy-hang-hieu-20260716154138824.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Sư tử “tiên tri” dự đoán nhà vô địch World Cup 2026",
-        "link": "https://dantri.com.vn/the-gioi/su-tu-tien-tri-du-doan-nha-vo-dich-world-cup-2026-20260717191321197.htm",
+        "title": "Ukraine cải tổ chính phủ: Bài toán đổi mới quyền lực thời chiến",
+        "link": "https://dantri.com.vn/the-gioi/ukraine-cai-to-chinh-phu-bai-toan-doi-moi-quyen-luc-thoi-chien-20260718091951620.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Hai tàu dầu bốc cháy do đâm trúng bãi thủy lôi ở eo biển Hormuz",
+        "link": "https://dantri.com.vn/the-gioi/hai-tau-dau-boc-chay-do-dam-trung-bai-thuy-loi-o-eo-bien-hormuz-20260718075310424.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Chỉ vì 1 phút bất cẩn, khách Việt suýt mắc kẹt 2 tháng ở Ai Cập",
+        "link": "https://dantri.com.vn/du-lich/chi-vi-1-phut-bat-can-khach-viet-suyt-mac-ket-2-thang-o-ai-cap-20260717162705564.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -547,8 +554,22 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Chiêm ngưỡng báu vật trong cung Nam Phương Hoàng hậu ở Đà Lạt",
-        "link": "https://dantri.com.vn/du-lich/chiem-nguong-bau-vat-trong-cung-nam-phuong-hoang-hau-o-da-lat-20260716222823233.htm",
+        "title": "Honda Việt Nam sắp bán xe máy điện giá dưới 30 triệu đồng",
+        "link": "https://dantri.com.vn/o-to-xe-may/honda-viet-nam-sap-ban-xe-may-dien-gia-duoi-30-trieu-dong-20260716145204541.htm",
+        "published": "Mới cập nhật",
+        "summary": "Đại diện Honda Việt Nam (HVN) cho biết, một mẫu xe máy điện hoàn toàn mới có giá dưới 30 triệu đồng sẽ ra mắt người dùng trong năm 2027."
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Sử dụng điện thoại khi lái ô tô như thế nào để không bị phạt?",
+        "link": "https://dantri.com.vn/o-to-xe-may/su-dung-dien-thoai-khi-lai-o-to-nhu-the-nao-de-khong-bi-phat-20260717171955610.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Bán 14.000 xe/năm tại Indonesia nhưng Suzuki Fronx lại gặp khó ở Việt Nam",
+        "link": "https://dantri.com.vn/o-to-xe-may/ban-14000-xenam-tai-indonesia-nhung-suzuki-fronx-lai-gap-kho-o-viet-nam-20260717140312260.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -557,7 +578,7 @@
         "title": "Ford Territory tại Việt Nam sắp có thêm bản mới, bổ sung tiện nghi và ADAS",
         "link": "https://dantri.com.vn/o-to-xe-may/ford-territory-tai-viet-nam-sap-co-them-ban-moi-bo-sung-tien-nghi-va-adas-20260717111254196.htm",
         "published": "Mới cập nhật",
-        "summary": "Phiên bản mới của Ford Territory chỉ có những nâng cấp về trang bị với cấu hình truyền động vẫn được giữ nguyên, giá bán của xe được kỳ vọng sẽ đủ hấp dẫn để cạnh tranh với các đối thủ."
+        "summary": ""
     },
     {
         "category": "Trang chủ",
@@ -589,22 +610,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Range Rover được bổ sung bản Sport chạy điện, có màn lộ diện ấn tượng",
-        "link": "https://dantri.com.vn/o-to-xe-may/range-rover-duoc-bo-sung-ban-sport-chay-dien-co-man-lo-dien-an-tuong-20260717002309329.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Mitsubishi vượt Toyota, Ford về doanh số nhóm xe xăng, dầu bán chạy",
-        "link": "https://dantri.com.vn/o-to-xe-may/mitsubishi-vuot-toyota-ford-ve-doanh-so-nhom-xe-xang-dau-ban-chay-20260716114536914.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Xe máy điện Honda UC3 sẽ lắp ráp tại Việt Nam từ tháng 9",
-        "link": "https://dantri.com.vn/o-to-xe-may/xe-may-dien-honda-uc3-se-lap-rap-tai-viet-nam-tu-thang-9-20260716171711636.htm",
+        "title": "Đại biểu Quốc hội chỉ rõ \"điểm rủi ro\" cần lưu ý ở kỳ thi tốt nghiệp THPT",
+        "link": "https://dantri.com.vn/giao-duc/dai-bieu-quoc-hoi-chi-ro-diem-rui-ro-can-luu-y-o-ky-thi-tot-nghiep-thpt-20260717114006659.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -613,7 +620,7 @@
         "title": "Kết quả phúc khảo thi lớp 10 ở Thanh Hoá: 15 bài được tăng điểm",
         "link": "https://dantri.com.vn/giao-duc/ket-qua-phuc-khao-thi-lop-10-o-thanh-hoa-15-bai-duoc-tang-diem-20260717163411378.htm",
         "published": "Mới cập nhật",
-        "summary": "Kỳ thi tuyển sinh lớp 10 tại Thanh Hóa có 15 bài thi được điều chỉnh tăng điểm sau phúc khảo, trong đó có trường hợp thí sinh được trả lại điểm cả 3 môn sau khi bị tích nhầm vào ô vắng thi."
+        "summary": ""
     },
     {
         "category": "Trang chủ",
@@ -652,15 +659,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Đề xuất miễn phí toàn bộ sách giáo khoa cho học sinh ở TPHCM",
-        "link": "https://dantri.com.vn/giao-duc/de-xuat-mien-phi-toan-bo-sach-giao-khoa-cho-hoc-sinh-o-tphcm-20260716210603636.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Sau phúc khảo, thí sinh được tăng 20,7 điểm, trúng tuyển nguyện vọng 1",
-        "link": "https://dantri.com.vn/giao-duc/sau-phuc-khao-thi-sinh-duoc-tang-207-diem-trung-tuyen-nguyen-vong-1-20260716183255202.htm",
+        "title": "Cao tốc Dầu Giây - Tân Phú \"thay da đổi thịt\" sau hơn 10 tháng khởi công",
+        "link": "https://dantri.com.vn/thoi-su/cao-toc-dau-giay-tan-phu-thay-da-doi-thit-sau-hon-10-thang-khoi-cong-20260716142134486.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -694,6 +694,20 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Apple \"sống khỏe\" bất chấp thị trường máy tính toàn cầu sụt giảm",
+        "link": "https://dantri.com.vn/cong-nghe/apple-song-khoe-bat-chap-thi-truong-may-tinh-toan-cau-sut-giam-20260717234402161.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Mẹo chặn thông báo nhưng vẫn nhận liên lạc quan trọng",
+        "link": "https://dantri.com.vn/cong-nghe/meo-chan-thong-bao-nhung-van-nhan-lien-lac-quan-trong-20260718001836588.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Giải đấu đối kháng robot hình người quy mô lớn tại Trung Quốc",
         "link": "https://dantri.com.vn/dt360/giai-dau-doi-khang-robot-hinh-nguoi-quy-mo-lon-tai-trung-quoc-20260717123947575.htm",
         "published": "Mới cập nhật",
@@ -703,13 +717,6 @@
         "category": "Trang chủ",
         "title": "Giá Galaxy S26 giảm 10 triệu đồng sau 4 tháng mở bán",
         "link": "https://dantri.com.vn/cong-nghe/gia-galaxy-s26-giam-10-trieu-dong-sau-4-thang-mo-ban-20260717014714693.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Thâm nhập quán net sau giờ cấm, bất ngờ phía sau cánh cửa đóng im lìm",
-        "link": "https://dantri.com.vn/cong-nghe/tham-nhap-quan-net-sau-gio-cam-bat-ngo-phia-sau-canh-cua-dong-im-lim-20260717011603876.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -736,15 +743,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Lừa tuyển dụng để bóc lột, cưỡng bức lao động, phạt tới 75 triệu đồng",
-        "link": "https://dantri.com.vn/lao-dong-viec-lam/lua-tuyen-dung-de-boc-lot-cuong-buc-lao-dong-phat-toi-75-trieu-dong-20260716094850506.htm",
+        "title": "Đề xuất nộp tiền để hưởng án treo: Nhân văn nhưng cần chặt chẽ",
+        "link": "https://dantri.com.vn/phap-luat/de-xuat-nop-tien-de-huong-an-treo-nhan-van-nhung-can-chat-che-20260717225651079.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Đề xuất nộp tiền để hưởng án treo: Nhân văn nhưng cần chặt chẽ",
-        "link": "https://dantri.com.vn/phap-luat/de-xuat-nop-tien-de-huong-an-treo-nhan-van-nhung-can-chat-che-20260717225651079.htm",
+        "title": "Lập bẫy tuyển dụng, bán nhiều người sang Campuchia",
+        "link": "https://dantri.com.vn/phap-luat/lap-bay-tuyen-dung-ban-nhieu-nguoi-sang-campuchia-20260708165330155.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -757,8 +764,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Ghen tuông, người đàn ông ở TPHCM đâm bạn gái rồi ném từ mái nhà xuống đất",
-        "link": "https://dantri.com.vn/phap-luat/ghen-tuong-nguoi-dan-ong-o-tphcm-dam-ban-gai-roi-nem-tu-mai-nha-xuong-dat-20260717155955711.htm",
+        "title": "Bộ Công an thụ lý điều tra vụ điểm 10 toán tại Trường Chuyên Tuyên Quang",
+        "link": "https://dantri.com.vn/phap-luat/bo-cong-an-thu-ly-dieu-tra-vu-diem-10-toan-tai-truong-chuyen-tuyen-quang-20260717191342613.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -792,6 +799,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Hai robot hình người đấu võ: Bị đối thủ đá rơi đầu vẫn tiếp tục thi đấu",
+        "link": "https://dantri.com.vn/cong-nghe/hai-robot-hinh-nguoi-dau-vo-bi-doi-thu-da-roi-dau-van-tiep-tuc-thi-dau-20260717155643047.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Tại sao các ngón tay của chúng ta lại có độ dài khác nhau?",
         "link": "https://dantri.com.vn/khoa-hoc/tai-sao-cac-ngon-tay-cua-chung-ta-lai-co-do-dai-khac-nhau-20260717015049980.htm",
         "published": "Mới cập nhật",
@@ -813,13 +827,6 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Đồng hồ báo thức bằng ánh sáng có thực sự hiệu quả?",
-        "link": "https://dantri.com.vn/khoa-hoc/dong-ho-bao-thuc-bang-anh-sang-co-thuc-su-hieu-qua-20260715222430475.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "“Tách hay nhập” kỳ thi tốt nghiệp THPT",
         "link": "https://dantri.com.vn/tam-diem/tach-hay-nhap-ky-thi-tot-nghiep-thpt-20260716135034367.htm",
         "published": "Mới cập nhật",
@@ -829,6 +836,13 @@
         "category": "Trang chủ",
         "title": "Đừng để mạng xã hội \"xét xử\" thay pháp luật",
         "link": "https://dantri.com.vn/tam-diem/dung-de-mang-xa-hoi-xet-xu-thay-phap-luat-20260716043600244.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Vụ 2 người đánh nhau ở Hà Nội: Phòng vệ sai cách, coi chừng vướng lao lý",
+        "link": "https://dantri.com.vn/ban-doc/vu-2-nguoi-danh-nhau-o-ha-noi-phong-ve-sai-cach-coi-chung-vuong-lao-ly-20260717143058238.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -850,13 +864,6 @@
         "category": "Trang chủ",
         "title": "Độc giả ủng hộ truyền dữ liệu camera: \"Hung thần\" khó thoát giám sát",
         "link": "https://dantri.com.vn/ban-doc/doc-gia-ung-ho-truyen-du-lieu-camera-hung-than-kho-thoat-giam-sat-20260715153541315.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Bạn đọc hiến kế xử lý tình trạng “cò” làm hồ sơ đất nhanh hơn người dân",
-        "link": "https://dantri.com.vn/ban-doc/ban-doc-hien-ke-xu-ly-tinh-trang-co-lam-ho-so-dat-nhanh-hon-nguoi-dan-20260715234453801.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -890,10 +897,31 @@
     },
     {
         "category": "Xã hội",
+        "title": "Di dời khẩn cấp 8 hộ dân ở Mù Cang Chải do mưa lũ",
+        "link": "https://dantri.com.vn/thoi-su/di-doi-khan-cap-8-ho-dan-o-mu-cang-chai-do-mua-lu-20260718074909213.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Xã hội",
+        "title": "Phát hiện cây bút khắc chữ \"Tiến Quy\" cùng nhiều di vật ở Đồng Nai",
+        "link": "https://dantri.com.vn/thoi-su/phat-hien-cay-but-khac-chu-tien-quy-cung-nhieu-di-vat-o-dong-nai-20260717161910956.htm",
+        "published": "Mới cập nhật",
+        "summary": "Đội tìm kiếm, quy tập hài cốt liệt sỹ K72 tìm thấy nhiều di vật, trong đó có cây bút máy khắc dòng chữ \"Tiến Quy\" cùng hình đôi chim bồ câu tại xã Minh Đức, TP Đồng Nai."
+    },
+    {
+        "category": "Xã hội",
+        "title": "Sai phạm tại dự án gần 50 tỷ đồng: Kỷ luật nguyên Chánh Văn phòng Tỉnh ủy",
+        "link": "https://dantri.com.vn/thoi-su/sai-pham-tai-du-an-gan-50-ty-dong-ky-luat-nguyen-chanh-van-phong-tinh-uy-20260717223837584.htm",
+        "published": "Mới cập nhật",
+        "summary": "Thêm một đảng viên bị kỷ luật liên quan các sai phạm tại dự án Nhà khách Tỉnh ủy Thừa Thiên Huế, với tổng mức đầu tư gần 50 tỷ đồng."
+    },
+    {
+        "category": "Xã hội",
         "title": "Mưa lũ khiến 7 bản với gần 4.670 người ở Lai Châu bị cô lập",
         "link": "https://dantri.com.vn/thoi-su/mua-lu-khien-7-ban-voi-gan-4670-nguoi-o-lai-chau-bi-co-lap-20260717215512067.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Đến tối 17/7, mưa, lũ đã khiến 7 bản tại xã Mường Than với gần 4.670 người đang bị cô lập. Thống kê ban đầu cho thấy mưa lũ khiến 13 ngôi nhà bị thiệt hại hoàn toàn, nhiều nhà khác bị hư hỏng."
     },
     {
         "category": "Xã hội",
@@ -901,6 +929,13 @@
         "link": "https://dantri.com.vn/dt360/mua-lu-tan-pha-ha-tang-nhieu-nha-dan-do-sap-o-son-la-lai-chau-20260717205642430.htm",
         "published": "Mới cập nhật",
         "summary": "Lũ ống, lũ quét và sạt lở đất do mưa lớn trong hai ngày 16 và 17/7 đã gây thiệt hại nặng tại Sơn La và Lai Châu. Nhiều nhà dân bị đổ sập, hư hỏng buộc các hộ dân phải di dời để đảm bảo an toàn."
+    },
+    {
+        "category": "Xã hội",
+        "title": "Xử phạt tài xế ô tô không nhường đường cho xe cứu thương ở Tuyên Quang",
+        "link": "https://dantri.com.vn/thoi-su/xu-phat-tai-xe-o-to-khong-nhuong-duong-cho-xe-cuu-thuong-o-tuyen-quang-20260717201559204.htm",
+        "published": "Mới cập nhật",
+        "summary": "Công an tỉnh Tuyên Quang cho biết bệnh nhân trên xe cứu thương tử vong do tình trạng bệnh quá nặng, không phải do tài xế ô tô con không nhường đường."
     },
     {
         "category": "Xã hội",
@@ -939,41 +974,6 @@
     },
     {
         "category": "Xã hội",
-        "title": "Đề xuất áp dụng thủ tục rút gọn với người phạm tội tự nguyện nhận tội",
-        "link": "https://dantri.com.vn/thoi-su/de-xuat-ap-dung-thu-tuc-rut-gon-voi-nguoi-pham-toi-tu-nguyen-nhan-toi-20260717172909917.htm",
-        "published": "Mới cập nhật",
-        "summary": "Dự thảo Bộ luật Tố tụng hình sự (sửa đổi) bổ sung việc áp dụng thủ tục rút gọn đối với một số trường hợp người phạm tội tự nguyện nhận tội, chấp nhận hình phạt để được hưởng khoan hồng."
-    },
-    {
-        "category": "Xã hội",
-        "title": "Tổng Bí thư, Chủ tịch nước dâng hương liệt sỹ tại Công viên Lê Thị Riêng",
-        "link": "https://dantri.com.vn/thoi-su/tong-bi-thu-chu-tich-nuoc-dang-huong-liet-sy-tai-cong-vien-le-thi-rieng-20260717170600638.htm",
-        "published": "Mới cập nhật",
-        "summary": "Chiều 17/7, Tổng Bí thư, Chủ tịch nước Tô Lâm dâng hương tưởng niệm các anh hùng liệt sỹ và thăm, động viên lực lượng tìm kiếm, quy tập hài cốt liệt sỹ tại Công viên Lê Thị Riêng (TPHCM)."
-    },
-    {
-        "category": "Xã hội",
-        "title": "Vụ vỡ hồ nước ở Lâm Đồng: Người dân chờ đối thoại với doanh nghiệp",
-        "link": "https://dantri.com.vn/thoi-su/vu-vo-ho-nuoc-o-lam-dong-nguoi-dan-cho-doi-thoai-voi-doanh-nghiep-20260717153453455.htm",
-        "published": "Mới cập nhật",
-        "summary": "Lãnh đạo xã Tuy Phong cho biết việc giải quyết bồi thường thiệt hại sau vụ vỡ hồ nước trên núi Tân Lai sẽ được xem xét sau khi cơ quan điều tra làm rõ trách nhiệm."
-    },
-    {
-        "category": "Xã hội",
-        "title": "Khi gặp va chạm, tai nạn giao thông trên đường, người dân cần làm gì?",
-        "link": "https://dantri.com.vn/thoi-su/khi-gap-va-cham-tai-nan-giao-thong-tren-duong-nguoi-dan-can-lam-gi-20260717163342362.htm",
-        "published": "Mới cập nhật",
-        "summary": "Theo cảnh sát, các tài xế tuyệt đối không tranh cãi đúng sai, vì giải quyết tai nạn là trách nhiệm của lực lượng chức năng."
-    },
-    {
-        "category": "Xã hội",
-        "title": "Lũ quét ở Lai Châu khiến 1 người tử vong, 4 người mất tích",
-        "link": "https://dantri.com.vn/thoi-su/lu-quet-o-lai-chau-khien-1-nguoi-tu-vong-4-nguoi-mat-tich-20260717163208229.htm",
-        "published": "Mới cập nhật",
-        "summary": "Mưa lớn kéo dài gây lũ ống, lũ quét tại xã Mường Than (Lai Châu), khiến 1 người tử vong, 4 người mất tích, nhiều tuyến đường bị đất đá vùi lấp."
-    },
-    {
-        "category": "Xã hội",
         "title": "Kết tội bằng cảm xúc và những hệ lụy từ đám đông trên mạng",
         "link": "https://dantri.com.vn/thoi-su/ket-toi-bang-cam-xuc-va-nhung-he-luy-tu-dam-dong-tren-mang-20260715235132807.htm",
         "published": "Mới cập nhật",
@@ -1009,6 +1009,13 @@
     },
     {
         "category": "Xã hội",
+        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thành kính tưởng nhớ các liệt sỹ ở Công viên Lê Thị Riêng",
+        "link": "https://dantri.com.vn/noi-vu/tong-bi-thu-chu-tich-nuoc-to-lam-thanh-kinh-tuong-nho-cac-liet-sy-o-cong-vien-le-thi-rieng-20260717093404791.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Xã hội",
         "title": "Chỉ thị 07-CT/TW: Đẩy mạnh học tập, thực hành tư tưởng, đạo đức, phương pháp, phong cách Hồ Chí Minh trong giai đoạn phát triển mới",
         "link": "https://dantri.com.vn/thoi-su/chi-thi-07-cttw-day-manh-hoc-tap-thuc-hanh-tu-tuong-dao-duc-phuong-phap-phong-cach-ho-chi-minh-trong-giai-doan-phat-trien-moi-20260717105321458.htm",
         "published": "Mới cập nhật",
@@ -1025,6 +1032,13 @@
         "category": "Xã hội",
         "title": "Công an xã xuống đồng cấy lúa, sơn nhà giúp dân",
         "link": "https://dantri.com.vn/thoi-su/cong-an-xa-xuong-dong-cay-lua-son-nha-giup-dan-20260716144136096.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Xã hội",
+        "title": "Khi gặp va chạm, tai nạn giao thông trên đường, người dân cần làm gì?",
+        "link": "https://dantri.com.vn/thoi-su/khi-gap-va-cham-tai-nan-giao-thong-tren-duong-nguoi-dan-can-lam-gi-20260717163342362.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1100,10 +1114,59 @@
     },
     {
         "category": "Thế giới",
+        "title": "Tổng thống Trump cảnh báo áp thêm thuế lên Canada vì khói cháy rừng",
+        "link": "https://dantri.com.vn/the-gioi/tong-thong-trump-canh-bao-ap-them-thue-len-canada-vi-khoi-chay-rung-20260718073104793.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Thế giới",
+        "title": "Khoảnh khắc bom phát nổ trong vụ ám sát tài phiệt gốc Ukraine tại Monaco",
+        "link": "https://dantri.com.vn/the-gioi/khoanh-khac-bom-phat-no-trong-vu-am-sat-tai-phiet-goc-ukraine-tai-monaco-20260718070909433.htm",
+        "published": "Mới cập nhật",
+        "summary": "Triệu phú Vadim Ermolaev cùng các thành viên trong gia đình bị thương nặng khi một quả bom giấu trong ba lô phát nổ bên ngoài tòa nhà nơi họ sinh sống ở Monaco."
+    },
+    {
+        "category": "Thế giới",
+        "title": "Cơn sốt thuê máy bay riêng đến Mỹ xem chung kết World Cup",
+        "link": "https://dantri.com.vn/the-gioi/con-sot-thue-may-bay-rieng-den-my-xem-chung-ket-world-cup-20260718063250301.htm",
+        "published": "Mới cập nhật",
+        "summary": "Trận chung kết World Cup cuối tuần này giữa Tây Ban Nha và Argentina tại Mỹ đã kích hoạt một làn sóng bùng nổ nhu cầu chưa từng có đối với dịch vụ hàng không tư nhân và các gói du lịch hạng sang."
+    },
+    {
+        "category": "Thế giới",
+        "title": "Iran thắt chặt năng lượng sau các cuộc không kích của Mỹ",
+        "link": "https://dantri.com.vn/the-gioi/iran-that-chat-nang-luong-sau-cac-cuoc-khong-kich-cua-my-20260717201146463.htm",
+        "published": "Mới cập nhật",
+        "summary": "Bộ Năng lượng Iran ngày 17/7 kêu gọi người dân giảm sử dụng điện khi xung đột với Mỹ tiếp diễn, đặc biệt sau khi Mỹ không kích các cơ sở năng lượng của nước này gây sức ép đối với hệ thống lưới điện."
+    },
+    {
+        "category": "Thế giới",
+        "title": "Trung Quốc phản bác khi Mỹ cáo buộc can thiệp bầu cử",
+        "link": "https://dantri.com.vn/the-gioi/trung-quoc-phan-bac-khi-my-cao-buoc-can-thiep-bau-cu-20260717213133049.htm",
+        "published": "Mới cập nhật",
+        "summary": "Trung Quốc tuyên bố chưa bao giờ can thiệp vào các cuộc bầu cử của Mỹ và kêu gọi Washington dừng đưa ra cáo buộc vô căn cứ."
+    },
+    {
+        "category": "Thế giới",
+        "title": "Ukraine tuyên bố tập kích phá hủy máy bay ném bom Tu-95 Nga",
+        "link": "https://dantri.com.vn/the-gioi/ukraine-tuyen-bo-tap-kich-pha-huy-may-bay-nem-bom-tu-95-nga-20260717202347572.htm",
+        "published": "Mới cập nhật",
+        "summary": "Ukraine tuyên bố máy bay ném bom Tu-95 của Nga đã bị \"hư hại nghiêm trọng\" trong cuộc tấn công vào căn cứ không quân Engels."
+    },
+    {
+        "category": "Thế giới",
+        "title": "Sư tử “tiên tri” dự đoán nhà vô địch World Cup 2026",
+        "link": "https://dantri.com.vn/the-gioi/su-tu-tien-tri-du-doan-nha-vo-dich-world-cup-2026-20260717191321197.htm",
+        "published": "Mới cập nhật",
+        "summary": "Sư tử “Boy” ở Thái Lan đã đưa ra dự đoán về kết quả trận chung kết World Cup 2026."
+    },
+    {
+        "category": "Thế giới",
         "title": "Iran tuyên bố bắn trả loạt căn cứ, phá hủy tiêm kích và máy bay tiếp dầu Mỹ",
         "link": "https://dantri.com.vn/the-gioi/iran-tuyen-bo-ban-tra-loat-can-cu-pha-huy-tiem-kich-va-may-bay-tiep-dau-my-20260717183646974.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Iran tuyên bố phá hủy các tiêm kích Mỹ tại Jordan, đồng thời nhắm mục tiêu vào các cơ sở quân sự của Washington trong khu vực."
     },
     {
         "category": "Thế giới",
@@ -1125,69 +1188,6 @@
         "link": "https://dantri.com.vn/the-gioi/iran-keu-goi-dong-minh-san-sang-cho-cuoc-chien-mo-rong-voi-my-20260717171641643.htm",
         "published": "Mới cập nhật",
         "summary": "Iran đã đề nghị các lực lượng đồng minh trong khu vực, bao gồm cả Hezbollah, chuẩn bị cho khả năng xảy ra một cuộc xung đột rộng lớn hơn trong bối cảnh các hành động leo thang quân sự với Mỹ."
-    },
-    {
-        "category": "Thế giới",
-        "title": "Nghị sĩ Na Uy đạp xe 2.700km tới Kiev để gây quỹ cho quân đội Ukraine",
-        "link": "https://dantri.com.vn/the-gioi/nghi-si-na-uy-dap-xe-2700km-toi-kiev-de-gay-quy-cho-quan-doi-ukraine-20260717160548740.htm",
-        "published": "Mới cập nhật",
-        "summary": "Nghị sĩ Na Uy Jonas Andersen Sayed đã bắt đầu hành trình đạp xe từ Oslo đến Kiev nhằm nâng cao nhận thức về cuộc chiến Nga - Ukraine và quyên góp tiền hỗ trợ quân đội Ukraine."
-    },
-    {
-        "category": "Thế giới",
-        "title": "Sạt lở đất vùi lấp nhà dân ở Trung Quốc, nhiều người mắc kẹt",
-        "link": "https://dantri.com.vn/dt360/sat-lo-dat-vui-lap-nha-dan-o-trung-quoc-nhieu-nguoi-mac-ket-20260717161129631.htm",
-        "published": "Mới cập nhật",
-        "summary": "Một vụ sạt lở đất xảy ra tại huyện Bành Thủy, thành phố Trùng Khánh, Trung Quốc sáng 17/7 đã vùi lấp nhiều nhà dân, khiến một số người mắc kẹt dưới đống đổ nát."
-    },
-    {
-        "category": "Thế giới",
-        "title": "Lầu Năm Góc bênh vực phi công tiêm kích bay sượt thấp qua đầu người dân",
-        "link": "https://dantri.com.vn/the-gioi/lau-nam-goc-benh-vuc-phi-cong-tiem-kich-bay-suot-thap-qua-dau-nguoi-dan-20260717150238025.htm",
-        "published": "Mới cập nhật",
-        "summary": "Các quan chức quốc phòng cấp cao của Mỹ lên tiếng bày tỏ sự ủng hộ với màn trình diễn của đội bay Blue Angles tại bờ biển bang Flordia, khi một tiêm kích bay áp sát khiến nhiều người dân bất ngờ."
-    },
-    {
-        "category": "Thế giới",
-        "title": "Cuộc sống ở một trong những nơi nóng nhất thế giới",
-        "link": "https://dantri.com.vn/the-gioi/cuoc-song-o-mot-trong-nhung-noi-nong-nhat-the-gioi-20260717152712973.htm",
-        "published": "Mới cập nhật",
-        "summary": "Nóng nực suốt ngày, mất điện thường xuyên đã trở thành một phần cuộc sống của người dân ở Banda, một thị trấn ở miền Bắc Ấn Độ, nơi liên tục được xếp vào danh sách những nơi nóng nhất trên Trái Đất."
-    },
-    {
-        "category": "Thế giới",
-        "title": "Mỹ âm thầm rút bớt quân khỏi Đông Âu, đồng minh lo lắng",
-        "link": "https://dantri.com.vn/the-gioi/my-am-tham-rut-bot-quan-khoi-dong-au-dong-minh-lo-lang-20260717142626633.htm",
-        "published": "Mới cập nhật",
-        "summary": "Các động thái âm thầm của Mỹ ở Đông Âu, khu vực được xem là tiền đồn của NATO với đối thủ khu vực, đang khiến nhiều đồng minh lo lắng vì chưa rõ động thái tiếp theo của Washington."
-    },
-    {
-        "category": "Thế giới",
-        "title": "Thủ tướng Anh tặng món quà cuối cùng cho Ukraine trước khi rời nhiệm sở",
-        "link": "https://dantri.com.vn/the-gioi/thu-tuong-anh-tang-mon-qua-cuoi-cung-cho-ukraine-truoc-khi-roi-nhiem-so-20260717142034973.htm",
-        "published": "Mới cập nhật",
-        "summary": "Thủ tướng Anh Keir Starmer đã công bố khoản tài trợ trị giá 300 triệu euro (340 triệu USD) nhằm thúc đẩy việc bàn giao 16 máy bay chiến đấu tối tân Gripen cho Ukraine, thông qua hợp tác với Thụy Điển."
-    },
-    {
-        "category": "Thế giới",
-        "title": "Điểm nhấn trong phát biểu giờ vàng của Tổng thống Trump",
-        "link": "https://dantri.com.vn/the-gioi/diem-nhan-trong-phat-bieu-gio-vang-cua-tong-thong-trump-20260717135215709.htm",
-        "published": "Mới cập nhật",
-        "summary": "Bài phát biểu giờ vàng của Tổng thống Donald Trump ngày 16/7 đề cập chủ yếu tới vấn đề bầu cử tại Mỹ."
-    },
-    {
-        "category": "Thế giới",
-        "title": "Iran tấn công trung tâm chỉ huy Mỹ, khai hỏa dồn dập khắp Vùng Vịnh",
-        "link": "https://dantri.com.vn/the-gioi/iran-tan-cong-trung-tam-chi-huy-my-khai-hoa-don-dap-khap-vung-vinh-20260717132051402.htm",
-        "published": "Mới cập nhật",
-        "summary": "Iran tuyên bố tấn công trung tâm chỉ huy của Mỹ tại Syria và tập kích các mục tiêu quân sự đặt tại các nước đồng minh của Washington trong khu vực."
-    },
-    {
-        "category": "Thế giới",
-        "title": "Chiến sự Ukraine 17/7: Nga đồng thời không kích Kiev và mặt trận Donetsk",
-        "link": "https://dantri.com.vn/the-gioi/chien-su-ukraine-177-nga-dong-thoi-khong-kich-kiev-va-mat-tran-donetsk-20260717095557685.htm",
-        "published": "Mới cập nhật",
-        "summary": "Không chỉ tiếp tục gây sức ép liên tục tại tiền tuyến kéo dài hơn 1.000km ở miền Đông, Nga đang không kích mạnh mẽ vào các cơ sở quân sự trọng yếu của Ukraine, trong đó có thủ đô Kiev."
     },
     {
         "category": "Thế giới",
@@ -1226,6 +1226,13 @@
     },
     {
         "category": "Thế giới",
+        "title": "Nghị sĩ Na Uy đạp xe 2.700km tới Kiev để gây quỹ cho quân đội Ukraine",
+        "link": "https://dantri.com.vn/the-gioi/nghi-si-na-uy-dap-xe-2700km-toi-kiev-de-gay-quy-cho-quan-doi-ukraine-20260717160548740.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Thế giới",
         "title": "Tổng thống Ukraine nêu lý do đề cử Bộ trưởng Quốc phòng mới",
         "link": "https://dantri.com.vn/the-gioi/tong-thong-ukraine-neu-ly-do-de-cu-bo-truong-quoc-phong-moi-20260717084405344.htm",
         "published": "Mới cập nhật",
@@ -1247,22 +1254,8 @@
     },
     {
         "category": "Thế giới",
-        "title": "Mỹ tốn hơn 400 triệu USD rã sắt vụn tàu sân bay hạt nhân đầu tiên",
-        "link": "https://dantri.com.vn/the-gioi/my-ton-hon-400-trieu-usd-ra-sat-vun-tau-san-bay-hat-nhan-dau-tien-20260717110150648.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Thế giới",
-        "title": "Nhà Trắng đình chỉ quan chức đặt cược về bài phát biểu của Tổng thống Trump",
-        "link": "https://dantri.com.vn/the-gioi/nha-trang-dinh-chi-quan-chuc-dat-cuoc-ve-bai-phat-bieu-cua-tong-thong-trump-20260717094202862.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Thế giới",
-        "title": "12.000 người chết do nắng nóng kỷ lục tại châu Âu",
-        "link": "https://dantri.com.vn/the-gioi/12000-nguoi-chet-do-nang-nong-ky-luc-tai-chau-au-20260717073858299.htm",
+        "title": "Mỹ âm thầm rút bớt quân khỏi Đông Âu, đồng minh lo lắng",
+        "link": "https://dantri.com.vn/the-gioi/my-am-tham-rut-bot-quan-khoi-dong-au-dong-minh-lo-lang-20260717142626633.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1296,10 +1289,38 @@
     },
     {
         "category": "Kinh doanh",
+        "title": "Người Việt chuộng trái cây Mỹ, táo và cherry dẫn đầu",
+        "link": "https://dantri.com.vn/kinh-doanh/nguoi-viet-chuong-trai-cay-my-tao-va-cherry-dan-dau-20260717155554574.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Kinh doanh",
+        "title": "Bộ Tài chính nêu 5 nhiệm vụ trọng tâm để đạt mục tiêu tăng trưởng",
+        "link": "https://dantri.com.vn/kinh-doanh/bo-tai-chinh-neu-5-nhiem-vu-trong-tam-de-dat-muc-tieu-tang-truong-20260717185531888.htm",
+        "published": "Mới cập nhật",
+        "summary": "Trong bối cảnh mục tiêu tăng trưởng năm 2026 còn nhiều thách thức, Bộ trưởng Bộ Tài chính Ngô Văn Tuấn yêu cầu toàn ngành tập trung thực hiện 5 nhóm nhiệm vụ trọng tâm."
+    },
+    {
+        "category": "Kinh doanh",
+        "title": "Bộ Tài chính nêu lý do không bỏ bảo hiểm bắt buộc xe máy",
+        "link": "https://dantri.com.vn/kinh-doanh/bo-tai-chinh-neu-ly-do-khong-bo-bao-hiem-bat-buoc-xe-may-20260717183603615.htm",
+        "published": "Mới cập nhật",
+        "summary": "Phản hồi kiến nghị bãi bỏ bảo hiểm xe máy vì mang tính hình thức, Bộ Tài chính khẳng định đây là chính sách cần thiết nhằm bảo vệ quyền lợi chính đáng cho người tham gia giao thông."
+    },
+    {
+        "category": "Kinh doanh",
+        "title": "Sau nhiều tháng chìm trong thua lỗ, nhà đầu tư bitcoin sắp đón tin vui?",
+        "link": "https://dantri.com.vn/kinh-doanh/sau-nhieu-thang-chim-trong-thua-lo-nha-dau-tu-bitcoin-sap-don-tin-vui-20260717104652368.htm",
+        "published": "Mới cập nhật",
+        "summary": "Sau khi giảm sâu từ đầu năm, bitcoin đang phát đi những tín hiệu tích cực khi áp lực bán suy yếu và dòng tiền ETF quay trở lại. Liệu đồng tiền số này đã bước vào chu kỳ tăng giá mới?"
+    },
+    {
+        "category": "Kinh doanh",
         "title": "Cổ phiếu Vinamilk bứt phá trong ngày VN-Index giảm gần 17 điểm",
         "link": "https://dantri.com.vn/kinh-doanh/co-phieu-vinamilk-but-pha-trong-ngay-vn-index-giam-gan-17-diem-20260717162251239.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Cổ phiếu VNM tăng gần 5% và trở thành một trong những điểm tựa của thị trường hôm nay. Tuy nhiên, lực bán mạnh ở nhiều cổ phiếu vốn hóa lớn khiến VN-Index vẫn lùi về dưới mốc 1.790 điểm."
     },
     {
         "category": "Kinh doanh",
@@ -1314,6 +1335,13 @@
         "link": "https://dantri.com.vn/kinh-doanh/can-som-cai-cach-gia-dien-de-khoi-thong-diem-nghen-nang-luong-20260717153353303.htm",
         "published": "Mới cập nhật",
         "summary": "Sự bùng nổ của trí tuệ nhân tạo và các trung tâm dữ liệu đang đặt ra thách thức chưa từng có cho ngành điện, yêu cầu cấp bách phải cải cách giá điện để gỡ khó."
+    },
+    {
+        "category": "Kinh doanh",
+        "title": "Cục Thuế sẽ xử lý nghiêm cán bộ gây phiền hà khi giải quyết hồ sơ đất đai",
+        "link": "https://dantri.com.vn/kinh-doanh/cuc-thue-se-xu-ly-nghiem-can-bo-gay-phien-ha-khi-giai-quyet-ho-so-dat-dai-20260717143317855.htm",
+        "published": "Mới cập nhật",
+        "summary": "Nhằm chấm dứt tình trạng nhũng nhiễu, cơ quan quản lý vừa chỉ đạo rà soát gắt gao quy trình xác định nghĩa vụ tài chính về đất, kiên quyết kỷ luật những cán bộ cố tình gây khó dễ cho người dân."
     },
     {
         "category": "Kinh doanh",
@@ -1359,34 +1387,6 @@
     },
     {
         "category": "Kinh doanh",
-        "title": "Cổ phiếu SpaceX bị bán tháo, \"cú lừa\" tỷ USD của Elon Musk?",
-        "link": "https://dantri.com.vn/kinh-doanh/co-phieu-spacex-bi-ban-thao-cu-lua-ty-usd-cua-elon-musk-20260716222057090.htm",
-        "published": "Mới cập nhật",
-        "summary": "Từng được tung hô là thương vụ IPO lớn nhất lịch sử, SpaceX nay chứng kiến cổ phiếu lao dốc dưới giá chào sàn, làm dấy lên tranh cãi liệu mức định giá của công ty có bị thổi phồng."
-    },
-    {
-        "category": "Kinh doanh",
-        "title": "Chứng khoán “đi tàu lượn”, đầu tư sao để không cần nhìn bảng điện cả ngày?",
-        "link": "https://dantri.com.vn/kinh-doanh/chung-khoan-di-tau-luon-dau-tu-sao-de-khong-can-nhin-bang-dien-ca-ngay-20260716164014867.htm",
-        "published": "Mới cập nhật",
-        "summary": "Chuyên gia nói là người trong ngành chứng khoán nhưng cũng không nhìn bảng điện cả ngày, trung bình mỗi ngày vị này chỉ nhìn... 3 lần. Mua cổ phiếu là mua một phần doanh nghiệp, cần tính đường dài."
-    },
-    {
-        "category": "Kinh doanh",
-        "title": "Yêu cầu hỏa tốc thông quan cho sầu riêng",
-        "link": "https://dantri.com.vn/kinh-doanh/yeu-cau-hoa-toc-thong-quan-cho-sau-rieng-20260716205930614.htm",
-        "published": "Mới cập nhật",
-        "summary": "Cục Hải quan yêu cầu các đơn vị ưu tiên thông quan nông sản ngay trong ngày, không để cán bộ gây phiền hà, làm phát sinh chi phí cho doanh nghiệp."
-    },
-    {
-        "category": "Kinh doanh",
-        "title": "Warren Buffett: Tôi không tài năng, tôi may mắn",
-        "link": "https://dantri.com.vn/kinh-doanh/warren-buffett-toi-khong-tai-nang-toi-may-man-20260716214039171.htm",
-        "published": "Mới cập nhật",
-        "summary": "Được xem là một trong những nhà đầu tư thành công nhất thế giới, Warren Buffett lại cho rằng yếu tố tạo nên khác biệt lớn nhất trong cuộc đời ông không phải tài năng, mà là sự may mắn."
-    },
-    {
-        "category": "Kinh doanh",
         "title": "Lãi suất ngân hàng tăng trở lại lên 9%/năm",
         "link": "https://dantri.com.vn/kinh-doanh/lai-suat-ngan-hang-tang-tro-lai-len-9nam-20260708152518837.htm",
         "published": "Mới cập nhật",
@@ -1422,6 +1422,20 @@
     },
     {
         "category": "Kinh doanh",
+        "title": "Cổ phiếu SpaceX bị bán tháo, \"cú lừa\" tỷ USD của Elon Musk?",
+        "link": "https://dantri.com.vn/kinh-doanh/co-phieu-spacex-bi-ban-thao-cu-lua-ty-usd-cua-elon-musk-20260716222057090.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Kinh doanh",
+        "title": "Chứng khoán “đi tàu lượn”, đầu tư sao để không cần nhìn bảng điện cả ngày?",
+        "link": "https://dantri.com.vn/kinh-doanh/chung-khoan-di-tau-luon-dau-tu-sao-de-khong-can-nhin-bang-dien-ca-ngay-20260716164014867.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Kinh doanh",
         "title": "Cổ phiếu tăng trần áp đảo, VN-Index lấy lại mốc 1.800 điểm",
         "link": "https://dantri.com.vn/kinh-doanh/co-phieu-tang-tran-ap-dao-vn-index-lay-lai-moc-1800-diem-20260716155202453.htm",
         "published": "Mới cập nhật",
@@ -1438,13 +1452,6 @@
         "category": "Kinh doanh",
         "title": "Công khai 100 doanh nghiệp nợ tiền bảo hiểm: Hòa Bình, Global X… bị nêu tên",
         "link": "https://dantri.com.vn/kinh-doanh/cong-khai-100-doanh-nghiep-no-tien-bao-hiem-hoa-binh-global-x-bi-neu-ten-20260715095853794.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Kinh doanh",
-        "title": "Chủ tịch bị khởi tố, PC1 đón cổ đông lớn liên quan ngân hàng Big4",
-        "link": "https://dantri.com.vn/kinh-doanh/chu-tich-bi-khoi-to-pc1-don-co-dong-lon-lien-quan-ngan-hang-big4-20260715095155565.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1562,10 +1569,24 @@
     },
     {
         "category": "Bất động sản",
+        "title": "Tin vui cho người dân bị thu hồi đất làm dự án mở rộng quốc lộ 1A",
+        "link": "https://dantri.com.vn/bat-dong-san/tin-vui-cho-nguoi-dan-bi-thu-hoi-dat-lam-du-an-mo-rong-quoc-lo-1a-20260717095438315.htm",
+        "published": "Mới cập nhật",
+        "summary": "Ngoài tiền bồi thường về đất, các hộ dân bị thu hồi đất để thực hiện dự án trục không gian quốc lộ 1A còn được hỗ trợ chi phí di chuyển, tiền tạm cư và bố trí tái định cư nếu đủ điều kiện."
+    },
+    {
+        "category": "Bất động sản",
+        "title": "Điều chỉnh vốn tại dự án cao tốc Gia Nghĩa - Chơn Thành",
+        "link": "https://dantri.com.vn/bat-dong-san/dieu-chinh-von-tai-du-an-cao-toc-gia-nghia-chon-thanh-20260717092821474.htm",
+        "published": "Mới cập nhật",
+        "summary": "Dự án cao tốc Gia Nghĩa - Chơn Thành do liên danh Vingroup đầu tư được đề xuất điều chỉnh chủ trương đầu tư khi tổng mức đầu tư dự kiến tăng hơn 2.700 tỷ đồng do biến động chi phí xây dựng."
+    },
+    {
+        "category": "Bất động sản",
         "title": "7 sai lầm khi lau gương khiến càng lau càng đầy vệt mờ",
         "link": "https://dantri.com.vn/bat-dong-san/7-sai-lam-khi-lau-guong-khien-cang-lau-cang-day-vet-mo-20260716232753192.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Lau gương tưởng là việc đơn giản, nhưng chỉ một vài thao tác chưa đúng cũng đủ khiến mặt kính xuất hiện vệt sọc, loang lổ. Các chuyên gia chỉ ra 7 sai lầm phổ biến mà nhiều người vẫn mắc phải."
     },
     {
         "category": "Bất động sản",
@@ -1611,6 +1632,13 @@
     },
     {
         "category": "Bất động sản",
+        "title": "Sao Mai Central Point và lợi thế của quỹ đất trung tâm",
+        "link": "https://dantri.com.vn/bat-dong-san/sao-mai-central-point-va-loi-the-cua-quy-dat-trung-tam-20260717170210733.htm",
+        "published": "Mới cập nhật",
+        "summary": "Xét riêng trong ngành địa ốc, mọi chỉ số đều có thể biến động theo thời gian, nhưng quỹ đất tại các vị trí trung tâm luôn mang tính hữu hạn."
+    },
+    {
+        "category": "Bất động sản",
         "title": "Đường mở đến đâu, thị trường nhà ở thay đổi đến đó ở TPHCM",
         "link": "https://dantri.com.vn/bat-dong-san/duong-mo-den-dau-thi-truong-nha-o-thay-doi-den-do-o-tphcm-20260715095950060.htm",
         "published": "Mới cập nhật",
@@ -1622,34 +1650,6 @@
         "link": "https://dantri.com.vn/kinh-doanh/chuyen-gi-dang-xay-ra-voi-pho-vay-cuoi-tung-sam-uat-bac-nhat-o-tphcm-20260715085100627.htm",
         "published": "Mới cập nhật",
         "summary": "Từng là phố váy cưới và dịch vụ chụp ảnh cưới sầm uất bậc nhất TPHCM, đường Hồ Văn Huê (TPHCM) nay rơi vào cảnh đìu hiu khi nhiều mặt bằng đóng cửa, treo biển cho thuê kéo dài."
-    },
-    {
-        "category": "Bất động sản",
-        "title": "Đóng hay mở cửa phòng khi bật điều hòa: Cách nào mát hơn ngày nắng nóng?",
-        "link": "https://dantri.com.vn/bat-dong-san/dong-hay-mo-cua-phong-khi-bat-dieu-hoa-cach-nao-mat-hon-ngay-nang-nong-20260625163738209.htm",
-        "published": "Mới cập nhật",
-        "summary": "Nhiều người cho rằng đóng kín phòng giúp giữ hơi lạnh mùa hè, nhưng thực tế không phải lúc nào cũng hiệu quả. Cách làm đúng còn phụ thuộc loại điều hòa."
-    },
-    {
-        "category": "Bất động sản",
-        "title": "Hà Nội muốn phá dỡ tập thể 56 tuổi ở Trương Định để xây chung cư cao tầng",
-        "link": "https://dantri.com.vn/bat-dong-san/ha-noi-muon-pha-do-tap-the-56-tuoi-o-truong-dinh-de-xay-chung-cu-cao-tang-20260715151137062.htm",
-        "published": "Mới cập nhật",
-        "summary": "Hà Nội vừa công bố quy hoạch cải tạo, xây dựng lại khu tập thể Trương Định với 2 tòa chung cư cao tối đa 30 tầng, dự kiến bố trí khoảng 1.065 căn hộ."
-    },
-    {
-        "category": "Bất động sản",
-        "title": "Ai được ưu tiên thuê nhà do Nhà nước đầu tư?",
-        "link": "https://dantri.com.vn/bat-dong-san/ai-duoc-uu-tien-thue-nha-do-nha-nuoc-dau-tu-20260715101052589.htm",
-        "published": "Mới cập nhật",
-        "summary": "Nhằm giải quyết nhu cầu an cư, Bộ Xây dựng đang lấy ý kiến mở rộng danh sách 14 nhóm đối tượng được xem xét thuê nhà ở do Nhà nước đầu tư xây dựng."
-    },
-    {
-        "category": "Bất động sản",
-        "title": "Vinhomes Golden City đón đầu xu hướng nâng cấp chuẩn sống tại Hải Phòng",
-        "link": "https://dantri.com.vn/bat-dong-san/vinhomes-golden-city-don-dau-xu-huong-nang-cap-chuan-song-tai-hai-phong-20260717115810813.htm",
-        "published": "Mới cập nhật",
-        "summary": "Mô hình đô thị tích hợp, hội tụ không gian xanh và hệ tiện ích đồng bộ, mang tới chuẩn sống nghỉ dưỡng cao cấp như Vinhomes Golden City thu hút người mua ở thực lẫn giới đầu tư."
     },
     {
         "category": "Bất động sản",
@@ -1758,24 +1758,52 @@
     },
     {
         "category": "Bất động sản",
+        "title": "Đóng hay mở cửa phòng khi bật điều hòa: Cách nào mát hơn ngày nắng nóng?",
+        "link": "https://dantri.com.vn/bat-dong-san/dong-hay-mo-cua-phong-khi-bat-dieu-hoa-cach-nao-mat-hon-ngay-nang-nong-20260625163738209.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Bất động sản",
         "title": "5 sai lầm khi dùng điều hòa khiến nhà bạn càng nóng hơn",
         "link": "https://dantri.com.vn/bat-dong-san/5-sai-lam-khi-dung-dieu-hoa-khien-nha-ban-cang-nong-hon-20260715065633495.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
-        "category": "Bất động sản",
-        "title": "Chiếc lỗ nhỏ trên bồn rửa mặt có công dụng bất ngờ nhiều người chưa biết",
-        "link": "https://dantri.com.vn/bat-dong-san/chiec-lo-nho-tren-bon-rua-mat-co-cong-dung-bat-ngo-nhieu-nguoi-chua-biet-20260713105506480.htm",
+        "category": "Thể thao",
+        "title": "Xem trực tiếp trận đội tuyển Việt Nam gặp Myanmar ở đâu?",
+        "link": "https://dantri.com.vn/the-thao/xem-truc-tiep-tran-doi-tuyen-viet-nam-gap-myanmar-o-dau-20260718101849737.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Thể thao",
-        "title": "Dự đoán chung kết World Cup cùng Dân trí, nhận giải trị giá 30 triệu đồng",
-        "link": "https://dantri.com.vn/the-thao/du-doan-chung-ket-world-cup-cung-dan-tri-nhan-giai-tri-gia-30-trieu-dong-20260716220947054.htm",
+        "title": "Vì sao trận chung kết World Cup 2026 có nguy cơ bị hoãn?",
+        "link": "https://dantri.com.vn/the-thao/vi-sao-tran-chung-ket-world-cup-2026-co-nguy-co-bi-hoan-20260717173158942.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Theo BBC, tình trạng không khí rất xấu ở khu vực New York và New Jersey có thể khiến trận chung kết World Cup 2026 giữa Tây Ban Nha và Argentina bị hoãn."
+    },
+    {
+        "category": "Thể thao",
+        "title": "Hành trình đội trưởng Bỉ đến Man Utd: Ba lần lỡ hẹn, cái kết viên mãn",
+        "link": "https://dantri.com.vn/the-thao/hanh-trinh-doi-truong-bi-den-man-utd-ba-lan-lo-hen-cai-ket-vien-man-20260717093840698.htm",
+        "published": "Mới cập nhật",
+        "summary": "Sau 7 năm và ba lần lỡ hẹn, Man Utd cuối cùng cũng có được Youri Tielemans. Phía sau thương vụ là niềm tin của Unai Emery, điều khoản giải phóng và bước ngoặt từ Ederson."
+    },
+    {
+        "category": "Thể thao",
+        "title": "“Thần may mắn” của đội tuyển Argentina ở World Cup: Không phải Lionel Messi",
+        "link": "https://dantri.com.vn/the-thao/than-may-man-cua-doi-tuyen-argentina-o-world-cup-khong-phai-lionel-messi-20260717164119535.htm",
+        "published": "Mới cập nhật",
+        "summary": "Dù Messi là linh hồn và niềm cảm hứng của đội tuyển Argentina nhưng người được xem là \"thần tài\" của Albiceleste ở đấu trường World Cup lại là Alexis Mac Allister."
+    },
+    {
+        "category": "Thể thao",
+        "title": "Messi gửi thông điệp đặc biệt đến người hâm mộ Argentina",
+        "link": "https://dantri.com.vn/the-thao/messi-gui-thong-diep-dac-biet-den-nguoi-ham-mo-argentina-20260717184259974.htm",
+        "published": "Mới cập nhật",
+        "summary": "Lionel Messi bất ngờ tạo nên cơn sốt trên mạng xã hội khi lặp lại chính xác thông điệp mà anh từng đăng tải trước trận chung kết tại Qatar cách đây 4 năm."
     },
     {
         "category": "Thể thao",
@@ -1797,6 +1825,20 @@
         "link": "https://dantri.com.vn/the-thao/hlv-kim-sang-sik-doi-tuyen-viet-nam-khong-chu-quan-truoc-myanmar-20260717174846969.htm",
         "published": "Mới cập nhật",
         "summary": "HLV Kim Sang Sik khẳng định đội tuyển Việt Nam thể hiện quyết tâm cao nhất, giành kết quả tốt nhất trong trận đấu giao hữu với Myanmar, qua đó có sự chuẩn bị cho chiến dịch AFF Cup 2026."
+    },
+    {
+        "category": "Thể thao",
+        "title": "Cuộc đua Vua phá lưới World Cup 2026: Gọi tên Messi hay Mbappe?",
+        "link": "https://dantri.com.vn/the-thao/cuoc-dua-vua-pha-luoi-world-cup-2026-goi-ten-messi-hay-mbappe-20260717173039697.htm",
+        "published": "Mới cập nhật",
+        "summary": "Cuộc đua giành danh hiệu Vua phá lưới tại World Cup 2026 vẫn đang diễn ra hết sức kịch tính khi có đến 5 ứng viên cạnh tranh ở hai trận đấu cuối cùng tại giải đấu ở Bắc Mỹ."
+    },
+    {
+        "category": "Thể thao",
+        "title": "Trước thềm chung kết World Cup 2026: Quả bóng vàng trong tầm tay Messi",
+        "link": "https://dantri.com.vn/the-thao/truoc-them-chung-ket-world-cup-2026-qua-bong-vang-trong-tam-tay-messi-20260717013157936.htm",
+        "published": "Mới cập nhật",
+        "summary": "Nếu Messi giành thêm một danh hiệu Quả bóng vàng ở tuổi 39, đó sẽ là sự kiện chấn động. Tuy nhiên, điều này sắp trở thành hiện thực. Siêu sao số 10 vẫn là ngôi sao sáng nhất trên bầu trời nước Mỹ."
     },
     {
         "category": "Thể thao",
@@ -1828,34 +1870,6 @@
     },
     {
         "category": "Thể thao",
-        "title": "FIFA công bố trọng tài bắt trận chung kết World Cup: Điềm dữ cho Argentina",
-        "link": "https://dantri.com.vn/the-thao/fifa-cong-bo-trong-tai-bat-tran-chung-ket-world-cup-diem-du-cho-argentina-20260717113757181.htm",
-        "published": "Mới cập nhật",
-        "summary": "FIFA đã phân công trọng tài người Slovenia, Slavko Vincic, điều khiển trận chung kết World Cup 2026 giữa Tây Ban Nha và Argentina."
-    },
-    {
-        "category": "Thể thao",
-        "title": "Tuyển Pháp đẩy nhanh việc chuyển giao, HLV Zidane chờ ngày ký hợp đồng",
-        "link": "https://dantri.com.vn/the-thao/tuyen-phap-day-nhanh-viec-chuyen-giao-hlv-zidane-cho-ngay-ky-hop-dong-20260717114307572.htm",
-        "published": "Mới cập nhật",
-        "summary": "Kỷ nguyên Didier Deschamps tại tuyển Pháp sắp khép lại sau 14 năm, mở đường cho Zinedine Zidane. Cựu HLV Real Madrid được cho là đã hoàn tất thỏa thuận, chờ ngày ký hợp đồng chính thức với FFF."
-    },
-    {
-        "category": "Thể thao",
-        "title": "Vé xem chung kết World Cup tăng giá lên mức cao kỷ lục",
-        "link": "https://dantri.com.vn/the-thao/ve-xem-chung-ket-world-cup-tang-gia-len-muc-cao-ky-luc-20260717110740430.htm",
-        "published": "Mới cập nhật",
-        "summary": "Giá vé theo dõi trận chung kết World Cup 2026 giữa Tây Ban Nha và Argentina đã tăng chóng mặt. Nó đã lập kỷ lục về mức giá trong một sự kiện thể thao ở Mỹ."
-    },
-    {
-        "category": "Thể thao",
-        "title": "Báo Anh tung bằng chứng, tố cáo trọng tài thiên vị lộ liễu Argentina",
-        "link": "https://dantri.com.vn/the-thao/bao-anh-tung-bang-chung-to-cao-trong-tai-thien-vi-lo-lieu-argentina-20260717093112404.htm",
-        "published": "Mới cập nhật",
-        "summary": "Tờ Daily Mail đã tung ra bằng chứng cho thấy trọng tài người Mỹ Ismail Elfath đã có những quyết định thiên vị Argentina trong trận bán kết World Cup với đội tuyển Anh."
-    },
-    {
-        "category": "Thể thao",
         "title": "Tây Ban Nha thắng Pháp: Màn trình diễn đỉnh cao về triết lý kiểm soát bóng",
         "link": "https://dantri.com.vn/the-thao/tay-ban-nha-thang-phap-man-trinh-dien-dinh-cao-ve-triet-ly-kiem-soat-bong-20260715093329183.htm",
         "published": "Mới cập nhật",
@@ -1879,20 +1893,6 @@
         "category": "Thể thao",
         "title": "Maradona khiến người Anh căm hận, nỗi đau Beckham, lịch sử chờ Messi",
         "link": "https://dantri.com.vn/the-thao/maradona-khien-nguoi-anh-cam-han-noi-dau-beckham-lich-su-cho-messi-20260714205903071.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Thể thao",
-        "title": "Hà Nội giành chiến thắng đậm ở giải U17 Quốc gia 2026",
-        "link": "https://dantri.com.vn/the-thao/ha-noi-gianh-chien-thang-dam-o-giai-u17-quoc-gia-2026-20260717203741796.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Thể thao",
-        "title": "Xác định 8 đội vào tứ kết giải U21 Quốc gia 2026",
-        "link": "https://dantri.com.vn/the-thao/xac-dinh-8-doi-vao-tu-ket-giai-u21-quoc-gia-2026-20260717203125894.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -2066,10 +2066,24 @@
     },
     {
         "category": "Sức khỏe",
+        "title": "Mơ màng tỉnh dậy sau cú lật xe: “Nếu không kêu cứu, tôi nghĩ mình sẽ chết”",
+        "link": "https://dantri.com.vn/suc-khoe/mo-mang-tinh-day-sau-cu-lat-xe-neu-khong-keu-cuu-toi-nghi-minh-se-chet-20260717154859211.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Sức khỏe",
+        "title": "Thu hồi 5 mỹ phẩm của Công ty Kencare Việt Nam",
+        "link": "https://dantri.com.vn/suc-khoe/thu-hoi-5-my-pham-cua-cong-ty-kencare-viet-nam-20260717140651861.htm",
+        "published": "Mới cập nhật",
+        "summary": "Cục Quản lý Dược vừa yêu cầu thu hồi, tiêu hủy trên toàn quốc 5 mỹ phẩm do Công ty TNHH Kencare Việt Nam đưa sản phẩm ra thị trường."
+    },
+    {
+        "category": "Sức khỏe",
         "title": "Bộ Y tế chỉ đạo khẩn sau vụ tai nạn xe khách lao khỏi cao tốc",
         "link": "https://dantri.com.vn/suc-khoe/bo-y-te-chi-dao-khan-sau-vu-tai-nan-xe-khach-lao-khoi-cao-toc-20260717133655558.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Trưa 17/7, Bộ Y tế có công văn hỏa tốc yêu cầu Sở Y tế Hà Nội, Bệnh viện Hữu nghị Việt Đức tiếp tục cấp cứu, điều trị các nạn nhân vụ tai nạn xe khách chở 32 người lao khỏi cao tốc Pháp Vân - Cầu Giẽ."
     },
     {
         "category": "Sức khỏe",
@@ -2143,20 +2157,6 @@
     },
     {
         "category": "Sức khỏe",
-        "title": "Loại cỏ dại \"nhổ đi không hết\" lại là thức uống giải nhiệt trong mùa hè",
-        "link": "https://dantri.com.vn/suc-khoe/loai-co-dai-nho-di-khong-het-lai-la-thuc-uong-giai-nhiet-trong-mua-he-20260713232332116.htm",
-        "published": "Mới cập nhật",
-        "summary": "Mọc đầy ven đường, bờ ruộng và thường bị nhổ bỏ, cỏ mần trầu lại được y học cổ truyền xem là vị thuốc có nhiều công dụng."
-    },
-    {
-        "category": "Sức khỏe",
-        "title": "6 lần cận kề cái chết, bé trai được trái tim từ Hà Nội hồi sinh",
-        "link": "https://dantri.com.vn/suc-khoe/6-lan-can-ke-cai-chet-be-trai-duoc-trai-tim-tu-ha-noi-hoi-sinh-20260716131810870.htm",
-        "published": "Mới cập nhật",
-        "summary": "Trước khi Bệnh viện Đại học Y Dược TPHCM thực hiện ca ghép tim số 14, bệnh nhi nhận quả tim hiến có hành trình chống chọi bệnh tật vô cùng gian nan, với 6 lần nhập viện vì tình trạng nguy kịch."
-    },
-    {
-        "category": "Sức khỏe",
         "title": "65 phút kỳ diệu để quả tim từ Hà Nội đập trong ngực chàng trai ở TPHCM",
         "link": "https://dantri.com.vn/suc-khoe/65-phut-ky-dieu-de-qua-tim-tu-ha-noi-dap-trong-nguc-chang-trai-o-tphcm-20260712134750983.htm",
         "published": "Mới cập nhật",
@@ -2227,6 +2227,13 @@
     },
     {
         "category": "Sức khỏe",
+        "title": "Vinmec Smart City điều trị sa vùng kín nặng cho bệnh nhân 72 tuổi",
+        "link": "https://dantri.com.vn/suc-khoe/vinmec-smart-city-dieu-tri-sa-vung-kin-nang-cho-benh-nhan-72-tuoi-20260717174237321.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Sức khỏe",
         "title": "“Thủ phạm” phía sau những cơn đau nửa đầu và phương pháp điều trị hiệu quả",
         "link": "https://dantri.com.vn/suc-khoe/thu-pham-phia-sau-nhung-con-dau-nua-dau-va-phuong-phap-dieu-tri-hieu-qua-20260717162414632.htm",
         "published": "Mới cập nhật",
@@ -2243,13 +2250,6 @@
         "category": "Sức khỏe",
         "title": "Sốc nhiệt khi đi biển mùa hè - những điều cần biết",
         "link": "https://dantri.com.vn/suc-khoe/soc-nhiet-khi-di-bien-mua-he-nhung-dieu-can-biet-20260716183827170.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Sức khỏe",
-        "title": "Nam sinh 13 tuổi tìm lại tự tin sau mổ tạo hình ngực lõm ở Vinmec Hải Phòng",
-        "link": "https://dantri.com.vn/suc-khoe/nam-sinh-13-tuoi-tim-lai-tu-tin-sau-mo-tao-hinh-nguc-lom-o-vinmec-hai-phong-20260716143642876.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -2297,13 +2297,6 @@
     },
     {
         "category": "Sức khỏe",
-        "title": "Lệch vai, nghiêng người - “sát thủ thầm lặng” của cột sống tuổi dậy thì",
-        "link": "https://dantri.com.vn/suc-khoe/lech-vai-nghieng-nguoi-sat-thu-tham-lang-cua-cot-song-tuoi-day-thi-20260701153057810.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Sức khỏe",
         "title": "Áp lực phải có nhà mới cưới vợ khiến người đàn ông 33 tuổi mất ngủ kéo dài",
         "link": "https://dantri.com.vn/suc-khoe/ap-luc-phai-co-nha-moi-cuoi-vo-khien-nguoi-dan-ong-33-tuoi-mat-ngu-keo-dai-20260714110948935.htm",
         "published": "Mới cập nhật",
@@ -2320,13 +2313,6 @@
         "category": "Sức khỏe",
         "title": "6 loại thực phẩm làm suy giảm chất lượng tinh trùng ở nam giới",
         "link": "https://dantri.com.vn/suc-khoe/6-loai-thuc-pham-lam-suy-giam-chat-luong-tinh-trung-o-nam-gioi-20260701175717032.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Sức khỏe",
-        "title": "3 ngày sau sinh con đầu lòng, người mẹ 32 tuổi thấy mình \"không xứng đáng\"",
-        "link": "https://dantri.com.vn/suc-khoe/3-ngay-sau-sinh-con-dau-long-nguoi-me-32-tuoi-thay-minh-khong-xung-dang-20260612162621059.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -2605,17 +2591,17 @@
     },
     {
         "category": "Giải trí",
-        "title": "Minh tinh Angelina Jolie sẵn sàng rời Mỹ, chuẩn bị chương mới trong đời",
-        "link": "https://dantri.com.vn/giai-tri/minh-tinh-angelina-jolie-san-sang-roi-my-chuan-bi-chuong-moi-trong-doi-20260717103645371.htm",
+        "title": "Diễn viên Thùy Anh: \"Tôi ở tuổi 31 chưa chắc dám đóng cảnh nóng như năm 18\"",
+        "link": "https://dantri.com.vn/giai-tri/dien-vien-thuy-anh-toi-o-tuoi-31-chua-chac-dam-dong-canh-nong-nhu-nam-18-20260716125743116.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Giải trí",
-        "title": "“Bóng hồng” đang hẹn hò với cầu thủ đẹp trai nhất World Cup 2026",
-        "link": "https://dantri.com.vn/giai-tri/bong-hong-dang-hen-ho-voi-cau-thu-dep-trai-nhat-world-cup-2026-20260717175346590.htm",
+        "title": "Minh tinh Angelina Jolie sẵn sàng rời Mỹ, chuẩn bị chương mới trong đời",
+        "link": "https://dantri.com.vn/giai-tri/minh-tinh-angelina-jolie-san-sang-roi-my-chuan-bi-chuong-moi-trong-doi-20260717103645371.htm",
         "published": "Mới cập nhật",
-        "summary": "Trước World Cup 2026, Rodrigo De Paul trở thành một cái tên nhận được nhiều sự chú ý của người hâm mộ, không chỉ bởi vai trò quan trọng trong đội hình tuyển Argentina mà còn nhờ ngoại hình nổi bật."
+        "summary": "Nguồn tin thân cận tiết lộ Angelina Jolie đã sẵn sàng bước sang giai đoạn mới của cuộc sống sau khi hai con sinh đôi Vivienne và Knox tròn 18 tuổi. Nữ diễn viên được cho là đang chuẩn bị rời Mỹ."
     },
     {
         "category": "Giải trí",
@@ -2822,17 +2808,24 @@
     },
     {
         "category": "Sức mạnh số",
+        "title": "Thâm nhập quán net sau giờ cấm, bất ngờ phía sau cánh cửa đóng im lìm",
+        "link": "https://dantri.com.vn/cong-nghe/tham-nhap-quan-net-sau-gio-cam-bat-ngo-phia-sau-canh-cua-dong-im-lim-20260717011603876.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Sức mạnh số",
         "title": "Apple để lại khoảng trống trên thị trường di động Việt",
         "link": "https://dantri.com.vn/cong-nghe/apple-de-lai-khoang-trong-tren-thi-truong-di-dong-viet-20260716233518415.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Thời gian gần đây, bộ đôi iPhone 13 và iPhone 14 đã dần biến mất trên các kệ hàng chính hãng. Điều này đánh dấu một sự thay đổi lớn trong chiến lược phân phối sản phẩm của Apple tại Việt Nam."
     },
     {
         "category": "Sức mạnh số",
         "title": "Drone AI siêu nhỏ có thể tự săn và tiêu diệt muỗi khi đang bay",
         "link": "https://dantri.com.vn/dt360/drone-ai-sieu-nho-co-the-tu-san-va-tieu-diet-muoi-khi-dang-bay-20260716174059006.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Một startup công nghệ có trụ sở tại Pháp vừa giới thiệu drone AI siêu nhỏ có khả năng tự động phát hiện, bám đuổi và tiêu diệt muỗi ngay trên không."
     },
     {
         "category": "Sức mạnh số",
@@ -2913,20 +2906,6 @@
     },
     {
         "category": "Sức mạnh số",
-        "title": "Người đàn ông 21 năm nằm liệt, dùng chuột máy tính làm \"cọ\" vẽ lại cuộc đời",
-        "link": "https://dantri.com.vn/cong-nghe/nguoi-dan-ong-21-nam-nam-liet-dung-chuot-may-tinh-lam-co-ve-lai-cuoc-doi-20260708082251068.htm",
-        "published": "Mới cập nhật",
-        "summary": "Sau tai nạn khiến cơ thể liệt toàn thân, Phạm Ngọc Cường (SN 1987, Cao Bằng) vẫn ngày ngày ngồi trước màn hình máy tính thiết kế giao diện Windows, xây kênh TikTok bán hàng kiếm thêm thu nhập."
-    },
-    {
-        "category": "Sức mạnh số",
-        "title": "Dữ liệu cá nhân bị rao bán tràn lan trên mạng như món hàng rẻ tiền",
-        "link": "https://dantri.com.vn/cong-nghe/du-lieu-ca-nhan-bi-rao-ban-tran-lan-tren-mang-nhu-mon-hang-re-tien-20260714010416529.htm",
-        "published": "Mới cập nhật",
-        "summary": "Dữ liệu sinh viên, học sinh, hộ kinh doanh, phụ nữ mang thai hoặc mới sinh cùng muôn vàn thể loại khác đang được rao bán ngang nhiên trên các “chợ dữ liệu” mặc cho nguy cơ bị phạt đến 3 tỷ đồng."
-    },
-    {
-        "category": "Sức mạnh số",
         "title": "Mất ăn mất ngủ để xem phim người giả đóng",
         "link": "https://dantri.com.vn/cong-nghe/mat-an-mat-ngu-de-xem-phim-nguoi-gia-dong-20260713123151751.htm",
         "published": "Mới cập nhật",
@@ -2936,6 +2915,20 @@
         "category": "Sức mạnh số",
         "title": "20/8 là hạn cuối cho 13 triệu thuê bao chưa chuẩn hóa thông tin",
         "link": "https://dantri.com.vn/cong-nghe/208-la-han-cuoi-cho-13-trieu-thue-bao-chua-chuan-hoa-thong-tin-20260713212411581.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Sức mạnh số",
+        "title": "Dữ liệu cá nhân bị rao bán tràn lan trên mạng như món hàng rẻ tiền",
+        "link": "https://dantri.com.vn/cong-nghe/du-lieu-ca-nhan-bi-rao-ban-tran-lan-tren-mang-nhu-mon-hang-re-tien-20260714010416529.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Sức mạnh số",
+        "title": "Người đàn ông 21 năm nằm liệt, dùng chuột máy tính làm \"cọ\" vẽ lại cuộc đời",
+        "link": "https://dantri.com.vn/cong-nghe/nguoi-dan-ong-21-nam-nam-liet-dung-chuot-may-tinh-lam-co-ve-lai-cuoc-doi-20260708082251068.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -3004,6 +2997,20 @@
     },
     {
         "category": "Giáo dục",
+        "title": "Đề xuất miễn phí toàn bộ sách giáo khoa cho học sinh ở TPHCM",
+        "link": "https://dantri.com.vn/giao-duc/de-xuat-mien-phi-toan-bo-sach-giao-khoa-cho-hoc-sinh-o-tphcm-20260716210603636.htm",
+        "published": "Mới cập nhật",
+        "summary": "Sở GD&ĐT TPHCM đề xuất thực hiện chính sách miễn phí sách giáo khoa cho tất cả học sinh từ năm học 2026-2027 theo hình thức mượn - trả."
+    },
+    {
+        "category": "Giáo dục",
+        "title": "Sau phúc khảo, thí sinh được tăng 20,7 điểm, trúng tuyển nguyện vọng 1",
+        "link": "https://dantri.com.vn/giao-duc/sau-phuc-khao-thi-sinh-duoc-tang-207-diem-trung-tuyen-nguyen-vong-1-20260716183255202.htm",
+        "published": "Mới cập nhật",
+        "summary": "Do bị đánh dấu nhầm là vắng thi, một thí sinh ở Thanh Hóa bị chấm 0 điểm cả 3 môn. Sau phúc khảo, thí sinh này được điều chỉnh tăng 20,7 điểm và trúng tuyển nguyện vọng 1."
+    },
+    {
+        "category": "Giáo dục",
         "title": "Miễn phí sách giáo khoa cho tất cả học sinh từ năm học 2026-2027",
         "link": "https://dantri.com.vn/giao-duc/mien-phi-sach-giao-khoa-cho-tat-ca-hoc-sinh-tu-nam-hoc-2026-2027-20260716173849661.htm",
         "published": "Mới cập nhật",
@@ -3067,22 +3074,15 @@
     },
     {
         "category": "Giáo dục",
-        "title": "Phân công nhiệm vụ của Bộ trưởng và 5 Thứ trưởng Bộ GD&ĐT",
-        "link": "https://dantri.com.vn/giao-duc/phan-cong-nhiem-vu-cua-bo-truong-va-5-thu-truong-bo-gddt-20260716072947331.htm",
-        "published": "Mới cập nhật",
-        "summary": "Bộ trưởng Bộ Giáo dục và Đào tạo (GD&ĐT) vừa ban hành Quyết định số 2047 về việc phân công nhiệm vụ của Bộ trưởng và các Thứ trưởng."
-    },
-    {
-        "category": "Giáo dục",
-        "title": "Điểm nhấn trong mùa tuyển sinh đặc biệt ở TPHCM sau sáp nhập",
-        "link": "https://dantri.com.vn/giao-duc/diem-nhan-trong-mua-tuyen-sinh-dac-biet-o-tphcm-sau-sap-nhap-20260715155819326.htm",
-        "published": "Mới cập nhật",
-        "summary": "Khi tuyển sinh theo chính quyền địa phương 2 cấp, áp dụng bản đồ GIS, nhiều phường ở TPHCM đã họp cùng với Sở GD&ĐT, các trường học để \"xé rào\" đảm bảo quyền lợi học tập cho học sinh."
-    },
-    {
-        "category": "Giáo dục",
         "title": "Thủ tướng nêu nguyên tắc xử lý vụ điểm thi toán bất thường ở Tuyên Quang",
         "link": "https://dantri.com.vn/thoi-su/thu-tuong-neu-nguyen-tac-xu-ly-vu-diem-thi-toan-bat-thuong-o-tuyen-quang-20260715171100731.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Giáo dục",
+        "title": "Phân công nhiệm vụ của Bộ trưởng và 5 Thứ trưởng Bộ GD&ĐT",
+        "link": "https://dantri.com.vn/giao-duc/phan-cong-nhiem-vu-cua-bo-truong-va-5-thu-truong-bo-gddt-20260716072947331.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -3179,13 +3179,6 @@
     },
     {
         "category": "Giáo dục",
-        "title": "Phạt 20 triệu nếu dạy trước chương trình lớp 1: Dạy đọc, viết có vi phạm?",
-        "link": "https://dantri.com.vn/giao-duc/phat-20-trieu-neu-day-truoc-chuong-trinh-lop-1-day-doc-viet-co-vi-pham-20260630165100085.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Giáo dục",
         "title": "TPHCM đang thực hiện sắp xếp lại trường học",
         "link": "https://dantri.com.vn/giao-duc/tphcm-dang-thuc-hien-sap-xep-lai-truong-hoc-20260717091804906.htm",
         "published": "Mới cập nhật",
@@ -3242,8 +3235,8 @@
     },
     {
         "category": "Giáo dục",
-        "title": "Thứ trưởng Bộ GD&ĐT: Tinh thần tự học của giáo viên sẽ lan tỏa tới học sinh",
-        "link": "https://dantri.com.vn/giao-duc/thu-truong-bo-gddt-tinh-than-tu-hoc-cua-giao-vien-se-lan-toa-toi-hoc-sinh-20260713110435754.htm",
+        "title": "Trường Đại học Đại Nam tặng học bổng cho con em ngành quân đội, công an",
+        "link": "https://dantri.com.vn/giao-duc/truong-dai-hoc-dai-nam-tang-hoc-bong-cho-con-em-nganh-quan-doi-cong-an-20260718083043757.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -3312,17 +3305,24 @@
     },
     {
         "category": "Pháp luật",
-        "title": "Đề xuất phạt tới 12 năm tù người sản xuất thực phẩm kém chất lượng",
-        "link": "https://dantri.com.vn/phap-luat/de-xuat-phat-toi-12-nam-tu-nguoi-san-xuat-thuc-pham-kem-chat-luong-20260717095628032.htm",
+        "title": "Được em vợ rủ sang Singapore, anh rể ngủ dậy thấy đang đi Campuchia",
+        "link": "https://dantri.com.vn/phap-luat/duoc-em-vo-ru-sang-singapore-anh-re-ngu-day-thay-dang-di-campuchia-20260717095006219.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Pháp luật",
-        "title": "Được em vợ rủ sang Singapore, anh rể ngủ dậy thấy đang đi Campuchia",
-        "link": "https://dantri.com.vn/phap-luat/duoc-em-vo-ru-sang-singapore-anh-re-ngu-day-thay-dang-di-campuchia-20260717095006219.htm",
+        "title": "Ghen tuông, người đàn ông ở TPHCM đâm bạn gái rồi ném từ mái nhà xuống đất",
+        "link": "https://dantri.com.vn/phap-luat/ghen-tuong-nguoi-dan-ong-o-tphcm-dam-ban-gai-roi-nem-tu-mai-nha-xuong-dat-20260717155955711.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Chỉ vì ghen tuông, người đàn ông ở TPHCM dùng kéo đâm, đánh đập bạn gái rồi ném nạn nhân từ mái nhà cao 7,5m xuống đất. Chị T. may mắn thoát chết, tổn hại sức khỏe 64%."
+    },
+    {
+        "category": "Pháp luật",
+        "title": "Khởi tố một nữ giáo viên văn Trường THPT Chuyên Tuyên Quang",
+        "link": "https://dantri.com.vn/phap-luat/khoi-to-mot-nu-giao-vien-van-truong-thpt-chuyen-tuyen-quang-20260717164132876.htm",
+        "published": "Mới cập nhật",
+        "summary": "Công an tỉnh Tuyên Quang đã ra quyết định khởi tố với Nguyễn Thị Diệu Thúy, giáo viên môn ngữ văn Trường THPT Chuyên Tuyên Quang."
     },
     {
         "category": "Pháp luật",
@@ -3382,6 +3382,13 @@
     },
     {
         "category": "Pháp luật",
+        "title": "Đề xuất phạt tới 12 năm tù người sản xuất thực phẩm kém chất lượng",
+        "link": "https://dantri.com.vn/phap-luat/de-xuat-phat-toi-12-nam-tu-nguoi-san-xuat-thuc-pham-kem-chat-luong-20260717095628032.htm",
+        "published": "Mới cập nhật",
+        "summary": "Người sản xuất, buôn bán lương thực, thực phẩm, phụ gia hoặc thức ăn chăn nuôi không bảo đảm chất lượng bị đề xuất phạt tới 12 năm tù; pháp nhân thương mại bị phạt tới 18 tỷ đồng."
+    },
+    {
+        "category": "Pháp luật",
         "title": "Xét xử người phụ nữ cào xước ô tô Mercedes GLC200 đỗ trước cửa nhà",
         "link": "https://dantri.com.vn/phap-luat/xet-xu-nguoi-phu-nu-cao-xuoc-o-to-mercedes-glc200-do-truoc-cua-nha-20260717093746750.htm",
         "published": "Mới cập nhật",
@@ -3393,20 +3400,6 @@
         "link": "https://dantri.com.vn/phap-luat/vi-pham-dau-thau-cuu-chuyen-vien-phong-giao-duc-bi-bat-20260717080901336.htm",
         "published": "Mới cập nhật",
         "summary": "Được giao lập hồ sơ đấu thầu mua sắm trang thiết bị giáo dục cho các trường, cựu chuyên viên phòng giáo dục huyện cũ vi phạm các quy định của Luật Đấu thầu, gây thiệt hại cho nhà nước gần 1,8 tỷ đồng."
-    },
-    {
-        "category": "Pháp luật",
-        "title": "Kẻ hiếp dâm từ năm 1986, trốn lệnh truy nã suốt 40 năm, bất ngờ bị bắt",
-        "link": "https://dantri.com.vn/phap-luat/ke-hiep-dam-tu-nam-1986-tron-lenh-truy-na-suot-40-nam-bat-ngo-bi-bat-20260716220140499.htm",
-        "published": "Mới cập nhật",
-        "summary": "Đối tượng Đinh Văn Long bị Công an tỉnh Hưng Yên bắt giữ sau 40 năm lẩn trốn vì hành vi hiếp dâm. Trong thời gian bỏ trốn, nghi phạm thay đổi lý lịch, nhân thân để che giấu tung tích."
-    },
-    {
-        "category": "Pháp luật",
-        "title": "Khởi tố 5 người trong đường dây sản xuất phụ gia thực phẩm giả tại TPHCM",
-        "link": "https://dantri.com.vn/phap-luat/khoi-to-5-nguoi-trong-duong-day-san-xuat-phu-gia-thuc-pham-gia-tai-tphcm-20260716212525955.htm",
-        "published": "Mới cập nhật",
-        "summary": "Công an TPHCM vừa triệt phá đường dây sản xuất, buôn bán phụ gia thực phẩm giả; khởi tố và bắt tạm giam 5 người; thu giữ hàng trăm kg bột ngọt, hạt nêm giả cùng nhiều tang vật."
     },
     {
         "category": "Pháp luật",
@@ -3662,10 +3655,17 @@
     },
     {
         "category": "Du lịch",
+        "title": "Chiêm ngưỡng báu vật trong cung Nam Phương Hoàng hậu ở Đà Lạt",
+        "link": "https://dantri.com.vn/du-lich/chiem-nguong-bau-vat-trong-cung-nam-phuong-hoang-hau-o-da-lat-20260716222823233.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Du lịch",
         "title": "Khách Tây gọi Việt Nam là \"quốc gia tử tế nhất\" sau hành động của tài xế",
         "link": "https://dantri.com.vn/du-lich/khach-tay-goi-viet-nam-la-quoc-gia-tu-te-nhat-sau-hanh-dong-cua-tai-xe-20260715192525755.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Hành động nhỏ của tài xế khi dừng chờ đèn đỏ lại khiến Pavel Volodin - du khách người Nga - xúc động. Anh ghi lại khoảnh khắc ấy và gọi Việt Nam là \"quốc gia tử tế nhất\" mà mình từng đặt chân đến."
     },
     {
         "category": "Du lịch",
@@ -3753,27 +3753,6 @@
     },
     {
         "category": "Du lịch",
-        "title": "Cả trăm tổ ong nặng trĩu mật trên cây cổ thụ như \"thác mật\" gây choáng ngợp",
-        "link": "https://dantri.com.vn/du-lich/ca-tram-to-ong-nang-triu-mat-tren-cay-co-thu-nhu-thac-mat-gay-choang-ngop-20260713153502962.htm",
-        "published": "Mới cập nhật",
-        "summary": "Đây là dịp lý tưởng để du khách tận mắt chiêm ngưỡng những tổ ong mật tự nhiên treo lủng lẳng trên \"cây vua ong\" - cây cổ thụ niên đại hàng trăm năm ở núi Cảnh Mại, Trung Quốc."
-    },
-    {
-        "category": "Du lịch",
-        "title": "Người mẹ Hà Nội chi 800 triệu đồng đưa con nghỉ hè ở Mỹ đổi lấy trải nghiệm",
-        "link": "https://dantri.com.vn/du-lich/nguoi-me-ha-noi-chi-800-trieu-dong-dua-con-nghi-he-o-my-doi-lay-trai-nghiem-20260713071112961.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Du lịch",
-        "title": "Xác minh khách kêu đắt khi ăn trưa hết 27 triệu đồng tại quán ở Quảng Ninh",
-        "link": "https://dantri.com.vn/du-lich/xac-minh-khach-keu-dat-khi-an-trua-het-27-trieu-dong-tai-quan-o-quang-ninh-20260712110016314.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Du lịch",
         "title": "Đà Nẵng đưa “quốc bảo” từ đại ngàn xuống phố",
         "link": "https://dantri.com.vn/du-lich/da-nang-dua-quoc-bao-tu-dai-ngan-xuong-pho-20260717123159562.htm",
         "published": "Mới cập nhật",
@@ -3781,8 +3760,8 @@
     },
     {
         "category": "Du lịch",
-        "title": "Cô gái Việt tiết lộ thực hư chuyện người Thụy Sĩ bơi về nhà sau giờ làm",
-        "link": "https://dantri.com.vn/du-lich/co-gai-viet-tiet-lo-thuc-hu-chuyen-nguoi-thuy-si-boi-ve-nha-sau-gio-lam-20260708195118597.htm",
+        "title": "Người mẹ Hà Nội chi 800 triệu đồng đưa con nghỉ hè ở Mỹ đổi lấy trải nghiệm",
+        "link": "https://dantri.com.vn/du-lich/nguoi-me-ha-noi-chi-800-trieu-dong-dua-con-nghi-he-o-my-doi-lay-trai-nghiem-20260713071112961.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -3865,6 +3844,27 @@
     },
     {
         "category": "Ô tô - Xe máy",
+        "title": "Range Rover được bổ sung bản Sport chạy điện, có màn lộ diện ấn tượng",
+        "link": "https://dantri.com.vn/o-to-xe-may/range-rover-duoc-bo-sung-ban-sport-chay-dien-co-man-lo-dien-an-tuong-20260717002309329.htm",
+        "published": "Mới cập nhật",
+        "summary": "Thế hệ thứ ba của Range Rover Sport chuẩn bị bước vào giai đoạn nâng cấp giữa vòng đời, với điểm nhấn lớn nhất là việc bổ sung hệ truyền động thuần điện."
+    },
+    {
+        "category": "Ô tô - Xe máy",
+        "title": "Mitsubishi vượt Toyota, Ford về doanh số nhóm xe xăng, dầu bán chạy",
+        "link": "https://dantri.com.vn/o-to-xe-may/mitsubishi-vuot-toyota-ford-ve-doanh-so-nhom-xe-xang-dau-ban-chay-20260716114536914.htm",
+        "published": "Mới cập nhật",
+        "summary": "Dù không phải sản phẩm nào cũng dẫn đầu phân khúc, Mitsubishi vẫn có tổng doanh số cao nhất trong số các thương hiệu góp mặt ở bảng xếp hạng 10 mẫu ô tô chạy xăng, dầu hút khách nhất nửa đầu năm."
+    },
+    {
+        "category": "Ô tô - Xe máy",
+        "title": "Xe máy điện Honda UC3 sẽ lắp ráp tại Việt Nam từ tháng 9",
+        "link": "https://dantri.com.vn/o-to-xe-may/xe-may-dien-honda-uc3-se-lap-rap-tai-viet-nam-tu-thang-9-20260716171711636.htm",
+        "published": "Mới cập nhật",
+        "summary": "Honda sẽ lắp ráp UC3 tại Việt Nam từ tháng 9, đồng thời đặt hy vọng vào mẫu xe máy điện mới ra mắt năm sau."
+    },
+    {
+        "category": "Ô tô - Xe máy",
         "title": "Lao dốc như mất phanh, xe ben quăng đuôi gây họa",
         "link": "https://dantri.com.vn/o-to-xe-may/lao-doc-nhu-mat-phanh-xe-ben-quang-duoi-gay-hoa-20260716160653780.htm",
         "published": "Mới cập nhật",
@@ -3918,27 +3918,6 @@
         "link": "https://dantri.com.vn/o-to-xe-may/ferrari-xem-lan-song-chi-trich-xe-dien-luce-la-tin-hieu-tich-cuc-20260715012242301.htm",
         "published": "Mới cập nhật",
         "summary": "Ferrari cho rằng những phản ứng gay gắt dành cho mẫu xe thuần điện đầu tiên của hãng là điều có thể dự đoán trước và phản ánh sức hút của thương hiệu."
-    },
-    {
-        "category": "Ô tô - Xe máy",
-        "title": "BYD lên tiếng sau vụ ô tô rơi cụm mô-tơ điện giữa đường",
-        "link": "https://dantri.com.vn/o-to-xe-may/byd-len-tieng-sau-vu-o-to-roi-cum-mo-to-dien-giua-duong-20260711021152448.htm",
-        "published": "Mới cập nhật",
-        "summary": "BYD đã có phản hồi chính thức đầu tiên về sự cố một chiếc Tang bị rơi cụm mô-tơ điện khi đang di chuyển qua đoạn đường ngập. Hãng cho rằng nguyên nhân không phải lỗi chất lượng."
-    },
-    {
-        "category": "Ô tô - Xe máy",
-        "title": "VinFast Amio S2 thu hút phụ huynh, học sinh trước năm học mới",
-        "link": "https://dantri.com.vn/o-to-xe-may/vinfast-amio-s2-thu-hut-phu-huynh-hoc-sinh-truoc-nam-hoc-moi-20260717115055424.htm",
-        "published": "Mới cập nhật",
-        "summary": "Sở hữu thiết kế trẻ trung, khả năng vận hành an toàn cùng mức chi phí hợp lý, VinFast Amio S2 được phụ huynh và học sinh quan tâm trước thềm năm học mới."
-    },
-    {
-        "category": "Ô tô - Xe máy",
-        "title": "Công ty bảo hiểm: Sửa chữa ô tô điện chi phí đắt nhất không phải bộ pin",
-        "link": "https://dantri.com.vn/o-to-xe-may/cong-ty-bao-hiem-sua-chua-o-to-dien-chi-phi-dat-nhat-khong-phai-bo-pin-20260714012028181.htm",
-        "published": "Mới cập nhật",
-        "summary": "Dữ liệu bảo hành tại Anh cho thấy những hỏng hóc hay gặp nhất ở ô tô điện cũ thường đến từ các bộ phận cơ khí và điện, chứ không phải bộ pin đắt tiền."
     },
     {
         "category": "Ô tô - Xe máy",
@@ -4005,6 +3984,13 @@
     },
     {
         "category": "Ô tô - Xe máy",
+        "title": "Công ty bảo hiểm: Sửa chữa ô tô điện chi phí đắt nhất không phải bộ pin",
+        "link": "https://dantri.com.vn/o-to-xe-may/cong-ty-bao-hiem-sua-chua-o-to-dien-chi-phi-dat-nhat-khong-phai-bo-pin-20260714012028181.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Ô tô - Xe máy",
         "title": "VinFast hé lộ hai xe máy điện hoàn toàn mới",
         "link": "https://dantri.com.vn/o-to-xe-may/vinfast-he-lo-hai-xe-may-dien-hoan-toan-moi-20260710163518978.htm",
         "published": "Mới cập nhật",
@@ -4049,13 +4035,6 @@
         "category": "Ô tô - Xe máy",
         "title": "Vì sao phụ nữ thường bị thương nặng hơn khi xảy ra tai nạn ô tô?",
         "link": "https://dantri.com.vn/khoa-hoc/vi-sao-phu-nu-thuong-bi-thuong-nang-hon-khi-xay-ra-tai-nan-o-to-20260715042643791.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Ô tô - Xe máy",
-        "title": "Hình ảnh xe BYD Tang kéo lê cụm mô-tơ điện gây tranh cãi",
-        "link": "https://dantri.com.vn/o-to-xe-may/hinh-anh-xe-byd-tang-keo-le-cum-mo-to-dien-gay-tranh-cai-20260714112423682.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
