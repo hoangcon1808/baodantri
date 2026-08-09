@@ -8,8 +8,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Trực tiếp Điểm chuẩn 2026 \"nóng\" từng giờ: Nhiều ngành chạm ngưỡng tuyệt đối 30 điểm",
-        "link": "https://dantri.com.vn/giao-duc/diem-chuan-2026-nong-tung-gio-nhieu-nganh-cham-nguong-tuyet-doi-30-diem-20260808113332710.htm",
+        "title": "Trực tiếp Điểm chuẩn đại học 2026: Nhiều ngành 29 điểm vẫn trượt",
+        "link": "https://dantri.com.vn/giao-duc/diem-chuan-dai-hoc-2026-nhieu-nganh-29-diem-van-truot-20260808113332710.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -610,10 +610,24 @@
     },
     {
         "category": "Trang chủ",
+        "title": "3 ngành của Trường Đại học Hùng Vương TPHCM có điểm chuẩn 20",
+        "link": "https://dantri.com.vn/giao-duc/3-nganh-cua-truong-dai-hoc-hung-vuong-tphcm-co-diem-chuan-20-20260809184733892.htm",
+        "published": "Mới cập nhật",
+        "summary": "(Dân trí) – Mức điểm chuẩn trúng tuyển của Trường Đại học Hùng Vương TPHCM năm nay dao động từ 15 đến 20 điểm."
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Điểm chuẩn Trường Đại học Gia Định: Ngành cao nhất lấy 22 điểm",
+        "link": "https://dantri.com.vn/giao-duc/diem-chuan-truong-dai-hoc-gia-dinh-nganh-cao-nhat-lay-22-diem-20260809184154673.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Điểm chuẩn Đại học Cần Thơ 2026: Sư phạm “áp đảo”, cao nhất 28,12 điểm",
         "link": "https://dantri.com.vn/giao-duc/diem-chuan-dai-hoc-can-tho-2026-su-pham-ap-dao-cao-nhat-2812-diem-20260809183813406.htm",
         "published": "Mới cập nhật",
-        "summary": "Đại học Cần Thơ công bố điểm chuẩn 2026 từ 15 đến 28,12 điểm. Trong đó, nhóm Sư phạm dẫn đầu toàn trường, nhiều ngành trên 27 điểm."
+        "summary": ""
     },
     {
         "category": "Trang chủ",
@@ -640,20 +654,6 @@
         "category": "Trang chủ",
         "title": "Thêm một trường Y công bố điểm chuẩn, cao nhất 22,9 điểm",
         "link": "https://dantri.com.vn/giao-duc/them-mot-truong-y-cong-bo-diem-chuan-cao-nhat-229-diem-20260809174346637.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Điểm chuẩn năm 2026 vào Trường Đại học Giao thông vận tải TPHCM",
-        "link": "https://dantri.com.vn/giao-duc/diem-chuan-nam-2026-vao-truong-dai-hoc-giao-thong-van-tai-tphcm-20260809174841388.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Điểm chuẩn Trường Đại học Y khoa Phạm Ngọc Thạch tăng nhẹ",
-        "link": "https://dantri.com.vn/giao-duc/diem-chuan-truong-dai-hoc-y-khoa-pham-ngoc-thach-tang-nhe-20260809172204033.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -2913,6 +2913,20 @@
     },
     {
         "category": "Giáo dục",
+        "title": "Điểm chuẩn năm 2026 vào Trường Đại học Giao thông vận tải TPHCM",
+        "link": "https://dantri.com.vn/giao-duc/diem-chuan-nam-2026-vao-truong-dai-hoc-giao-thong-van-tai-tphcm-20260809174841388.htm",
+        "published": "Mới cập nhật",
+        "summary": "Chiều 9/8, Trường Đại học Giao thông vận tải TPHCM công bố điểm chuẩn tuyển sinh năm 2026."
+    },
+    {
+        "category": "Giáo dục",
+        "title": "Điểm chuẩn Trường Đại học Y khoa Phạm Ngọc Thạch tăng nhẹ",
+        "link": "https://dantri.com.vn/giao-duc/diem-chuan-truong-dai-hoc-y-khoa-pham-ngoc-thach-tang-nhe-20260809172204033.htm",
+        "published": "Mới cập nhật",
+        "summary": "Ngành có điểm chuẩn cao nhất Trường Đại học Y khoa Phạm Ngọc Thạch là Y khoa và Răng Hàm Mặt."
+    },
+    {
+        "category": "Giáo dục",
         "title": "Loạt ngành ở Trường Đại học Công nghệ Kỹ thuật TPHCM có điểm chuẩn trên 25",
         "link": "https://dantri.com.vn/giao-duc/loat-nganh-o-truong-dai-hoc-cong-nghe-ky-thuat-tphcm-co-diem-chuan-tren-25-20260809163208899.htm",
         "published": "Mới cập nhật",
@@ -2973,20 +2987,6 @@
         "link": "https://dantri.com.vn/giao-duc/diem-chuan-truong-dai-hoc-xay-dung-ha-noi-cao-nhat-28-20260809081908736.htm",
         "published": "Mới cập nhật",
         "summary": "Trường Đại học Xây dựng Hà Nội vừa công bố điểm chuẩn trúng tuyển năm 2026."
-    },
-    {
-        "category": "Giáo dục",
-        "title": "Trường Đại học Ngoại thương công bố điểm chuẩn 25-29,7",
-        "link": "https://dantri.com.vn/giao-duc/truong-dai-hoc-ngoai-thuong-cong-bo-diem-chuan-25-297-20260806234747335.htm",
-        "published": "Mới cập nhật",
-        "summary": "Năm nay, Trường Đại học Ngoại thương có mức điểm chuẩn từ 25 đến 29,7, đây là mức cao so với mặt bằng các trường đại học."
-    },
-    {
-        "category": "Giáo dục",
-        "title": "Điểm chuẩn Trường Đại học Thương mại, ngành Logistics vẫn dẫn đầu",
-        "link": "https://dantri.com.vn/giao-duc/diem-chuan-truong-dai-hoc-thuong-mai-nganh-logistics-van-dan-dau-20260809150816117.htm",
-        "published": "Mới cập nhật",
-        "summary": "Ngành Logistics và Quản lý chuỗi cung ứng vẫn dẫn đầu với 26,5/3 điểm. Các ngành khác lấy mức 23-25 điểm."
     },
     {
         "category": "Giáo dục",
