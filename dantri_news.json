@@ -15,8 +15,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Nữ du khách bị tàu hỏa hất văng điện thoại ở phố cà phê đường tàu Hà Nội",
-        "link": "https://dantri.com.vn/thoi-su/nu-du-khach-bi-tau-hoa-hat-vang-dien-thoai-o-pho-ca-phe-duong-tau-ha-noi-20260810200717426.htm",
+        "title": "Tìm thấy thêm 11 bộ hài cốt liệt sĩ ở Công viên Lê Thị Riêng",
+        "link": "https://dantri.com.vn/noi-vu/tim-thay-them-11-bo-hai-cot-liet-si-o-cong-vien-le-thi-rieng-20260810172203835.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -150,13 +150,6 @@
         "category": "Trang chủ",
         "title": "Chủ quán né tránh, khách vẫn mơ hồ: Mở YouTube hát karaoke có đúng luật?",
         "link": "https://dantri.com.vn/giai-tri/chu-quan-ne-tranh-khach-van-mo-ho-mo-youtube-hat-karaoke-co-dung-luat-20260806203807644.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Tìm thấy thêm 11 bộ hài cốt liệt sĩ ở Công viên Lê Thị Riêng",
-        "link": "https://dantri.com.vn/noi-vu/tim-thay-them-11-bo-hai-cot-liet-si-o-cong-vien-le-thi-rieng-20260810172203835.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -764,6 +757,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Thanh niên mang xe đi cầm rồi báo tin giả bị mất",
+        "link": "https://dantri.com.vn/phap-luat/thanh-nien-mang-xe-di-cam-roi-bao-tin-gia-bi-mat-20260810215710338.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Truy tìm thiếu nữ ở Lào Cai bị người lạ dụ dỗ bỏ nhà đi Hà Nội",
         "link": "https://dantri.com.vn/phap-luat/truy-tim-thieu-nu-o-lao-cai-bi-nguoi-la-du-do-bo-nha-di-ha-noi-20260810203837139.htm",
         "published": "Mới cập nhật",
@@ -780,13 +780,6 @@
         "category": "Trang chủ",
         "title": "Giả cán bộ sở lừa 340 triệu đồng “chạy” thủ tục đất đai",
         "link": "https://dantri.com.vn/phap-luat/gia-can-bo-so-lua-340-trieu-dong-chay-thu-tuc-dat-dai-20260810193035655.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Thường xuyên đóng giả thanh tra, hứa hẹn \"lật ngược thế cờ\" để lừa tiền",
-        "link": "https://dantri.com.vn/phap-luat/thuong-xuyen-dong-gia-thanh-tra-hua-hen-lat-nguoc-the-co-de-lua-tien-20260810191933158.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -920,6 +913,13 @@
         "category": "Trang chủ",
         "title": "Thông tin mới về vụ tài xế ô tô và xe máy liên tục tạt đầu nhau trên đường",
         "link": "https://dantri.com.vn/dt360/thong-tin-moi-ve-vu-tai-xe-o-to-va-xe-may-lien-tuc-tat-dau-nhau-tren-duong-20260810185334374.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Xã hội",
+        "title": "Nữ du khách bị tàu hỏa hất văng điện thoại ở phố cà phê đường tàu Hà Nội",
+        "link": "https://dantri.com.vn/thoi-su/nu-du-khach-bi-tau-hoa-hat-vang-dien-thoai-o-pho-ca-phe-duong-tau-ha-noi-20260810200717426.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -3200,6 +3200,13 @@
     },
     {
         "category": "Pháp luật",
+        "title": "Thường xuyên đóng giả thanh tra, hứa hẹn \"lật ngược thế cờ\" để lừa tiền",
+        "link": "https://dantri.com.vn/phap-luat/thuong-xuyen-dong-gia-thanh-tra-hua-hen-lat-nguoc-the-co-de-lua-tien-20260810191933158.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Pháp luật",
         "title": "Người đàn ông rút súng đe dọa nhóm truy đuổi ở Đồng Nai",
         "link": "https://dantri.com.vn/phap-luat/nguoi-dan-ong-rut-sung-de-doa-nhom-truy-duoi-o-dong-nai-20260810172643398.htm",
         "published": "Mới cập nhật",
@@ -3210,7 +3217,7 @@
         "title": "Triệt phá đường dây tổ chức đánh bạc, rửa tiền xuyên quốc gia",
         "link": "https://dantri.com.vn/phap-luat/triet-pha-duong-day-to-chuc-danh-bac-rua-tien-xuyen-quoc-gia-20260810160534651.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Công an tỉnh An Giang triệt phá đường dây tổ chức đánh bạc, đánh bạc và rửa tiền xuyên quốc gia quy mô hơn 340 tỷ đồng, tạm giữ nhiều đối tượng."
     },
     {
         "category": "Pháp luật",
@@ -3295,13 +3302,6 @@
         "link": "https://dantri.com.vn/phap-luat/khoi-to-2-doi-tuong-ban-gao-gia-seng-cu-muong-khuong-20260809191702673.htm",
         "published": "Mới cập nhật",
         "summary": "Hai cơ sở kinh doanh lương thực ở Lào Cai thu mua thóc bình thường, sau đó xay xát thành gạo, đóng gói vào bao bì ghi nhãn hiệu gạo có thương hiệu nổi tiếng “Gạo Séng Cù Mường Khương”."
-    },
-    {
-        "category": "Pháp luật",
-        "title": "Một xã ở Phú Thọ cảnh báo về xuất cảnh trái phép làm \"việc nhẹ lương cao\"",
-        "link": "https://dantri.com.vn/phap-luat/mot-xa-o-phu-tho-canh-bao-ve-xuat-canh-trai-phep-lam-viec-nhe-luong-cao-20260809183206840.htm",
-        "published": "Mới cập nhật",
-        "summary": "Từ đầu năm tới nay, xã Chí Đám (Phú Thọ) ghi nhận 2 trường hợp công dân xuất cảnh trái phép sang Campuchia lao động bất hợp pháp và bị trao trả. Một trường hợp đã bị Bộ Công an khởi tố."
     },
     {
         "category": "Pháp luật",
