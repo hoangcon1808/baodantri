@@ -1,13 +1,6 @@
 [
     {
         "category": "Trang chủ",
-        "title": "Khởi tố thêm 4 bị can vụ gian lận điểm thi tại trường Chuyên Tuyên Quang",
-        "link": "https://dantri.com.vn/phap-luat/khoi-to-them-4-bi-can-vu-gian-lan-diem-thi-tai-truong-chuyen-tuyen-quang-20260813203537386.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Diều gắn đèn khiến chuyến bay đến Tân Sơn Nhất phải hạ cánh ở Cam Ranh",
         "link": "https://dantri.com.vn/thoi-su/dieu-gan-den-khien-chuyen-bay-den-tan-son-nhat-phai-ha-canh-o-cam-ranh-20260813225603812.htm",
         "published": "Mới cập nhật",
@@ -15,8 +8,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Đường nghìn tỷ ở Hà Nội tối om, người dân thấp thỏm dùng đèn pin dò đường",
-        "link": "https://dantri.com.vn/thoi-su/duong-nghin-ty-o-ha-noi-toi-om-nguoi-dan-thap-thom-dung-den-pin-do-duong-20260813142148368.htm",
+        "title": "Miền Bắc chuyển mưa dông từ chiều mai",
+        "link": "https://dantri.com.vn/thoi-tiet/mien-bac-chuyen-mua-dong-tu-chieu-mai-20260813214210880.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Khởi tố thêm 4 bị can vụ gian lận điểm thi tại trường Chuyên Tuyên Quang",
+        "link": "https://dantri.com.vn/phap-luat/khoi-to-them-4-bi-can-vu-gian-lan-diem-thi-tai-truong-chuyen-tuyen-quang-20260813203537386.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -120,13 +120,6 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Miền Bắc chuyển mưa dông từ chiều mai",
-        "link": "https://dantri.com.vn/thoi-tiet/mien-bac-chuyen-mua-dong-tu-chieu-mai-20260813214210880.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Bộ Y tế đề xuất từ 18 tuổi được hiến tạng cho người thân",
         "link": "https://dantri.com.vn/suc-khoe/bo-y-te-de-xuat-tu-18-tuoi-duoc-hien-tang-cho-nguoi-than-20260813175442432.htm",
         "published": "Mới cập nhật",
@@ -176,8 +169,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Lý do 3 thí sinh ở Tuyên Quang chưa đến làm thủ tục thi lần 2",
-        "link": "https://dantri.com.vn/giao-duc/ly-do-3-thi-sinh-o-tuyen-quang-chua-den-lam-thu-tuc-thi-lan-2-20260804222533926.htm",
+        "title": "Hơn 200 học sinh một trường THPT trúng tuyển ngành Y khoa, Răng Hàm Mặt",
+        "link": "https://dantri.com.vn/giao-duc/hon-200-hoc-sinh-mot-truong-thpt-trung-tuyen-nganh-y-khoa-rang-ham-mat-20260813160855536.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -603,15 +596,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Ba thí sinh đạt 30/30 điểm, 5 nữ sinh được tuyển thẳng vào Học viện Quân y",
-        "link": "https://dantri.com.vn/giao-duc/ba-thi-sinh-dat-3030-diem-5-nu-sinh-duoc-tuyen-thang-vao-hoc-vien-quan-y-20260813154701966.htm",
+        "title": "Lý do 3 thí sinh ở Tuyên Quang chưa đến làm thủ tục thi lần 2",
+        "link": "https://dantri.com.vn/giao-duc/ly-do-3-thi-sinh-o-tuyen-quang-chua-den-lam-thu-tuc-thi-lan-2-20260804222533926.htm",
         "published": "Mới cập nhật",
-        "summary": "Theo công bố của Học viện Quân y, hệ dân sự năm nay tuyển thẳng 8 thí sinh đạt giải Quốc gia các môn toán, hoá, sinh."
+        "summary": "Các thí sinh tại điểm thi Trường THPT chuyên Tuyên Quang đã làm thủ tục để thi lại kỳ thi tốt nghiệp THPT năm 2026. Tuy nhiên, 3 thí sinh chưa đến làm thủ tục thi lần 2."
     },
     {
         "category": "Trang chủ",
-        "title": "Hơn 200 học sinh một trường THPT trúng tuyển ngành Y khoa, Răng Hàm Mặt",
-        "link": "https://dantri.com.vn/giao-duc/hon-200-hoc-sinh-mot-truong-thpt-trung-tuyen-nganh-y-khoa-rang-ham-mat-20260813160855536.htm",
+        "title": "Ba thí sinh đạt 30/30 điểm, 5 nữ sinh được tuyển thẳng vào Học viện Quân y",
+        "link": "https://dantri.com.vn/giao-duc/ba-thi-sinh-dat-3030-diem-5-nu-sinh-duoc-tuyen-thang-vao-hoc-vien-quan-y-20260813154701966.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -710,6 +703,13 @@
         "category": "Trang chủ",
         "title": "Trải nghiệm thực tế tính năng AI My Fancam trên Galaxy Z Fold8 Ultra",
         "link": "https://dantri.com.vn/cong-nghe/trai-nghiem-thuc-te-tinh-nang-ai-my-fancam-tren-galaxy-z-fold8-ultra-20260811222627387.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Đường nghìn tỷ ở Hà Nội tối om, người dân thấp thỏm dùng đèn pin dò đường",
+        "link": "https://dantri.com.vn/thoi-su/duong-nghin-ty-o-ha-noi-toi-om-nguoi-dan-thap-thom-dung-den-pin-do-duong-20260813142148368.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
