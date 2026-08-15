@@ -15,8 +15,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Cửa hàng xăng dầu tự ý ngừng, bán nhỏ giọt có thể bị phạt bao nhiêu?",
-        "link": "https://dantri.com.vn/kinh-doanh/cua-hang-xang-dau-tu-y-ngung-ban-nho-giot-co-the-bi-phat-bao-nhieu-20260815165643981.htm",
+        "title": "Malaysia có thể mất cầu thủ quan trọng ở trận bán kết với tuyển Việt Nam",
+        "link": "https://dantri.com.vn/the-thao/malaysia-co-the-mat-cau-thu-quan-trong-o-tran-ban-ket-voi-tuyen-viet-nam-20260815140525031.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -141,8 +141,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Thắng thuyết phục chủ nhà Singapore, Thái Lan đặt một chân vào chung kết",
-        "link": "https://dantri.com.vn/the-thao/thang-thuyet-phuc-chu-nha-singapore-thai-lan-dat-mot-chan-vao-chung-ket-20260815193625751.htm",
+        "title": "Man Utd thua ngược trước đội bóng của HLV Amorim",
+        "link": "https://dantri.com.vn/the-thao/man-utd-thua-nguoc-truoc-doi-bong-cua-hlv-amorim-20260816014804898.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -372,6 +372,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Thắng thuyết phục chủ nhà Singapore, Thái Lan đặt một chân vào chung kết",
+        "link": "https://dantri.com.vn/the-thao/thang-thuyet-phuc-chu-nha-singapore-thai-lan-dat-mot-chan-vao-chung-ket-20260815193625751.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Siêu máy tính dự đoán tỷ số trận đấu giữa tuyển Việt Nam và Malaysia",
         "link": "https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-ty-so-tran-dau-giua-tuyen-viet-nam-va-malaysia-20260815123203774.htm",
         "published": "Mới cập nhật",
@@ -386,22 +393,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Malaysia có thể mất cầu thủ quan trọng ở trận bán kết với tuyển Việt Nam",
-        "link": "https://dantri.com.vn/the-thao/malaysia-co-the-mat-cau-thu-quan-trong-o-tran-ban-ket-voi-tuyen-viet-nam-20260815140525031.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Sao nhập tịch Indonesia công kích đội tuyển Việt Nam bị sếp lớn chấn chỉnh",
         "link": "https://dantri.com.vn/the-thao/sao-nhap-tich-indonesia-cong-kich-doi-tuyen-viet-nam-bi-sep-lon-chan-chinh-20260815121131941.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Bán kết ASEAN Cup 2026: Lộ diện hai ứng cử viên vào chung kết",
-        "link": "https://dantri.com.vn/the-thao/ban-ket-asean-cup-2026-lo-dien-hai-ung-cu-vien-vao-chung-ket-20260815022601561.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1387,6 +1380,13 @@
     },
     {
         "category": "Kinh doanh",
+        "title": "Cửa hàng xăng dầu tự ý ngừng, bán nhỏ giọt có thể bị phạt bao nhiêu?",
+        "link": "https://dantri.com.vn/kinh-doanh/cua-hang-xang-dau-tu-y-ngung-ban-nho-giot-co-the-bi-phat-bao-nhieu-20260815165643981.htm",
+        "published": "Mới cập nhật",
+        "summary": "Bộ Công Thương đề xuất phạt 10-20 triệu đồng với cửa hàng xăng dầu tự ý giảm thời gian, ngừng bán hoặc giảm lượng xăng bán ra mà không có lý do chính đáng."
+    },
+    {
+        "category": "Kinh doanh",
         "title": "Tôm hùm Canada giá rẻ về nhiều, đủ hải sản ngoại đua nhau đổ bộ",
         "link": "https://dantri.com.vn/kinh-doanh/tom-hum-canada-gia-re-ve-nhieu-du-hai-san-ngoai-dua-nhau-do-bo-20260814181343272.htm",
         "published": "Mới cập nhật",
@@ -1835,10 +1835,17 @@
     },
     {
         "category": "Thể thao",
+        "title": "Bán kết ASEAN Cup 2026: Lộ diện hai ứng cử viên vào chung kết",
+        "link": "https://dantri.com.vn/the-thao/ban-ket-asean-cup-2026-lo-dien-hai-ung-cu-vien-vao-chung-ket-20260815022601561.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Thể thao",
         "title": "CĐV Đông Nam Á dự đoán kết quả trận tuyển Việt Nam gặp Malaysia",
         "link": "https://dantri.com.vn/the-thao/cdv-dong-nam-a-du-doan-ket-qua-tran-tuyen-viet-nam-gap-malaysia-20260815110803419.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Trên diễn đàn ASEAN Football, nhiều cổ động viên (CĐV) Đông Nam Á đã đưa ra dự đoán về kết quả trận bán kết lượt đi ASEAN Cup 2026 giữa đội tuyển Việt Nam và Malaysia trên sân Kuala Lumpur."
     },
     {
         "category": "Thể thao",
@@ -1926,13 +1933,6 @@
     },
     {
         "category": "Thể thao",
-        "title": "5 màn hình LED sắp hoàn thiện ở phố đi bộ Nguyễn Huệ trước trận bán kết",
-        "link": "https://dantri.com.vn/dt360/5-man-hinh-led-sap-hoan-thien-o-pho-di-bo-nguyen-hue-truoc-tran-ban-ket-20260814191038079.htm",
-        "published": "Mới cập nhật",
-        "summary": "5 màn hình LED tại phố đi bộ Nguyễn Huệ (TPHCM) đang được gấp rút hoàn thiện, sẵn sàng phục vụ người dân xem trận bán kết Việt Nam - Malaysia lúc 20h ngày 16/8."
-    },
-    {
-        "category": "Thể thao",
         "title": "Tuyển Việt Nam và Indonesia: Cùng nhập tịch, hai kết quả trái ngược",
         "link": "https://dantri.com.vn/the-thao/tuyen-viet-nam-va-indonesia-cung-nhap-tich-hai-ket-qua-trai-nguoc-20260812002527085.htm",
         "published": "Mới cập nhật",
@@ -1963,13 +1963,6 @@
         "category": "Thể thao",
         "title": "Truyền thông Thái Lan dự đoán tuyển Việt Nam thất bại trước Malaysia",
         "link": "https://dantri.com.vn/the-thao/truyen-thong-thai-lan-du-doan-tuyen-viet-nam-that-bai-truoc-malaysia-20260811222156735.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Thể thao",
-        "title": "12 đội bóng tranh tài ở giải bóng đá nữ các dân tộc thiểu số Việt Nam",
-        "link": "https://dantri.com.vn/the-thao/12-doi-bong-tranh-tai-o-giai-bong-da-nu-cac-dan-toc-thieu-so-viet-nam-20260815152929230.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
