@@ -120,8 +120,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Bệnh viện tuyến cuối ở TPHCM đưa bác sĩ về tận nơi khám sức khỏe",
-        "link": "https://dantri.com.vn/suc-khoe/benh-vien-tuyen-cuoi-o-tphcm-dua-bac-si-ve-tan-noi-kham-suc-khoe-20260818125243884.htm",
+        "title": "Nhà thuốc An Khang ở TPHCM bị xử phạt 68 triệu đồng",
+        "link": "https://dantri.com.vn/suc-khoe/nha-thuoc-an-khang-o-tphcm-bi-xu-phat-68-trieu-dong-20260817212243710.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -302,6 +302,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Bệnh viện tuyến cuối ở TPHCM đưa bác sĩ về tận nơi khám sức khỏe",
+        "link": "https://dantri.com.vn/suc-khoe/benh-vien-tuyen-cuoi-o-tphcm-dua-bac-si-ve-tan-noi-kham-suc-khoe-20260818125243884.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Nhiều người trẻ ở TPHCM đột ngột nhồi máu cơ tim cấp: Cảnh báo từ lối sống",
         "link": "https://dantri.com.vn/suc-khoe/nhieu-nguoi-tre-o-tphcm-dot-ngot-nhoi-mau-co-tim-cap-canh-bao-tu-loi-song-20260818120407396.htm",
         "published": "Mới cập nhật",
@@ -325,13 +332,6 @@
         "category": "Trang chủ",
         "title": "Cứu người bệnh có u màng não khổng lồ 8cm thoát khỏi nguy cơ mù",
         "link": "https://dantri.com.vn/suc-khoe/cuu-nguoi-benh-co-u-mang-nao-khong-lo-8cm-thoat-khoi-nguy-co-mu-20260818100335977.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Mở rộng danh mục thuốc BHYT: Bài toán không chỉ là thêm thuốc",
-        "link": "https://dantri.com.vn/suc-khoe/mo-rong-danh-muc-thuoc-bhyt-bai-toan-khong-chi-la-them-thuoc-20260817141138837.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -2108,10 +2108,17 @@
     },
     {
         "category": "Sức khỏe",
+        "title": "Mở rộng danh mục thuốc BHYT: Bài toán không chỉ là thêm thuốc",
+        "link": "https://dantri.com.vn/suc-khoe/mo-rong-danh-muc-thuoc-bhyt-bai-toan-khong-chi-la-them-thuoc-20260817141138837.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Sức khỏe",
         "title": "Phát hiện bất ngờ về lợi ích giảm cân khi uống 5 tách cà phê mỗi ngày",
         "link": "https://dantri.com.vn/suc-khoe/phat-hien-bat-ngo-ve-loi-ich-giam-can-khi-uong-5-tach-ca-phe-moi-ngay-20260816144256506.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Nghiên cứu cho thấy uống 5 tách cà phê trở lên mỗi ngày có thể giúp ngăn ngừa mỡ bụng nguy hiểm, giảm nguy cơ mắc bệnh tiểu đường, bệnh tim và thậm chí cả ung thư."
     },
     {
         "category": "Sức khỏe",
@@ -2189,13 +2196,6 @@
         "link": "https://dantri.com.vn/suc-khoe/be-trai-6-tuoi-o-ha-noi-bi-coc-hang-rao-dam-xuyen-bung-nguy-kich-20260817081939099.htm",
         "published": "Mới cập nhật",
         "summary": "Khi bị ngã từ độ cao 10m, bé trai rơi trúng cọc hàng rào, bị đâm xuyên vùng bụng, tầng sinh môn. Người nhà đã dùng máy cưa cắt hàng rào, giữ nguyên phần cọc sắt nằm trong cơ thể đưa đến viện."
-    },
-    {
-        "category": "Sức khỏe",
-        "title": "Bác sĩ tuyến tỉnh: Chọn ca bệnh khó không có nghĩa là mạo hiểm",
-        "link": "https://dantri.com.vn/suc-khoe/bac-si-tuyen-tinh-chon-ca-benh-kho-khong-co-nghia-la-mao-hiem-20260815230421532.htm",
-        "published": "Mới cập nhật",
-        "summary": "Có người hỏi tôi: \"Tại sao cứ làm những ca khó, nguy hiểm và nhiều rủi ro. Sao không chọn những ca nhẹ nhàng, an toàn hơn để đỡ áp lực, đỡ phải đau đầu theo dõi?\", bác sĩ Nguyễn Thiên Thượng tâm sự."
     },
     {
         "category": "Sức khỏe",
