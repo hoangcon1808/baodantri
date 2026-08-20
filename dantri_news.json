@@ -127,8 +127,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Du lịch y tế muốn hút 750.000 khách: Những sản phẩm nào là “mỏ vàng”?",
-        "link": "https://dantri.com.vn/suc-khoe/du-lich-y-te-muon-hut-750000-khach-nhung-san-pham-nao-la-mo-vang-20260819164616615.htm",
+        "title": "Cơ quan chức năng kiểm tra quán có phần cơm 35.000 đồng đang gây tranh cãi",
+        "link": "https://dantri.com.vn/suc-khoe/co-quan-chuc-nang-kiem-tra-quan-co-phan-com-35000-dong-dang-gay-tranh-cai-20260820113619816.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -302,6 +302,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Du lịch y tế muốn hút 750.000 khách: Những sản phẩm nào là “mỏ vàng”?",
+        "link": "https://dantri.com.vn/suc-khoe/du-lich-y-te-muon-hut-750000-khach-nhung-san-pham-nao-la-mo-vang-20260819164616615.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Bộ Y tế yêu cầu kiểm tra viên ngậm được quảng cáo \"giải rượu\"",
         "link": "https://dantri.com.vn/suc-khoe/bo-y-te-yeu-cau-kiem-tra-vien-ngam-duoc-quang-cao-giai-ruou-20260819214428791.htm",
         "published": "Mới cập nhật",
@@ -325,13 +332,6 @@
         "category": "Trang chủ",
         "title": "Giun rồng làm tổ trong tay người đàn ông 49 tuổi",
         "link": "https://dantri.com.vn/suc-khoe/giun-rong-lam-to-trong-tay-nguoi-dan-ong-49-tuoi-20260819173514412.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Căn bệnh khiến người phụ nữ hay \"bốc hỏa\", tâm trạng sáng nắng chiều mưa",
-        "link": "https://dantri.com.vn/suc-khoe/can-benh-khien-nguoi-phu-nu-hay-boc-hoa-tam-trang-sang-nang-chieu-mua-20260819060048960.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1758,13 +1758,6 @@
     },
     {
         "category": "Bất động sản",
-        "title": "HODECO và bước chuyển mình từ nền tảng hơn 35 năm",
-        "link": "https://dantri.com.vn/bat-dong-san/hodeco-va-buoc-chuyen-minh-tu-nen-tang-hon-35-nam-20260820103435340.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Bất động sản",
         "title": "Thị trường bất động sản Mỹ trầm lắng, chuyên gia cảnh báo dấu hiệu lo ngại",
         "link": "https://dantri.com.vn/bat-dong-san/thi-truong-bat-dong-san-my-tram-lang-chuyen-gia-canh-bao-dau-hieu-lo-ngai-20260813234217358.htm",
         "published": "Mới cập nhật",
@@ -1781,6 +1774,13 @@
         "category": "Bất động sản",
         "title": "Bồi thường đất Chợ Gà - Gạo ở TPHCM có thể hơn 600 triệu đồng/m2",
         "link": "https://dantri.com.vn/bat-dong-san/boi-thuong-dat-cho-ga-gao-o-tphcm-co-the-hon-600-trieu-dongm2-20260812213459955.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Bất động sản",
+        "title": "Đầu tư bất động sản ăn theo quy hoạch Thủ đô: Coi chừng chôn vốn dài hạn",
+        "link": "https://dantri.com.vn/bat-dong-san/dau-tu-bat-dong-san-an-theo-quy-hoach-thu-do-coi-chung-chon-von-dai-han-20260701084756337.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -2122,10 +2122,17 @@
     },
     {
         "category": "Sức khỏe",
+        "title": "Căn bệnh khiến người phụ nữ hay \"bốc hỏa\", tâm trạng sáng nắng chiều mưa",
+        "link": "https://dantri.com.vn/suc-khoe/can-benh-khien-nguoi-phu-nu-hay-boc-hoa-tam-trang-sang-nang-chieu-mua-20260819060048960.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Sức khỏe",
         "title": "Cậu bé tự kỷ “cảm hóa” cả gia đình bằng cách thể hiện tình cảm đặc biệt",
         "link": "https://dantri.com.vn/suc-khoe/cau-be-tu-ky-cam-hoa-ca-gia-dinh-bang-cach-the-hien-tinh-cam-dac-biet-20260819133228504.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Dù gặp nhiều khó khăn trong giao tiếp và biểu đạt cảm xúc nhưng Tít - một cậu bé tự kỷ vẫn có cách riêng để kết nối những người thân và từng bước vượt lên chính mình."
     },
     {
         "category": "Sức khỏe",
