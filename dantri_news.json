@@ -148,8 +148,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Bé gái từng nguy kịch vì u não đã xuất viện, chuẩn bị đi học",
-        "link": "https://dantri.com.vn/tam-long-nhan-ai/be-gai-tung-nguy-kich-vi-u-nao-da-xuat-vien-chuan-bi-di-hoc-20260820095241931.htm",
+        "title": "Người đàn ông góa vợ: “Tôi đã mất 2 con, xin giúp giữ lại cháu Khoa!”",
+        "link": "https://dantri.com.vn/tam-long-nhan-ai/nguoi-dan-ong-goa-vo-toi-da-mat-2-con-xin-giup-giu-lai-chau-khoa-20260805121320056.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Tổng thống Nga thăm hài cốt 600 năm của Đại vương công từng cai trị Moscow",
+        "link": "https://dantri.com.vn/the-gioi/tong-thong-nga-tham-hai-cot-600-nam-cua-dai-vuong-cong-tung-cai-tri-moscow-20260820213345765.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -407,8 +414,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Festival Thăng Long - Hà Nội diễn ra ở 5 địa điểm văn hóa của Thủ đô",
-        "link": "https://dantri.com.vn/giai-tri/festival-thang-long-ha-noi-dien-ra-o-5-dia-diem-van-hoa-cua-thu-do-20260820174015140.htm",
+        "title": "Nhan sắc cuốn hút của nữ diễn viên VTV thi Hoa hậu Việt Nam",
+        "link": "https://dantri.com.vn/giai-tri/nhan-sac-cuon-hut-cua-nu-dien-vien-vtv-thi-hoa-hau-viet-nam-20260820105221234.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -449,6 +456,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Bé gái từng nguy kịch vì u não đã xuất viện, chuẩn bị đi học",
+        "link": "https://dantri.com.vn/tam-long-nhan-ai/be-gai-tung-nguy-kich-vi-u-nao-da-xuat-vien-chuan-bi-di-hoc-20260820095241931.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Niềm vui ngày Trung Hiếu trở về sau gần 4 tháng điều trị tích cực",
         "link": "https://dantri.com.vn/tam-long-nhan-ai/niem-vui-ngay-trung-hieu-tro-ve-sau-gan-4-thang-dieu-tri-tich-cuc-20260820102738330.htm",
         "published": "Mới cập nhật",
@@ -472,20 +486,6 @@
         "category": "Trang chủ",
         "title": "Mẹ ung thư giai đoạn cuối đau đáu tương lai con trai mắc tự kỷ",
         "link": "https://dantri.com.vn/tam-long-nhan-ai/me-ung-thu-giai-doan-cuoi-dau-dau-tuong-lai-con-trai-mac-tu-ky-20260719194802878.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Đêm trước ngày nhận trâu, 15 hộ nghèo gần như thức trắng",
-        "link": "https://dantri.com.vn/tam-long-nhan-ai/dem-truoc-ngay-nhan-trau-15-ho-ngheo-gan-nhu-thuc-trang-20260819141001255.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Tổng thống Nga thăm hài cốt 600 năm của Đại vương công từng cai trị Moscow",
-        "link": "https://dantri.com.vn/the-gioi/tong-thong-nga-tham-hai-cot-600-nam-cua-dai-vuong-cong-tung-cai-tri-moscow-20260820213345765.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1142,10 +1142,17 @@
     },
     {
         "category": "Thế giới",
+        "title": "Chiến sự Ukraine 20/8: Nga bao vây nhóm đơn vị Ukraine ở đông bắc Kharkov",
+        "link": "https://dantri.com.vn/the-gioi/chien-su-ukraine-208-nga-bao-vay-nhom-don-vi-ukraine-o-dong-bac-kharkov-20260820113559762.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Thế giới",
         "title": "\"Chiến thần không chiến\" Su-35 Nga xuất kích khác thường vào Ukraine",
         "link": "https://dantri.com.vn/the-gioi/chien-than-khong-chien-su-35-nga-xuat-kich-khac-thuong-vao-ukraine-20260820160346537.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Tiêm kích Su-35S của Lực lượng Hàng không Vũ trụ Nga đã xâm nhập không phận do Ukraine kiểm soát trên khu vực Sumy, một động thái được xem là hiếm khi xảy ra."
     },
     {
         "category": "Thế giới",
@@ -1209,13 +1216,6 @@
         "link": "https://dantri.com.vn/the-gioi/tham-vong-cua-ukraine-100-uav-tien-tuyen-co-mat-than-ai-20260820114305475.htm",
         "published": "Mới cập nhật",
         "summary": "Trí tuệ nhân tạo (AI) và công nghệ thị giác máy tính đang ngày càng được sử dụng nhiều trong các hệ thống không người lái của Lực lượng Phòng vệ Ukraine."
-    },
-    {
-        "category": "Thế giới",
-        "title": "Chiến sự Ukraine 20/8: Nga bao vây nhóm đơn vị Ukraine ở đông bắc Kharkov",
-        "link": "https://dantri.com.vn/the-gioi/chien-su-ukraine-208-nga-bao-vay-nhom-don-vi-ukraine-o-dong-bac-kharkov-20260820113559762.htm",
-        "published": "Mới cập nhật",
-        "summary": "Quân đội Nga đã thu hẹp hành lang rút lui về phía nam của đối phương ở đông bắc Kharkov xuống còn 10km. Ít nhất 5 lữ đoàn Ukraine với hàng nghìn binh sĩ có thể rơi vào vòng vây."
     },
     {
         "category": "Thế giới",
@@ -2654,10 +2654,17 @@
     },
     {
         "category": "Giải trí",
+        "title": "Festival Thăng Long - Hà Nội diễn ra ở 5 địa điểm văn hóa của Thủ đô",
+        "link": "https://dantri.com.vn/giai-tri/festival-thang-long-ha-noi-dien-ra-o-5-dia-diem-van-hoa-cua-thu-do-20260820174015140.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Giải trí",
         "title": "Mỹ nhân Việt đọ dáng cùng hai Hoa hậu đẹp nhất thế giới",
         "link": "https://dantri.com.vn/giai-tri/my-nhan-viet-do-dang-cung-hai-hoa-hau-dep-nhat-the-gioi-20260820190756251.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Trong khuôn khổ cuộc thi Hoa hậu Thế giới 2026, Hoa hậu Tô Diệp Hà gây chú ý khi đọ dáng đương kim hoa hậu Opal Suchata Chuangsri và Hoa hậu Thế giới 2021 Karolina Bielawska."
     },
     {
         "category": "Giải trí",
@@ -2748,7 +2755,7 @@
         "title": "Bên trong nhà cổ 100 năm tuổi của NSND Lê Khanh giữa lòng Hà Nội",
         "link": "https://dantri.com.vn/giai-tri/ben-trong-nha-co-100-nam-tuoi-cua-nsnd-le-khanh-giua-long-ha-noi-20260808125046761.htm",
         "published": "Mới cập nhật",
-        "summary": "Ở tuổi 63, NSND Lê Khanh có cuộc sống bình yên, giản dị trong căn nhà cổ 100 năm tuổi giữa lòng Hà Nội."
+        "summary": ""
     },
     {
         "category": "Giải trí",
