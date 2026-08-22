@@ -1,6 +1,13 @@
 [
     {
         "category": "Trang chủ",
+        "title": "Biển người đổ ra đường ăn mừng chiến thắng của tuyển Việt Nam",
+        "link": "https://dantri.com.vn/the-thao/bien-nguoi-do-ra-duong-an-mung-chien-thang-cua-tuyen-viet-nam-20260822173236055.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "HLV Kim Sang Sik: \"Messi, Ronaldo cũng khó ghi bàn trước Lê Giang Patrik\"",
         "link": "https://dantri.com.vn/the-thao/hlv-kim-sang-sik-messi-ronaldo-cung-kho-ghi-ban-truoc-le-giang-patrik-20260822215818186.htm",
         "published": "Mới cập nhật",
@@ -8,15 +15,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "HLV Thái Lan: \"Chúng tôi tạo ra nhiều cơ hội, không đáng nhận thất bại\"",
-        "link": "https://dantri.com.vn/the-thao/hlv-thai-lan-chung-toi-tao-ra-nhieu-co-hoi-khong-dang-nhan-that-bai-20260822221251768.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Biển người đổ ra đường ăn mừng chiến thắng của tuyển Việt Nam",
-        "link": "https://dantri.com.vn/the-thao/bien-nguoi-do-ra-duong-an-mung-chien-thang-cua-tuyen-viet-nam-20260822173236055.htm",
+        "title": "Kịch bản giúp đội tuyển Việt Nam vô địch ASEAN Cup khi thắng Thái Lan",
+        "link": "https://dantri.com.vn/the-thao/kich-ban-giup-doi-tuyen-viet-nam-vo-dich-asean-cup-khi-thang-thai-lan-20260822230014714.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -136,13 +136,6 @@
         "category": "Trang chủ",
         "title": "Vốn ngoại trở lại, bất động sản Trung Quốc bắt đầu chu kỳ phục hồi?",
         "link": "https://dantri.com.vn/bat-dong-san/von-ngoai-tro-lai-bat-dong-san-trung-quoc-bat-dau-chu-ky-phuc-hoi-20260822160853429.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Những pha cứu thua xuất sắc của Lê Giang Patrik ở trận thắng Thái Lan",
-        "link": "https://dantri.com.vn/the-thao/nhung-pha-cuu-thua-xuat-sac-cua-le-giang-patrik-o-tran-thang-thai-lan-20260822234344839.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -400,15 +393,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Quang Hải ghi siêu phẩm vào lưới Thái Lan, đào sâu kỷ lục lịch sử",
-        "link": "https://dantri.com.vn/the-thao/quang-hai-ghi-sieu-pham-vao-luoi-thai-lan-dao-sau-ky-luc-lich-su-20260822223153505.htm",
+        "title": "Những pha cứu thua xuất sắc của Lê Giang Patrik ở trận thắng Thái Lan",
+        "link": "https://dantri.com.vn/the-thao/nhung-pha-cuu-thua-xuat-sac-cua-le-giang-patrik-o-tran-thang-thai-lan-20260822234344839.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Quang Hải lập công, Chu Thanh Huyền vỡ òa cảm xúc trên khán đài đất Thái",
-        "link": "https://dantri.com.vn/dt360/quang-hai-lap-cong-chu-thanh-huyen-vo-oa-cam-xuc-tren-khan-dai-dat-thai-20260822230912520.htm",
+        "title": "Quang Hải ghi siêu phẩm vào lưới Thái Lan, đào sâu kỷ lục lịch sử",
+        "link": "https://dantri.com.vn/the-thao/quang-hai-ghi-sieu-pham-vao-luoi-thai-lan-dao-sau-ky-luc-lich-su-20260822223153505.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -946,6 +939,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Quang Hải lập công, Chu Thanh Huyền vỡ òa cảm xúc trên khán đài đất Thái",
+        "link": "https://dantri.com.vn/dt360/quang-hai-lap-cong-chu-thanh-huyen-vo-oa-cam-xuc-tren-khan-dai-dat-thai-20260822230912520.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "HLV Kim Sang Sik lập kỷ lục 3 lần hạ Thái Lan tại sân Rajamangala",
         "link": "https://dantri.com.vn/dt360/hlv-kim-sang-sik-lap-ky-luc-3-lan-ha-thai-lan-tai-san-rajamangala-20260822221920582.htm",
         "published": "Mới cập nhật",
@@ -1345,17 +1345,10 @@
     },
     {
         "category": "Kinh doanh",
-        "title": "Hành trình 50 năm của Vinamilk: Nửa thế kỷ tạo giá trị, nuôi dưỡng nhân tài",
-        "link": "https://dantri.com.vn/kinh-doanh/hanh-trinh-50-nam-cua-vinamilk-nua-the-ky-tao-gia-tri-nuoi-duong-nhan-tai-20260822201940464.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Kinh doanh",
         "title": "Các phường ở Đà Lạt “bắt tay” kêu gọi nhà đầu tư",
         "link": "https://dantri.com.vn/kinh-doanh/cac-phuong-o-da-lat-bat-tay-keu-goi-nha-dau-tu-20260822121137657.htm",
         "published": "Mới cập nhật",
-        "summary": "Các phường trung tâm Đà Lạt kết hợp với xã Lạc Dương kêu gọi các doanh nghiệp đầu tư nhiều dự án tiềm năng tại địa phương."
+        "summary": ""
     },
     {
         "category": "Kinh doanh",
@@ -1405,6 +1398,13 @@
         "link": "https://dantri.com.vn/kinh-doanh/hang-vat-lieu-chip-so-3-the-gioi-van-hanh-nha-may-tai-viet-nam-20260822091123355.htm",
         "published": "Mới cập nhật",
         "summary": "Nhằm đa dạng hóa chuỗi cung ứng toàn cầu, hãng sản xuất vật liệu bán dẫn Tokuyama vừa đưa vào vận hành nhà máy xử lý polysilicon quy mô 60 triệu USD tại TPHCM."
+    },
+    {
+        "category": "Kinh doanh",
+        "title": "Hành trình 50 năm của Vinamilk: Nửa thế kỷ tạo giá trị, nuôi dưỡng nhân tài",
+        "link": "https://dantri.com.vn/kinh-doanh/hanh-trinh-50-nam-cua-vinamilk-nua-the-ky-tao-gia-tri-nuoi-duong-nhan-tai-20260822201940464.htm",
+        "published": "Mới cập nhật",
+        "summary": "Những giá trị hữu hình cho xã hội hay những cột mốc thăng tiến rõ ràng cho nhân sự là cam kết mà Vinamilk đã xây dựng trong suốt nửa thế kỷ vừa qua."
     },
     {
         "category": "Kinh doanh",
@@ -1828,10 +1828,10 @@
     },
     {
         "category": "Thể thao",
-        "title": "Kịch bản giúp đội tuyển Việt Nam vô địch ASEAN Cup khi thắng Thái Lan",
-        "link": "https://dantri.com.vn/the-thao/kich-ban-giup-doi-tuyen-viet-nam-vo-dich-asean-cup-khi-thang-thai-lan-20260822230014714.htm",
+        "title": "HLV Thái Lan: \"Chúng tôi tạo ra nhiều cơ hội, không đáng nhận thất bại\"",
+        "link": "https://dantri.com.vn/the-thao/hlv-thai-lan-chung-toi-tao-ra-nhieu-co-hoi-khong-dang-nhan-that-bai-20260822221251768.htm",
         "published": "Mới cập nhật",
-        "summary": "Sau chiến thắng 2-0 trên đất Thái Lan ở trận chung kết lượt đi ASEAN Cup 2026, đội tuyển Việt Nam đang tiến gần tới chức vô địch giải đấu."
+        "summary": "Chủ nhà Thái Lan nhận thất bại 0-2 trước đội tuyển Việt Nam trên sân Rajamangala ở chung kết lượt đi ASEAN Cup 2026 tối 22/8. Sau trận đấu, HLV Anthony Hudson tiếc nuối vì những cơ hội bị bỏ lỡ."
     },
     {
         "category": "Thể thao",
