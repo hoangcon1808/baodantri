@@ -1,20 +1,6 @@
 [
     {
         "category": "Trang chủ",
-        "title": "Trực tiếp Thái Lan - Việt Nam (20h hôm nay): Quyết đấu vì cúp bạc",
-        "link": "https://dantri.com.vn/the-thao/thai-lan-viet-nam-20h-hom-nay-quyet-dau-vi-cup-bac-20260822083127954.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Người phụ nữ nhận ra mình trong bức ảnh được tìm thấy dưới mộ liệt sĩ",
-        "link": "https://dantri.com.vn/noi-vu/nguoi-phu-nu-nhan-ra-minh-trong-buc-anh-duoc-tim-thay-duoi-mo-liet-si-20260822142035042.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Bão số 4 gần như đứng im, Quảng Ninh - Hải Phòng có thể hứng mưa cực lớn",
         "link": "https://dantri.com.vn/thoi-tiet/bao-so-4-gan-nhu-dung-im-quang-ninh-hai-phong-co-the-hung-mua-cuc-lon-20260822182039337.htm",
         "published": "Mới cập nhật",
@@ -22,8 +8,22 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Trực tiếp Hull City 1-0 Man Utd (hiệp 1): Bất ngờ lớn nổ ra",
-        "link": "https://dantri.com.vn/the-thao/hull-city-1-0-man-utd-hiep-1-bat-ngo-lon-no-ra-20260822182122913.htm",
+        "title": "Trực tiếp Thái Lan - Việt Nam (20h hôm nay): Người hâm mộ đội mưa tới sân Rajamangala",
+        "link": "https://dantri.com.vn/the-thao/thai-lan-viet-nam-20h-hom-nay-nguoi-ham-mo-doi-mua-toi-san-rajamangala-20260822083127954.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Nhiều phường, xã ở TPHCM đề xuất giữ hiện trạng, chưa sáp nhập",
+        "link": "https://dantri.com.vn/thoi-su/nhieu-phuong-xa-o-tphcm-de-xuat-giu-hien-trang-chua-sap-nhap-20260822114701261.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Trực tiếp Hull City 2-0 Man Utd (hiệp 1): Không thể tin nổi",
+        "link": "https://dantri.com.vn/the-thao/hull-city-2-0-man-utd-hiep-1-khong-the-tin-noi-20260822182122913.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -78,15 +78,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Nam thanh niên ở Đồng Nai bị chĩa súng vào đầu, may mắn súng không nổ",
-        "link": "https://dantri.com.vn/phap-luat/nam-thanh-nien-o-dong-nai-bi-chia-sung-vao-dau-may-man-sung-khong-no-20260822093323471.htm",
+        "title": "Tạm giữ hình sự người đàn ông xăm trổ đánh người trên phố Hà Nội",
+        "link": "https://dantri.com.vn/phap-luat/tam-giu-hinh-su-nguoi-dan-ong-xam-tro-danh-nguoi-tren-pho-ha-noi-20260822183317631.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Vốn ngoại trở lại, bất động sản Trung Quốc bắt đầu chu kỳ phục hồi?",
-        "link": "https://dantri.com.vn/bat-dong-san/von-ngoai-tro-lai-bat-dong-san-trung-quoc-bat-dau-chu-ky-phuc-hoi-20260822160853429.htm",
+        "title": "Chuyên gia lý giải sự bất thường của bão số 4",
+        "link": "https://dantri.com.vn/thoi-tiet/chuyen-gia-ly-giai-su-bat-thuong-cua-bao-so-4-20260822144237930.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -99,8 +99,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Người phụ nữ miền Tây giúp tìm hơn 44 hài cốt liệt sĩ trong vườn dừa",
-        "link": "https://dantri.com.vn/noi-vu/nguoi-phu-nu-mien-tay-giup-tim-hon-44-hai-cot-liet-si-trong-vuon-dua-20260822095249186.htm",
+        "title": "Vốn ngoại trở lại, bất động sản Trung Quốc bắt đầu chu kỳ phục hồi?",
+        "link": "https://dantri.com.vn/bat-dong-san/von-ngoai-tro-lai-bat-dong-san-trung-quoc-bat-dau-chu-ky-phuc-hoi-20260822160853429.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -225,8 +225,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Ế vé trầm trọng, Thái Lan kêu gọi CĐV đến sân",
-        "link": "https://dantri.com.vn/dt360/e-ve-tram-trong-thai-lan-keu-goi-cdv-den-san-20260822150954387.htm",
+        "title": "Phạm Tuấn khai gì khi làm video bạo lực, thu lợi hàng trăm triệu đồng?",
+        "link": "https://dantri.com.vn/dt360/pham-tuan-khai-gi-khi-lam-video-bao-luc-thu-loi-hang-tram-trieu-dong-20260822175004611.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -267,8 +267,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Du khách vào đất liền, tàu du lịch vịnh Hạ Long khẩn trương chống bão",
-        "link": "https://dantri.com.vn/thoi-su/du-khach-vao-dat-lien-tau-du-lich-vinh-ha-long-khan-truong-chong-bao-20260822171627452.htm",
+        "title": "Hiện trạng nhà hàng của Hải Sapa TV tại Lào Cai",
+        "link": "https://dantri.com.vn/thoi-su/hien-trang-nha-hang-cua-hai-sapa-tv-tai-lao-cai-20260822103909351.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -281,8 +281,22 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Nam thanh niên bắt bồ câu giữa trung tâm TPHCM gây bức xúc",
-        "link": "https://dantri.com.vn/thoi-su/nam-thanh-nien-bat-bo-cau-giua-trung-tam-tphcm-gay-buc-xuc-20260822175404548.htm",
+        "title": "Bộ trưởng Văn hóa trình bày dự thảo nghị quyết di dời 3 di tích ở Bắc Ninh",
+        "link": "https://dantri.com.vn/thoi-su/bo-truong-van-hoa-trinh-bay-du-thao-nghi-quyet-di-doi-3-di-tich-o-bac-ninh-20260822185036827.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Mở rộng quốc lộ 13 qua TPHCM lên 10-14 làn xe, có hầm chui, đường trên cao",
+        "link": "https://dantri.com.vn/thoi-su/mo-rong-quoc-lo-13-qua-tphcm-len-10-14-lan-xe-co-ham-chui-duong-tren-cao-20260822183827615.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Hà Nội miễn phí xe buýt, metro trong 5 ngày nghỉ Quốc khánh 2/9",
+        "link": "https://dantri.com.vn/thoi-su/ha-noi-mien-phi-xe-buyt-metro-trong-5-ngay-nghi-quoc-khanh-29-20260822183305853.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -456,8 +470,22 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Người phụ nữ nhận ra mình trong bức ảnh được tìm thấy dưới mộ liệt sĩ",
+        "link": "https://dantri.com.vn/noi-vu/nguoi-phu-nu-nhan-ra-minh-trong-buc-anh-duoc-tim-thay-duoi-mo-liet-si-20260822142035042.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Bổ sung tiêu chuẩn, điều kiện bổ nhiệm công chức lãnh đạo, quản lý",
         "link": "https://dantri.com.vn/noi-vu/bo-sung-tieu-chuan-dieu-kien-bo-nhiem-cong-chuc-lanh-dao-quan-ly-20260821132559349.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Người phụ nữ miền Tây giúp tìm hơn 44 hài cốt liệt sĩ trong vườn dừa",
+        "link": "https://dantri.com.vn/noi-vu/nguoi-phu-nu-mien-tay-giup-tim-hon-44-hai-cot-liet-si-trong-vuon-dua-20260822095249186.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -771,8 +799,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Tạm giữ hình sự người đàn ông xăm trổ đánh người trên phố Hà Nội",
-        "link": "https://dantri.com.vn/phap-luat/tam-giu-hinh-su-nguoi-dan-ong-xam-tro-danh-nguoi-tren-pho-ha-noi-20260822183317631.htm",
+        "title": "Nhiều người bị bắt vì mua bán rắn hổ chúa, khỉ vàng, hoẵng",
+        "link": "https://dantri.com.vn/phap-luat/nhieu-nguoi-bi-bat-vi-mua-ban-ran-ho-chua-khi-vang-hoang-20260822170859527.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -780,20 +808,6 @@
         "category": "Trang chủ",
         "title": "Bắt khẩn cấp TikToker đăng clip xúc phạm lãnh đạo TPHCM",
         "link": "https://dantri.com.vn/phap-luat/bat-khan-cap-tiktoker-dang-clip-xuc-pham-lanh-dao-tphcm-20260822151845600.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Thanh niên trộm 24 bình ắc quy của trạm thu phát sóng ở TPHCM",
-        "link": "https://dantri.com.vn/phap-luat/thanh-nien-trom-24-binh-ac-quy-cua-tram-thu-phat-song-o-tphcm-20260822171100015.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Công an làm việc với người đăng video \"bó bột một tay thi sát hạch lái xe\"",
-        "link": "https://dantri.com.vn/phap-luat/cong-an-lam-viec-voi-nguoi-dang-video-bo-bot-mot-tay-thi-sat-hach-lai-xe-20260822164209011.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -897,13 +911,6 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Chuyên gia lý giải sự bất thường của bão số 4",
-        "link": "https://dantri.com.vn/thoi-tiet/chuyen-gia-ly-giai-su-bat-thuong-cua-bao-so-4-20260822144237930.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
         "title": "Bão số 4 \"ở lì\" trên Vịnh Bắc Bộ gây mưa lớn cho miền Bắc",
         "link": "https://dantri.com.vn/thoi-tiet/bao-so-4-o-li-tren-vinh-bac-bo-gay-mua-lon-cho-mien-bac-20260822114155790.htm",
         "published": "Mới cập nhật",
@@ -920,6 +927,13 @@
         "category": "Trang chủ",
         "title": "TPHCM và Nam Bộ có mưa dông rải rác, biển động",
         "link": "https://dantri.com.vn/thoi-tiet/tphcm-va-nam-bo-co-mua-dong-rai-rac-bien-dong-20260821211131960.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Ế vé trầm trọng, Thái Lan kêu gọi CĐV đến sân",
+        "link": "https://dantri.com.vn/dt360/e-ve-tram-trong-thai-lan-keu-goi-cdv-den-san-20260822150954387.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -945,11 +959,18 @@
         "summary": ""
     },
     {
-        "category": "Trang chủ",
-        "title": "Thời tiết 22/8: Bão số 4 quỹ đạo hiếm thấy, “xoay vòng” trên Vịnh Bắc Bộ",
-        "link": "https://dantri.com.vn/dt360/thoi-tiet-228-bao-so-4-quy-dao-hiem-thay-xoay-vong-tren-vinh-bac-bo-20260822082733080.htm",
+        "category": "Xã hội",
+        "title": "Buông 2 tay bấm điện thoại khi lái xe, thanh niên ở TPHCM bị tịch thu phương tiện",
+        "link": "https://dantri.com.vn/thoi-su/buong-2-tay-bam-dien-thoai-khi-lai-xe-thanh-nien-o-tphcm-bi-tich-thu-phuong-tien-20260822180515566.htm",
         "published": "Mới cập nhật",
         "summary": ""
+    },
+    {
+        "category": "Xã hội",
+        "title": "Nam thanh niên bắt bồ câu giữa trung tâm TPHCM gây bức xúc",
+        "link": "https://dantri.com.vn/thoi-su/nam-thanh-nien-bat-bo-cau-giua-trung-tam-tphcm-gay-buc-xuc-20260822175404548.htm",
+        "published": "Mới cập nhật",
+        "summary": "Một nam thanh niên bắt bồ câu giữa công viên tại Công trường Lam Sơn (phường Sài Gòn, TPHCM) rồi mang đi, hành động này khiến nhiều người bức xúc."
     },
     {
         "category": "Xã hội",
@@ -957,6 +978,13 @@
         "link": "https://dantri.com.vn/thoi-su/bo-truong-tai-chinh-noi-ro-ve-doanh-thu-10-ty-dong-va-muc-giam-thue-30-20260822175447824.htm",
         "published": "Mới cập nhật",
         "summary": "Với doanh thu 10 tỷ đồng thì mỗi tháng doanh thu khoảng 833 triệu đồng, số thuế mỗi tháng doanh nghiệp phải nộp 15-17 triệu đồng, mức giảm 30% tương đương 4-5 triệu đồng, theo Bộ trưởng Ngô Văn Tuấn."
+    },
+    {
+        "category": "Xã hội",
+        "title": "Du khách vào đất liền, tàu du lịch vịnh Hạ Long khẩn trương chống bão",
+        "link": "https://dantri.com.vn/thoi-su/du-khach-vao-dat-lien-tau-du-lich-vinh-ha-long-khan-truong-chong-bao-20260822171627452.htm",
+        "published": "Mới cập nhật",
+        "summary": "Hàng loạt tàu du lịch Quảng Ninh đã vào khu neo đậu, chằng buộc kỹ càng và bố trí người trực để ứng phó bão số 4."
     },
     {
         "category": "Xã hội",
@@ -999,27 +1027,6 @@
         "link": "https://dantri.com.vn/thoi-su/hai-phong-quang-ninh-dung-tau-pha-cam-nguoi-dan-tam-bien-20260822140339598.htm",
         "published": "Mới cập nhật",
         "summary": "Hải Phòng cấm tàu du lịch, tàu cá ra khơi, dừng phà Đồng Bài - Cái Viềng và các hoạt động biển từ 7h ngày 22/8 để ứng phó bão số 4."
-    },
-    {
-        "category": "Xã hội",
-        "title": "\"Xây khu đô thị lấn biển đảm bảo không hình thành đơn vị hành chính mới\"",
-        "link": "https://dantri.com.vn/thoi-su/xay-khu-do-thi-lan-bien-dam-bao-khong-hinh-thanh-don-vi-hanh-chinh-moi-20260822131745280.htm",
-        "published": "Mới cập nhật",
-        "summary": "Nhấn mạnh cần có cơ chế cho hoạt động lấn biển nhằm tạo ra cực tăng trưởng mới, Bộ trưởng Tài chính khẳng định nguyên tắc xây khu đô thị lấn biển \"đảm bảo không hình thành một đơn vị hành chính mới\"."
-    },
-    {
-        "category": "Xã hội",
-        "title": "Tìm thấy 2 bé gái ở Lâm Đồng đi lạc nhiều ngày",
-        "link": "https://dantri.com.vn/thoi-su/tim-thay-2-be-gai-o-lam-dong-di-lac-nhieu-ngay-20260822123010885.htm",
-        "published": "Mới cập nhật",
-        "summary": "Phát hiện 2 bé gái rời khỏi nhà, mất liên lạc, người thân trình báo vụ việc đến cơ quan chức năng. Sau nhiều ngày, công an tìm thấy 2 trẻ đi lạc, bàn giao cho gia đình."
-    },
-    {
-        "category": "Xã hội",
-        "title": "Hà Nội bắn pháo hoa tại 5 điểm dịp Quốc khánh 2/9",
-        "link": "https://dantri.com.vn/thoi-su/ha-noi-ban-phao-hoa-tai-5-diem-dip-quoc-khanh-29-20260822125146162.htm",
-        "published": "Mới cập nhật",
-        "summary": "Dịp kỷ niệm 81 năm Quốc khánh 2/9, Hà Nội tổ chức hàng loạt hoạt động văn hóa, nghệ thuật, triển lãm, chiếu phim và trải nghiệm di sản. Điểm nhấn là màn bắn pháo hoa tại 5 địa điểm tối 2/9."
     },
     {
         "category": "Xã hội",
@@ -1102,6 +1109,13 @@
         "category": "Xã hội",
         "title": "Kiến nghị kiểm điểm vụ hàng trăm ha đất rừng ở Phú Quốc bị lấn chiếm",
         "link": "https://dantri.com.vn/thoi-su/kien-nghi-kiem-diem-vu-hang-tram-ha-dat-rung-o-phu-quoc-bi-lan-chiem-20260821120451275.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Xã hội",
+        "title": "Công an làm việc với người đăng video \"bó bột một tay thi sát hạch lái xe\"",
+        "link": "https://dantri.com.vn/phap-luat/cong-an-lam-viec-voi-nguoi-dang-video-bo-bot-mot-tay-thi-sat-hach-lai-xe-20260822164209011.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -1433,13 +1447,6 @@
         "link": "https://dantri.com.vn/kinh-doanh/gia-nong-san-ngay-228-ca-phe-the-gioi-giam-gao-viet-them-thi-truong-moi-20260822073838343.htm",
         "published": "Mới cập nhật",
         "summary": "Giá cà phê hôm nay trên thế giới giảm mạnh, trong khi giá nội địa tiếp tục nhích lên. Gạo ST25 có thêm cơ hội mở rộng thị trường khi chính thức vào hệ thống Selgros tại Đức."
-    },
-    {
-        "category": "Kinh doanh",
-        "title": "Vietcombank Haha Collection ra mắt, mở khóa cơ hội trải nghiệm Quán nhà Haha",
-        "link": "https://dantri.com.vn/kinh-doanh/vietcombank-haha-collection-ra-mat-mo-khoa-co-hoi-trai-nghiem-quan-nha-haha-20260822143757358.htm",
-        "published": "Mới cập nhật",
-        "summary": "Từ chiếc thẻ mang đậm dấu ấn Quán nhà Haha đến cơ hội bước chân vào không gian của chương trình, Vietcombank tiếp tục mở rộng hành trình trải nghiệm dành cho khách hàng, nơi mỗi giao dịch trở thành cầu nối đến gần hơn với văn hóa dân tộc Việt Nam."
     },
     {
         "category": "Kinh doanh",
@@ -3347,17 +3354,24 @@
     },
     {
         "category": "Pháp luật",
+        "title": "Thanh niên trộm 24 bình ắc quy của trạm thu phát sóng ở TPHCM",
+        "link": "https://dantri.com.vn/phap-luat/thanh-nien-trom-24-binh-ac-quy-cua-tram-thu-phat-song-o-tphcm-20260822171100015.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Pháp luật",
         "title": "Công an Quảng Ninh xử phạt nam thanh niên đi xe máy bằng một bánh",
         "link": "https://dantri.com.vn/phap-luat/cong-an-quang-ninh-xu-phat-nam-thanh-nien-di-xe-may-bang-mot-banh-20260822155104041.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "CSGT Quảng Ninh xác minh, xử lý V.V.H.H. (19 tuổi) điều khiển xe máy bằng một bánh trên đường Trần Phú, phường Cẩm Phả, tỉnh Quảng Ninh."
     },
     {
         "category": "Pháp luật",
         "title": "Trục xuất một người nước ngoài khai thác băng thông các nhà mạng Việt Nam",
         "link": "https://dantri.com.vn/phap-luat/truc-xuat-mot-nguoi-nuoc-ngoai-khai-thac-bang-thong-cac-nha-mang-viet-nam-20260822153835428.htm",
         "published": "Mới cập nhật",
-        "summary": ""
+        "summary": "Công an Quảng Ninh phát hiện 17 máy tính, một máy chủ tại cơ sở lưu trú ở Móng Cái, nơi một người Trung Quốc vận hành cụm mạng PCDN khai thác băng thông, IP tại Việt Nam."
     },
     {
         "category": "Pháp luật",
@@ -3379,6 +3393,13 @@
         "link": "https://dantri.com.vn/phap-luat/bat-thanh-nien-bi-truy-na-vi-giao-cau-voi-be-gai-14-tuoi-o-tay-ninh-20260822100321715.htm",
         "published": "Mới cập nhật",
         "summary": "Lê Minh Quy dụ dỗ bé gái 14 tuổi ở xã Mỹ Lộc (Tây Ninh) rồi đưa về phòng trọ giao cấu nhiều lần. Bị gia đình nạn nhân phát hiện và báo công an, Quy bỏ trốn."
+    },
+    {
+        "category": "Pháp luật",
+        "title": "Nam thanh niên ở Đồng Nai bị chĩa súng vào đầu, may mắn súng không nổ",
+        "link": "https://dantri.com.vn/phap-luat/nam-thanh-nien-o-dong-nai-bi-chia-sung-vao-dau-may-man-sung-khong-no-20260822093323471.htm",
+        "published": "Mới cập nhật",
+        "summary": "Nhóm đối tượng hướng súng vào đầu anh Nguyễn Hoàng Hải ở phường Xuân Lộc (TP Đồng Nai) và bắn, nhưng súng không nổ."
     },
     {
         "category": "Pháp luật",
@@ -3407,20 +3428,6 @@
         "link": "https://dantri.com.vn/phap-luat/cong-an-xuat-hien-truoc-nha-hai-sapa-tv-o-lao-cai-20260821231746403.htm",
         "published": "Mới cập nhật",
         "summary": "Đêm 21/8, lực lượng công an cùng kiểm sát viên xuất hiện trước khu vực nhà riêng của Hải Sapa TV ở phường Lào Cai, tỉnh Lào Cai."
-    },
-    {
-        "category": "Pháp luật",
-        "title": "Công an Hà Nội bóc gỡ đường dây rửa tiền xuyên quốc gia hơn 51 triệu USD",
-        "link": "https://dantri.com.vn/phap-luat/cong-an-ha-noi-boc-go-duong-day-rua-tien-xuyen-quoc-gia-hon-51-trieu-usd-20260821223519267.htm",
-        "published": "Mới cập nhật",
-        "summary": "Đường dây xuyên quốc gia lợi dụng hoạt động tạm nhập, tái xuất chip điện tử để hợp thức hóa hơn 51 triệu USD, tương đương hơn 1.200 tỷ đồng."
-    },
-    {
-        "category": "Pháp luật",
-        "title": "Xử phạt người đàn ông đăng tin \"mưa lũ gây sạt lở hết đường\"",
-        "link": "https://dantri.com.vn/phap-luat/xu-phat-nguoi-dan-ong-dang-tin-mua-lu-gay-sat-lo-het-duong-20260821202748543.htm",
-        "published": "Mới cập nhật",
-        "summary": "Tại cơ quan công an, anh Đ. đã thừa nhận nội dung đăng tải là sai sự thật và cho biết việc đăng tải thông tin trên nhằm tăng tương tác, thu hút lượt xem cho trang Facebook cá nhân."
     },
     {
         "category": "Pháp luật",
@@ -3489,13 +3496,6 @@
         "category": "Pháp luật",
         "title": "Triệt phá đường dây tội phạm xuyên quốc gia, thu giữ gần 9.300 kíp nổ điện",
         "link": "https://dantri.com.vn/phap-luat/triet-pha-duong-day-toi-pham-xuyen-quoc-gia-thu-giu-gan-9300-kip-no-dien-20260819194957220.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Pháp luật",
-        "title": "\"Tế Điên Nam Định\" - 20 năm sau song sắt và cuộc hoàn lương không trọn vẹn",
-        "link": "https://dantri.com.vn/phap-luat/te-dien-nam-dinh-20-nam-sau-song-sat-va-cuoc-hoan-luong-khong-tron-ven-20260819093841581.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
