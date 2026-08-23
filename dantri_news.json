@@ -1,15 +1,8 @@
 [
     {
         "category": "Trang chủ",
-        "title": "Bão số 4 di chuyển rất chậm trên Vịnh Bắc Bộ, miền Bắc mưa trắng trời",
-        "link": "https://dantri.com.vn/thoi-tiet/bao-so-4-di-chuyen-rat-cham-tren-vinh-bac-bo-mien-bac-mua-trang-troi-20260823175034962.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Lạng Sơn ngập sâu sau mưa lớn, có nơi nước dâng sát mái nhà",
-        "link": "https://dantri.com.vn/thoi-su/lang-son-ngap-sau-sau-mua-lon-co-noi-nuoc-dang-sat-mai-nha-20260823145503233.htm",
+        "title": "Dỡ mái ngói, ứng cứu người dân vùng ngập sâu ở Lạng Sơn",
+        "link": "https://dantri.com.vn/thoi-su/do-mai-ngoi-ung-cuu-nguoi-dan-vung-ngap-sau-o-lang-son-20260823205003965.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -17,6 +10,13 @@
         "category": "Trang chủ",
         "title": "HLV Kim Sang Sik đã xoay chuyển thế cờ, khiến Thái Lan thất bại thế nào?",
         "link": "https://dantri.com.vn/the-thao/hlv-kim-sang-sik-da-xoay-chuyen-the-co-khien-thai-lan-that-bai-the-nao-20260823133015464.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Bão số 4 di chuyển rất chậm trên Vịnh Bắc Bộ, miền Bắc mưa trắng trời",
+        "link": "https://dantri.com.vn/thoi-tiet/bao-so-4-di-chuyen-rat-cham-tren-vinh-bac-bo-mien-bac-mua-trang-troi-20260823175034962.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -50,15 +50,15 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Lãi suất giảm, giá chung cư hạ nhiệt: Xuống tiền lúc này cần lưu ý gì?",
-        "link": "https://dantri.com.vn/bat-dong-san/lai-suat-giam-gia-chung-cu-ha-nhiet-xuong-tien-luc-nay-can-luu-y-gi-20260823155351748.htm",
+        "title": "Lạng Sơn ngập sâu sau mưa lớn, có nơi nước dâng sát mái nhà",
+        "link": "https://dantri.com.vn/thoi-su/lang-son-ngap-sau-sau-mua-lon-co-noi-nuoc-dang-sat-mai-nha-20260823145503233.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
     {
         "category": "Trang chủ",
-        "title": "Nhà của \"ông già Bến Ngự\" xuống cấp, chờ bảo quản",
-        "link": "https://dantri.com.vn/du-lich/nha-cua-ong-gia-ben-ngu-xuong-cap-cho-bao-quan-20260822135725495.htm",
+        "title": "Lãi suất giảm, giá chung cư hạ nhiệt: Xuống tiền lúc này cần lưu ý gì?",
+        "link": "https://dantri.com.vn/bat-dong-san/lai-suat-giam-gia-chung-cu-ha-nhiet-xuong-tien-luc-nay-can-luu-y-gi-20260823155351748.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -141,6 +141,13 @@
     },
     {
         "category": "Trang chủ",
+        "title": "Xác định trọng tài điều khiển trận chung kết lượt về ASEAN Cup",
+        "link": "https://dantri.com.vn/the-thao/xac-dinh-trong-tai-dieu-khien-tran-chung-ket-luot-ve-asean-cup-20260823184230617.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
         "title": "Hơn 40.000 khán giả đổ về \"Tổ quốc trong tim\", rực sắc đỏ trước giờ diễn",
         "link": "https://dantri.com.vn/giai-tri/hon-40000-khan-gia-do-ve-to-quoc-trong-tim-ruc-sac-do-truoc-gio-dien-20260823184031505.htm",
         "published": "Mới cập nhật",
@@ -164,6 +171,13 @@
         "category": "Trang chủ",
         "title": "Tổng thống Ukraine nhìn thấy cơ hội chấm dứt xung đột với Nga",
         "link": "https://dantri.com.vn/the-gioi/tong-thong-ukraine-nhin-thay-co-hoi-cham-dut-xung-dot-voi-nga-20260823174450018.htm",
+        "published": "Mới cập nhật",
+        "summary": ""
+    },
+    {
+        "category": "Trang chủ",
+        "title": "Nhà của \"ông già Bến Ngự\" xuống cấp, chờ bảo quản",
+        "link": "https://dantri.com.vn/du-lich/nha-cua-ong-gia-ben-ngu-xuong-cap-cho-bao-quan-20260822135725495.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -402,13 +416,6 @@
         "category": "Trang chủ",
         "title": "Chuyên gia gợi ý văn khấn rằm tháng 7 năm 2026 theo văn hóa dân gian",
         "link": "https://dantri.com.vn/doi-song/chuyen-gia-goi-y-van-khan-ram-thang-7-nam-2026-theo-van-hoa-dan-gian-20260821181246881.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Xác định trọng tài điều khiển trận chung kết lượt về ASEAN Cup",
-        "link": "https://dantri.com.vn/the-thao/xac-dinh-trong-tai-dieu-khien-tran-chung-ket-luot-ve-asean-cup-20260823184230617.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -722,15 +729,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Hàng nghìn “fandom yêu nước” khuấy động phố đi bộ Nguyễn Huệ",
-        "link": "https://dantri.com.vn/giai-tri/hang-nghin-fandom-yeu-nuoc-khuay-dong-pho-di-bo-nguyen-hue-20260823193246024.htm",
-        "published": "Mới cập nhật",
-        "summary": ""
-    },
-    {
-        "category": "Trang chủ",
-        "title": "Chủ tịch Quốc hội Trần Thanh Mẫn hội đàm với Chủ tịch Quốc hội Bờ Biển Ngà",
-        "link": "https://dantri.com.vn/thoi-su/chu-tich-quoc-hoi-tran-thanh-man-hoi-dam-voi-chu-tich-quoc-hoi-bo-bien-nga-20260823184555202.htm",
+        "title": "Chủ tịch Quốc hội Bờ Biển Ngà tham quan Nhà Quốc hội Việt Nam",
+        "link": "https://dantri.com.vn/thoi-su/chu-tich-quoc-hoi-bo-bien-nga-tham-quan-nha-quoc-hoi-viet-nam-20260823192109555.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -806,8 +806,8 @@
     },
     {
         "category": "Trang chủ",
-        "title": "Phát hiện ô tô chở gần 15.000 bao thuốc lá nhập lậu ở Tây Ninh",
-        "link": "https://dantri.com.vn/phap-luat/phat-hien-o-to-cho-gan-15000-bao-thuoc-la-nhap-lau-o-tay-ninh-20260823161549263.htm",
+        "title": "Từ clip trên mạng, 2 cha con bị phạt 16,5 triệu đồng do vi phạm giao thông",
+        "link": "https://dantri.com.vn/phap-luat/tu-clip-tren-mang-2-cha-con-bi-phat-165-trieu-dong-do-vi-pham-giao-thong-20260823205929914.htm",
         "published": "Mới cập nhật",
         "summary": ""
     },
@@ -960,10 +960,24 @@
     },
     {
         "category": "Xã hội",
+        "title": "Hơn 2.300 hộ dân ở 4 địa phương được sơ tán đến nơi an toàn tránh mưa ngập",
+        "link": "https://dantri.com.vn/thoi-su/hon-2300-ho-dan-o-4-dia-phuong-duoc-so-tan-den-noi-an-toan-tranh-mua-ngap-20260823211346208.htm",
+        "published": "Mới cập nhật",
+        "summary": "Lạng Sơn, Quảng Ninh, Bắc Ninh và Thanh Hóa đã sơ tán hơn 2.300 hộ dân đến nơi an toàn, phòng tránh mưa ngập và ảnh hưởng của bão số 4 (Narra)."
+    },
+    {
+        "category": "Xã hội",
         "title": "Nữ sinh ở TPHCM bị taxi tông tử vong gần cầu Ba Son",
         "link": "https://dantri.com.vn/thoi-su/nu-sinh-o-tphcm-bi-taxi-tong-tu-vong-gan-cau-ba-son-20260823190102756.htm",
         "published": "Mới cập nhật",
         "summary": "Nam tài xế lái chiếc taxi rẽ phải gần cầu Ba Son, phường An Khánh (TPHCM), xảy ra va chạm với xe máy khiến một nữ sinh tử vong."
+    },
+    {
+        "category": "Xã hội",
+        "title": "Chủ tịch Quốc hội Trần Thanh Mẫn hội đàm với Chủ tịch Quốc hội Bờ Biển Ngà",
+        "link": "https://dantri.com.vn/thoi-su/chu-tich-quoc-hoi-tran-thanh-man-hoi-dam-voi-chu-tich-quoc-hoi-bo-bien-nga-20260823184555202.htm",
+        "published": "Mới cập nhật",
+        "summary": "Chiều 23/8, Chủ tịch Quốc hội Trần Thanh Mẫn đã chủ trì lễ đón Chủ tịch Quốc hội Bờ Biển Ngà Patrick Achi thăm chính thức Việt Nam."
     },
     {
         "category": "Xã hội",
@@ -985,27 +999,6 @@
         "link": "https://dantri.com.vn/thoi-su/co-so-vat-ly-tri-lieu-o-tphcm-im-lim-sau-khi-chu-bi-to-quay-roi-tinh-duc-20260823151307005.htm",
         "published": "Mới cập nhật",
         "summary": "Cơ sở vật lý trị liệu trên đường Phạm Ngũ Lão (phường Hạnh Thông) đóng cửa im lìm sau khi người chủ bị một cô gái tố bị quấy rối tình dục. Gần 2 tháng sau khi trình báo, vụ việc vẫn chưa có kết quả."
-    },
-    {
-        "category": "Xã hội",
-        "title": "Xe giường nằm nát đầu sau tai nạn liên hoàn giữa ngã tư ở TPHCM",
-        "link": "https://dantri.com.vn/thoi-su/xe-giuong-nam-nat-dau-sau-tai-nan-lien-hoan-giua-nga-tu-o-tphcm-20260823135859033.htm",
-        "published": "Mới cập nhật",
-        "summary": "Vụ tai nạn liên hoàn giữa 3 ô tô trên đường Tạo Lực Bắc Tân Uyên - Phú Giáo - Bàu Bàng, xã An Long (TPHCM), khiến các xe hư hỏng, may mắn không có thương vong."
-    },
-    {
-        "category": "Xã hội",
-        "title": "Đồng Tháp xử lý nghiêm việc phát tán tài liệu giả về sắp xếp cấp xã lần 2",
-        "link": "https://dantri.com.vn/thoi-su/dong-thap-xu-ly-nghiem-viec-phat-tan-tai-lieu-gia-ve-sap-xep-cap-xa-lan-2-20260823100920043.htm",
-        "published": "Mới cập nhật",
-        "summary": "Trên không gian mạng đang lan truyền tài liệu “Đề án giả định sắp xếp đơn vị hành chính cấp xã tỉnh Đồng Tháp lần 2”, kèm thông tin “Tỉnh đang lấy ý kiến nhân dân”, gây dư luận trái chiều."
-    },
-    {
-        "category": "Xã hội",
-        "title": "Ô tô con cháy trơ khung trên đèo Bảo Lộc",
-        "link": "https://dantri.com.vn/thoi-su/o-to-con-chay-tro-khung-tren-deo-bao-loc-20260823105524495.htm",
-        "published": "Mới cập nhật",
-        "summary": "Đang di chuyển trên đường đèo Bảo Lộc, nam tài xế phát hiện ô tô bốc cháy nên dừng phương tiện, đưa 2 phụ nữ và một trẻ em thoát ra ngoài."
     },
     {
         "category": "Xã hội",
@@ -2647,6 +2640,13 @@
     },
     {
         "category": "Giải trí",
+        "title": "Hàng nghìn “fandom yêu nước” khuấy động phố đi bộ Nguyễn Huệ",
+        "link": "https://dantri.com.vn/giai-tri/hang-nghin-fandom-yeu-nuoc-khuay-dong-pho-di-bo-nguyen-hue-20260823193246024.htm",
+        "published": "Mới cập nhật",
+        "summary": "Ngoài tâm điểm tại khu đô thị Vạn Phúc, nhiều người từ sáng sớm đã đến phố đi bộ Nguyễn Huệ giao lưu cùng nghệ sĩ, trước khi trở về sân khấu chính concert quốc gia “Tổ quốc trong tim” lúc 20h."
+    },
+    {
+        "category": "Giải trí",
         "title": "\"Mợ ngố\" Song Ji Hyo mê hột vịt lộn, khen nghệ sĩ Việt giàu năng lượng",
         "link": "https://dantri.com.vn/giai-tri/mo-ngo-song-ji-hyo-me-hot-vit-lon-khen-nghe-si-viet-giau-nang-luong-20260823164350143.htm",
         "published": "Mới cập nhật",
@@ -3305,6 +3305,13 @@
     },
     {
         "category": "Pháp luật",
+        "title": "Phát hiện ô tô chở gần 15.000 bao thuốc lá nhập lậu ở Tây Ninh",
+        "link": "https://dantri.com.vn/phap-luat/phat-hien-o-to-cho-gan-15000-bao-thuoc-la-nhap-lau-o-tay-ninh-20260823161549263.htm",
+        "published": "Mới cập nhật",
+        "summary": "Đang lái ô tô chở thuốc lá nhập lậu tại xã Đông Thành (Tây Ninh), Q.A. dừng xe, mở cửa bỏ chạy khi thấy lực lượng chức năng."
+    },
+    {
+        "category": "Pháp luật",
         "title": "Người đàn ông bị 4 đối tượng bắt giữ, còng tay ép ký giấy nợ",
         "link": "https://dantri.com.vn/phap-luat/nguoi-dan-ong-bi-4-doi-tuong-bat-giu-cong-tay-ep-ky-giay-no-20260823143353175.htm",
         "published": "Mới cập nhật",
@@ -3379,13 +3386,6 @@
         "link": "https://dantri.com.vn/phap-luat/nhan-an-10-thang-tu-giam-vi-mua-ban-thong-tin-tai-khoan-ngan-hang-20260822161146111.htm",
         "published": "Mới cập nhật",
         "summary": "Đứng tên mở bán 14 tài khoản ngân hàng và hướng dẫn 10 cá nhân mở bán 62 tài khoản ngân hàng, Nguyễn Hữu Khánh bị tuyên 10 tháng tù về tội Mua bán trái phép thông tin về tài khoản ngân hàng."
-    },
-    {
-        "category": "Pháp luật",
-        "title": "Dụ dỗ người bán vé số ở TPHCM đi nhận quà từ thiện rồi cướp tài sản",
-        "link": "https://dantri.com.vn/phap-luat/du-do-nguoi-ban-ve-so-o-tphcm-di-nhan-qua-tu-thien-roi-cuop-tai-san-20260822181913229.htm",
-        "published": "Mới cập nhật",
-        "summary": "Gã đàn ông dụ dỗ người phụ nữ bán vé số dạo lên xe để chở đi nhận quà từ thiện. Tuy nhiên, kẻ gian sau đó đưa nạn nhân vào hẻm rồi chiếm đoạt túi xách."
     },
     {
         "category": "Pháp luật",
